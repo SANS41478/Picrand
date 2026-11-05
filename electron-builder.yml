@@ -1,0 +1,77 @@
+appId: com.picrand.app
+productName: PicRand
+directories:
+  output: release
+files:
+  - out
+  - dist
+  - resources
+  - node_modules
+  - package.json
+  # 排除 transformers.js 自带的旧版 sharp（0.32.6），避免和项目顶级 sharp（0.33.5）的 libvips DLL 冲突
+  - "!node_modules/@xenova/transformers/node_modules/sharp"
+  - "!node_modules/@xenova/transformers/node_modules/@img"
+  # 排除 onnxruntime-node 非 Win x64 二进制（Win x64 包不需要 darwin/linux/win32-arm64）
+  # ★维护提醒：onnxruntime-node 升级后 NAPI 版本目录若变（如 napi-v7），需同步更新下列路径★
+  - "!node_modules/onnxruntime-node/bin/napi-v6/darwin"
+  - "!node_modules/onnxruntime-node/bin/napi-v6/linux"
+  - "!node_modules/onnxruntime-node/bin/napi-v6/win32/arm64"
+  # 排除 onnxruntime-web 的 WASM 二进制（~37MB）+ source maps（~15MB）
+  - "!node_modules/onnxruntime-web/dist/*.wasm"
+  - "!node_modules/onnxruntime-web/dist/*.map"
+  - "!node_modules/@xenova/transformers/node_modules/onnxruntime-web"
+  # 排除 transformers.js 内嵌 onnxruntime-node 非 Win x64 二进制（仅用 tokenizer 但需保留模块解析能力）
+  - "!node_modules/@xenova/transformers/node_modules/onnxruntime-node/bin/napi-v3/darwin"
+  - "!node_modules/@xenova/transformers/node_modules/onnxruntime-node/bin/napi-v3/linux"
+  - "!node_modules/@xenova/transformers/node_modules/onnxruntime-node/bin/napi-v3/win32/arm64"
+  # 排除 transformers.js 的浏览器 WASM 后端（4 个 ~38MB，Electron 主进程走原生 onnxruntime）
+  - "!node_modules/@xenova/transformers/dist/ort-wasm*.wasm"
+asar: false
+compression: store
+electronLanguages:
+  - zh-CN
+  - zh-TW
+  - en-US
+  - ja
+  - es-ES
+  - es-419
+  - pt-PT
+  - pt-BR
+extraResources:
+  - from: resources/
+    to: ../_internal_data/
+    filter:
+      - icon.ico
+      - icon.png
+      - config.json
+  # A 批1：仅打包 CLIP 子模型与配置，排除 model_quantized.onnx（147M 合并版死重，代码不读）
+  - from: _internal_data/models/
+    to: ../_internal_data/models/
+    filter:
+      - "**/*"
+      - "!**/model_quantized.onnx"
+  - from: refboard-d2d/build/Release/
+    to: refboard/
+    filter:
+      - RefBoardHost.exe
+  - from: licenses/
+    to: licenses/
+    filter:
+      - LICENSES.txt
+      - THIRD_PARTY.txt
+  - from: LICENSE
+    to: ../LICENSE
+win:
+  icon: resources/icon.png
+  target:
+    - target: zip
+      arch: [x64]
+  forceCodeSigning: false
+  signAndEditExecutable: false
+  signDlls: false
+  signtoolOptions: null
+  artifactName: ${productName}-${version}-win64.${ext}
+afterPack: scripts/apply-icon.cjs
+nsis:
+  oneClick: false
+  allowToChangeInstallationDirectory: true

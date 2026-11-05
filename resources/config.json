@@ -1,0 +1,12 @@
+{
+  "columns": 4,
+  "picRadius": 8,
+  "picGap": 12,
+  "picShadow": "heavy",
+  "themeColor": "#faf5ef",
+  "sortMode": "random",
+  "defaultSortMode": "random",
+  "driftTopN": 10,
+  "driftSeedRank": 2,
+  "colorRef": "traditional"
+}

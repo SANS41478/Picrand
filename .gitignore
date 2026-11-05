@@ -1,0 +1,8 @@
+node_modules/
+dist/
+dist-electron/
+out/
+/release/
+_internal_data/
+*.db
+*.obj

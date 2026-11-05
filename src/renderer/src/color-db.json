@@ -1,0 +1,9544 @@
+[
+  {
+    "hex": "#80543F",
+    "name": "赭石",
+    "source": "中",
+    "en": "Ochre",
+    "zh-Hant": "赭石"
+  },
+  {
+    "hex": "#714E37",
+    "name": "砖褐",
+    "source": "中",
+    "en": "Brick Brown",
+    "zh-Hant": "砖褐"
+  },
+  {
+    "hex": "#6C4838",
+    "name": "褐色",
+    "source": "中",
+    "en": "Brown",
+    "zh-Hant": "褐色"
+  },
+  {
+    "hex": "#503935",
+    "name": "枣褐",
+    "source": "中",
+    "en": "Date Brown",
+    "zh-Hant": "棗褐"
+  },
+  {
+    "hex": "#9F8F7E",
+    "name": "鼠毛褐",
+    "source": "中",
+    "en": "Mouse Fur Brown",
+    "zh-Hant": "鼠毛褐"
+  },
+  {
+    "hex": "#755B36",
+    "name": "茶褐",
+    "source": "中",
+    "en": "Tea Brown",
+    "zh-Hant": "茶褐"
+  },
+  {
+    "hex": "#604C3C",
+    "name": "黄褐",
+    "source": "中",
+    "en": "Yellow Brown",
+    "zh-Hant": "黃褐"
+  },
+  {
+    "hex": "#C39488",
+    "name": "浅褐",
+    "source": "中",
+    "en": "Light Brown",
+    "zh-Hant": "淺褐"
+  },
+  {
+    "hex": "#AF6664",
+    "name": "荆褐",
+    "source": "中",
+    "en": "Thorn Brown",
+    "zh-Hant": "荆褐"
+  },
+  {
+    "hex": "#B9A297",
+    "name": "棕灰",
+    "source": "中",
+    "en": "Brown Gray",
+    "zh-Hant": "棕灰"
+  },
+  {
+    "hex": "#AA7D6E",
+    "name": "浅棕",
+    "source": "中",
+    "en": "Light Brown",
+    "zh-Hant": "淺棕"
+  },
+  {
+    "hex": "#B37660",
+    "name": "棕色",
+    "source": "中",
+    "en": "Brown",
+    "zh-Hant": "棕色"
+  },
+  {
+    "hex": "#7B5F56",
+    "name": "黄棕",
+    "source": "中",
+    "en": "Yellow Brown",
+    "zh-Hant": "黃棕"
+  },
+  {
+    "hex": "#6B3F38",
+    "name": "棕红",
+    "source": "中",
+    "en": "Brown Red",
+    "zh-Hant": "棕紅"
+  },
+  {
+    "hex": "#52413B",
+    "name": "棕黑",
+    "source": "中",
+    "en": "Brown Black",
+    "zh-Hant": "棕黑"
+  },
+  {
+    "hex": "#DCC9D5",
+    "name": "粉白",
+    "source": "中",
+    "en": "Powder White",
+    "zh-Hant": "粉白"
+  },
+  {
+    "hex": "#E2BED6",
+    "name": "粉",
+    "source": "中",
+    "en": "Pink",
+    "zh-Hant": "粉"
+  },
+  {
+    "hex": "#F1C8C6",
+    "name": "肉红",
+    "source": "中",
+    "en": "Flesh Red",
+    "zh-Hant": "肉紅"
+  },
+  {
+    "hex": "#EFBDB8",
+    "name": "藕红",
+    "source": "中",
+    "en": "Lotus Red",
+    "zh-Hant": "藕紅"
+  },
+  {
+    "hex": "#ECB1B4",
+    "name": "妃红",
+    "source": "中",
+    "en": "Concubine Crimson",
+    "zh-Hant": "妃紅"
+  },
+  {
+    "hex": "#E6B3BE",
+    "name": "粉红",
+    "source": "中",
+    "en": "Pink",
+    "zh-Hant": "粉紅"
+  },
+  {
+    "hex": "#ED9590",
+    "name": "粉胭脂",
+    "source": "中",
+    "en": "Powder Rouge",
+    "zh-Hant": "粉胭脂"
+  },
+  {
+    "hex": "#D89FC5",
+    "name": "荷花",
+    "source": "中",
+    "en": "Lotus Pink",
+    "zh-Hant": "荷花"
+  },
+  {
+    "hex": "#C17E8E",
+    "name": "银红",
+    "source": "中",
+    "en": "Silver Red",
+    "zh-Hant": "銀紅"
+  },
+  {
+    "hex": "#CF708F",
+    "name": "桃红",
+    "source": "中",
+    "en": "Peach Red",
+    "zh-Hant": "桃紅"
+  },
+  {
+    "hex": "#AF5994",
+    "name": "洋红",
+    "source": "中",
+    "en": "Magenta",
+    "zh-Hant": "洋紅"
+  },
+  {
+    "hex": "#DA6B63",
+    "name": "橙红",
+    "source": "中",
+    "en": "Orange Red",
+    "zh-Hant": "橙紅"
+  },
+  {
+    "hex": "#D35C63",
+    "name": "红",
+    "source": "中",
+    "en": "Red",
+    "zh-Hant": "紅"
+  },
+  {
+    "hex": "#D55049",
+    "name": "石榴红",
+    "source": "中",
+    "en": "Garnet Red",
+    "zh-Hant": "石榴紅"
+  },
+  {
+    "hex": "#D05232",
+    "name": "朱红",
+    "source": "中",
+    "en": "Vermilion",
+    "zh-Hant": "朱紅"
+  },
+  {
+    "hex": "#B54F4B",
+    "name": "朱砂",
+    "source": "中",
+    "en": "Cinnabar",
+    "zh-Hant": "朱砂"
+  },
+  {
+    "hex": "#BD3E4D",
+    "name": "海棠红",
+    "source": "中",
+    "en": "Begonia Red",
+    "zh-Hant": "海棠紅"
+  },
+  {
+    "hex": "#AB4B5D",
+    "name": "茜红",
+    "source": "中",
+    "en": "Madder Red",
+    "zh-Hant": "茜紅"
+  },
+  {
+    "hex": "#B63F47",
+    "name": "猩红",
+    "source": "中",
+    "en": "Scarlet",
+    "zh-Hant": "猩紅"
+  },
+  {
+    "hex": "#C03530",
+    "name": "朱(大红)",
+    "source": "中",
+    "en": "Vermilion",
+    "zh-Hant": "朱(大紅)"
+  },
+  {
+    "hex": "#A74330",
+    "name": "赭红",
+    "source": "中",
+    "en": "Ochre Red",
+    "zh-Hant": "赭紅"
+  },
+  {
+    "hex": "#9A3A37",
+    "name": "殷红",
+    "source": "中",
+    "en": "Dark Crimson",
+    "zh-Hant": "殷紅"
+  },
+  {
+    "hex": "#9D3630",
+    "name": "枣红",
+    "source": "中",
+    "en": "Date Red",
+    "zh-Hant": "棗紅"
+  },
+  {
+    "hex": "#9F2F3D",
+    "name": "深红",
+    "source": "中",
+    "en": "Deep Red",
+    "zh-Hant": "深紅"
+  },
+  {
+    "hex": "#913435",
+    "name": "木红",
+    "source": "中",
+    "en": "Wood Red",
+    "zh-Hant": "木紅"
+  },
+  {
+    "hex": "#913138",
+    "name": "莲红",
+    "source": "中",
+    "en": "Lotus Red",
+    "zh-Hant": "蓮紅"
+  },
+  {
+    "hex": "#91304B",
+    "name": "胭脂红",
+    "source": "中",
+    "en": "Carmine",
+    "zh-Hant": "胭脂紅"
+  },
+  {
+    "hex": "#FF954B",
+    "name": "杏黄",
+    "source": "中",
+    "en": "Apricot Yellow",
+    "zh-Hant": "杏黃"
+  },
+  {
+    "hex": "#FF8849",
+    "name": "桔黄",
+    "source": "中",
+    "en": "Orange Yellow",
+    "zh-Hant": "桔黃"
+  },
+  {
+    "hex": "#E5775A",
+    "name": "柿黄",
+    "source": "中",
+    "en": "Persimmon Yellow",
+    "zh-Hant": "柿黃"
+  },
+  {
+    "hex": "#CE7957",
+    "name": "雄黄",
+    "source": "中",
+    "en": "Realgar",
+    "zh-Hant": "雄黃"
+  },
+  {
+    "hex": "#ED5E28",
+    "name": "桔红",
+    "source": "中",
+    "en": "Orange Red",
+    "zh-Hant": "桔紅"
+  },
+  {
+    "hex": "#FAE3D1",
+    "name": "牙色",
+    "source": "中",
+    "en": "Ivory",
+    "zh-Hant": "牙色"
+  },
+  {
+    "hex": "#F8E5AF",
+    "name": "淡黄",
+    "source": "中",
+    "en": "Pale Yellow",
+    "zh-Hant": "淡黃"
+  },
+  {
+    "hex": "#F2E1CE",
+    "name": "槐花",
+    "source": "中",
+    "en": "Primrose Yellow",
+    "zh-Hant": "槐花"
+  },
+  {
+    "hex": "#E9E3D4",
+    "name": "米黄(米色)",
+    "source": "中",
+    "en": "Beige",
+    "zh-Hant": "米黃(米色)"
+  },
+  {
+    "hex": "#F7E080",
+    "name": "嫩黄",
+    "source": "中",
+    "en": "Tender Yellow",
+    "zh-Hant": "嫩黃"
+  },
+  {
+    "hex": "#FED794",
+    "name": "蜜黄",
+    "source": "中",
+    "en": "Honey Yellow",
+    "zh-Hant": "蜜黃"
+  },
+  {
+    "hex": "#F4C200",
+    "name": "黄",
+    "source": "中",
+    "en": "Yellow",
+    "zh-Hant": "黃"
+  },
+  {
+    "hex": "#E2C700",
+    "name": "青黄",
+    "source": "中",
+    "en": "Green Yellow",
+    "zh-Hant": "青黃"
+  },
+  {
+    "hex": "#CEC38F",
+    "name": "柳黄",
+    "source": "中",
+    "en": "Willow Yellow",
+    "zh-Hant": "柳黃"
+  },
+  {
+    "hex": "#F3BE88",
+    "name": "石黄",
+    "source": "中",
+    "en": "Stone Yellow",
+    "zh-Hant": "石黃"
+  },
+  {
+    "hex": "#FFB852",
+    "name": "鹅黄",
+    "source": "中",
+    "en": "Goose Yellow",
+    "zh-Hant": "鵝黃"
+  },
+  {
+    "hex": "#F9BA2C",
+    "name": "明黄",
+    "source": "中",
+    "en": "Bright Yellow",
+    "zh-Hant": "明黃"
+  },
+  {
+    "hex": "#F4B393",
+    "name": "赤黄",
+    "source": "中",
+    "en": "Red Yellow",
+    "zh-Hant": "赤黃"
+  },
+  {
+    "hex": "#F5B61D",
+    "name": "中黄",
+    "source": "中",
+    "en": "Medium Yellow",
+    "zh-Hant": "中黃"
+  },
+  {
+    "hex": "#F99A00",
+    "name": "葵黄",
+    "source": "中",
+    "en": "Sunflower Yellow",
+    "zh-Hant": "葵黃"
+  },
+  {
+    "hex": "#D2A390",
+    "name": "驼色",
+    "source": "中",
+    "en": "Camel",
+    "zh-Hant": "驼色"
+  },
+  {
+    "hex": "#BD9D6F",
+    "name": "灰黄",
+    "source": "中",
+    "en": "Gray Yellow",
+    "zh-Hant": "灰黃"
+  },
+  {
+    "hex": "#DD8A2C",
+    "name": "深黄",
+    "source": "中",
+    "en": "Deep Yellow",
+    "zh-Hant": "深黃"
+  },
+  {
+    "hex": "#D18D11",
+    "name": "土黄",
+    "source": "中",
+    "en": "Earth Yellow",
+    "zh-Hant": "土黃"
+  },
+  {
+    "hex": "#CD912F",
+    "name": "藤黄",
+    "source": "中",
+    "en": "Gamboge",
+    "zh-Hant": "藤黃"
+  },
+  {
+    "hex": "#B68A4B",
+    "name": "秋香色",
+    "source": "中",
+    "en": "Olive Ochre",
+    "zh-Hant": "秋香色"
+  },
+  {
+    "hex": "#97836F",
+    "name": "泥灰",
+    "source": "中",
+    "en": "Mud Gray",
+    "zh-Hant": "泥灰"
+  },
+  {
+    "hex": "#AB7A3C",
+    "name": "姜黄",
+    "source": "中",
+    "en": "Ginger Yellow",
+    "zh-Hant": "姜黃"
+  },
+  {
+    "hex": "#815C35",
+    "name": "香黄",
+    "source": "中",
+    "en": "Warm Amber",
+    "zh-Hant": "香黃"
+  },
+  {
+    "hex": "#ADD3B8",
+    "name": "枝绿",
+    "source": "中",
+    "en": "Branch Green",
+    "zh-Hant": "枝綠"
+  },
+  {
+    "hex": "#BDD36A",
+    "name": "嫩绿",
+    "source": "中",
+    "en": "Tender Green",
+    "zh-Hant": "嫩綠"
+  },
+  {
+    "hex": "#BCCFA6",
+    "name": "玉色",
+    "source": "中",
+    "en": "Jade",
+    "zh-Hant": "玉色"
+  },
+  {
+    "hex": "#69CFB0",
+    "name": "鹦哥绿",
+    "source": "中",
+    "en": "Parrot Green",
+    "zh-Hant": "鹦哥綠"
+  },
+  {
+    "hex": "#8BC9A0",
+    "name": "三绿",
+    "source": "中",
+    "en": "Light Malachite",
+    "zh-Hant": "三綠"
+  },
+  {
+    "hex": "#B6BC13",
+    "name": "浅草绿",
+    "source": "中",
+    "en": "Light Grass Green",
+    "zh-Hant": "淺草綠"
+  },
+  {
+    "hex": "#99B775",
+    "name": "柳绿",
+    "source": "中",
+    "en": "Willow Green",
+    "zh-Hant": "柳綠"
+  },
+  {
+    "hex": "#81B345",
+    "name": "明绿",
+    "source": "中",
+    "en": "Mint Meadow",
+    "zh-Hant": "明綠"
+  },
+  {
+    "hex": "#74BC9C",
+    "name": "石绿",
+    "source": "中",
+    "en": "Stone Green",
+    "zh-Hant": "石綠"
+  },
+  {
+    "hex": "#34B394",
+    "name": "碧绿",
+    "source": "中",
+    "en": "Emerald Green",
+    "zh-Hant": "碧綠"
+  },
+  {
+    "hex": "#28B2A0",
+    "name": "湖色",
+    "source": "中",
+    "en": "Lake",
+    "zh-Hant": "湖色"
+  },
+  {
+    "hex": "#ACA23D",
+    "name": "秋香绿",
+    "source": "中",
+    "en": "Antique Moss",
+    "zh-Hant": "秋香綠"
+  },
+  {
+    "hex": "#89AA5B",
+    "name": "葱根绿",
+    "source": "中",
+    "en": "Scallion Root Green",
+    "zh-Hant": "蔥根綠"
+  },
+  {
+    "hex": "#8EA076",
+    "name": "豆绿",
+    "source": "中",
+    "en": "Pea Green",
+    "zh-Hant": "豆綠"
+  },
+  {
+    "hex": "#889790",
+    "name": "灰绿",
+    "source": "中",
+    "en": "Gray Green",
+    "zh-Hant": "灰綠"
+  },
+  {
+    "hex": "#6D9C89",
+    "name": "沙绿",
+    "source": "中",
+    "en": "Sand Green",
+    "zh-Hant": "沙綠"
+  },
+  {
+    "hex": "#57946C",
+    "name": "艾绿",
+    "source": "中",
+    "en": "Mugwort Green",
+    "zh-Hant": "艾綠"
+  },
+  {
+    "hex": "#569452",
+    "name": "果绿",
+    "source": "中",
+    "en": "Fruit Green",
+    "zh-Hant": "果綠"
+  },
+  {
+    "hex": "#6A8F56",
+    "name": "草绿",
+    "source": "中",
+    "en": "Grass Green",
+    "zh-Hant": "草綠"
+  },
+  {
+    "hex": "#8D8552",
+    "name": "黄绿",
+    "source": "中",
+    "en": "Yellow Green",
+    "zh-Hant": "黃綠"
+  },
+  {
+    "hex": "#009854",
+    "name": "青翠",
+    "source": "中",
+    "en": "Verdant",
+    "zh-Hant": "青翠"
+  },
+  {
+    "hex": "#008D63",
+    "name": "祖母绿",
+    "source": "中",
+    "en": "Emerald",
+    "zh-Hant": "祖母綠"
+  },
+  {
+    "hex": "#467741",
+    "name": "中绿",
+    "source": "中",
+    "en": "Medium Green",
+    "zh-Hant": "中綠"
+  },
+  {
+    "hex": "#00796E",
+    "name": "官绿",
+    "source": "中",
+    "en": "Official Green",
+    "zh-Hant": "官綠"
+  },
+  {
+    "hex": "#756633",
+    "name": "橄榄绿",
+    "source": "中",
+    "en": "Olive Green",
+    "zh-Hant": "橄榄綠"
+  },
+  {
+    "hex": "#636250",
+    "name": "茶绿",
+    "source": "中",
+    "en": "Tea Green",
+    "zh-Hant": "茶綠"
+  },
+  {
+    "hex": "#0E6954",
+    "name": "蘋婆绿",
+    "source": "中",
+    "en": "Apple Green",
+    "zh-Hant": "蘋婆綠"
+  },
+  {
+    "hex": "#4B604F",
+    "name": "墨绿",
+    "source": "中",
+    "en": "Dark Green",
+    "zh-Hant": "墨綠"
+  },
+  {
+    "hex": "#48544A",
+    "name": "油绿",
+    "source": "中",
+    "en": "Glossy Avocado",
+    "zh-Hant": "油綠"
+  },
+  {
+    "hex": "#52503D",
+    "name": "赭绿",
+    "source": "中",
+    "en": "Ochre Green",
+    "zh-Hant": "赭綠"
+  },
+  {
+    "hex": "#12593B",
+    "name": "大绿",
+    "source": "中",
+    "en": "Rich Malachite",
+    "zh-Hant": "大綠"
+  },
+  {
+    "hex": "#CCE5E2",
+    "name": "月白",
+    "source": "中",
+    "en": "Moonlight Blue",
+    "zh-Hant": "月白"
+  },
+  {
+    "hex": "#CBE6E5",
+    "name": "蛋青",
+    "source": "中",
+    "en": "Pale Celadon",
+    "zh-Hant": "蛋青"
+  },
+  {
+    "hex": "#BBDDE3",
+    "name": "豆青",
+    "source": "中",
+    "en": "Bean Green",
+    "zh-Hant": "豆青"
+  },
+  {
+    "hex": "#6EC9D0",
+    "name": "二青",
+    "source": "中",
+    "en": "Second Blue",
+    "zh-Hant": "二青"
+  },
+  {
+    "hex": "#6DB8D6",
+    "name": "深青",
+    "source": "中",
+    "en": "Deep Cyan",
+    "zh-Hant": "深青"
+  },
+  {
+    "hex": "#63BBC8",
+    "name": "青",
+    "source": "中",
+    "en": "Blue",
+    "zh-Hant": "青"
+  },
+  {
+    "hex": "#55ACC5",
+    "name": "天青",
+    "source": "中",
+    "en": "Cerulean Blue",
+    "zh-Hant": "天青"
+  },
+  {
+    "hex": "#679CA3",
+    "name": "蟹青",
+    "source": "中",
+    "en": "Muted Teal",
+    "zh-Hant": "蟹青"
+  },
+  {
+    "hex": "#659AA6",
+    "name": "竹根青",
+    "source": "中",
+    "en": "Bamboo Root Cyan",
+    "zh-Hant": "竹根青"
+  },
+  {
+    "hex": "#80979F",
+    "name": "虾青",
+    "source": "中",
+    "en": "Slate Aqua",
+    "zh-Hant": "蝦青"
+  },
+  {
+    "hex": "#738B95",
+    "name": "砖青",
+    "source": "中",
+    "en": "Ash Gray-Blue",
+    "zh-Hant": "砖青"
+  },
+  {
+    "hex": "#73898E",
+    "name": "黑青",
+    "source": "中",
+    "en": "Midnight Cyan",
+    "zh-Hant": "黑青"
+  },
+  {
+    "hex": "#556F91",
+    "name": "花青",
+    "source": "中",
+    "en": "Flower Blue",
+    "zh-Hant": "花青"
+  },
+  {
+    "hex": "#9CD3CE",
+    "name": "湖蓝",
+    "source": "中",
+    "en": "Cyanine Blue",
+    "zh-Hant": "湖藍"
+  },
+  {
+    "hex": "#A3D5EC",
+    "name": "浅蓝",
+    "source": "中",
+    "en": "Light Blue",
+    "zh-Hant": "淺藍"
+  },
+  {
+    "hex": "#9DC1DC",
+    "name": "淡蓝",
+    "source": "中",
+    "en": "Light Blue",
+    "zh-Hant": "淡藍"
+  },
+  {
+    "hex": "#86C4EB",
+    "name": "天蓝",
+    "source": "中",
+    "en": "Sky Blue",
+    "zh-Hant": "天藍"
+  },
+  {
+    "hex": "#44ADD7",
+    "name": "石蓝",
+    "source": "中",
+    "en": "Stone Blue",
+    "zh-Hant": "石藍"
+  },
+  {
+    "hex": "#0094BF",
+    "name": "蓝翠",
+    "source": "中",
+    "en": "Mazarine Teal",
+    "zh-Hant": "藍翠"
+  },
+  {
+    "hex": "#0091C7",
+    "name": "海蓝",
+    "source": "中",
+    "en": "Sea Blue",
+    "zh-Hant": "海藍"
+  },
+  {
+    "hex": "#0068AF",
+    "name": "钴蓝",
+    "source": "中",
+    "en": "Cobalt Blue",
+    "zh-Hant": "鈷藍"
+  },
+  {
+    "hex": "#566D8F",
+    "name": "蓝灰",
+    "source": "中",
+    "en": "Blue Gray",
+    "zh-Hant": "藍灰"
+  },
+  {
+    "hex": "#006F90",
+    "name": "宝蓝",
+    "source": "中",
+    "en": "Royal Blue",
+    "zh-Hant": "寶藍"
+  },
+  {
+    "hex": "#005791",
+    "name": "靛蓝",
+    "source": "中",
+    "en": "Indigo",
+    "zh-Hant": "靛藍"
+  },
+  {
+    "hex": "#215588",
+    "name": "普蓝",
+    "source": "中",
+    "en": "Prussian Blue",
+    "zh-Hant": "普藍"
+  },
+  {
+    "hex": "#10516D",
+    "name": "深蓝",
+    "source": "中",
+    "en": "Deep Blue",
+    "zh-Hant": "深藍"
+  },
+  {
+    "hex": "#1C4A5C",
+    "name": "藏蓝",
+    "source": "中",
+    "en": "Navy Blue",
+    "zh-Hant": "藏藍"
+  },
+  {
+    "hex": "#353847",
+    "name": "蓝黑",
+    "source": "中",
+    "en": "Blue Black",
+    "zh-Hant": "藍黑"
+  },
+  {
+    "hex": "#B0AAC1",
+    "name": "雪青",
+    "source": "中",
+    "en": "Pale Wisteria",
+    "zh-Hant": "雪青"
+  },
+  {
+    "hex": "#B5A8CD",
+    "name": "丁香紫",
+    "source": "中",
+    "en": "Lilac",
+    "zh-Hant": "丁香紫"
+  },
+  {
+    "hex": "#9C9BCF",
+    "name": "粉紫",
+    "source": "中",
+    "en": "Pink Purple",
+    "zh-Hant": "粉紫"
+  },
+  {
+    "hex": "#8096D0",
+    "name": "淡紫",
+    "source": "中",
+    "en": "Pale Purple",
+    "zh-Hant": "淡紫"
+  },
+  {
+    "hex": "#9C8CBE",
+    "name": "紫粉",
+    "source": "中",
+    "en": "Purple Pink",
+    "zh-Hant": "紫粉"
+  },
+  {
+    "hex": "#8E8EC7",
+    "name": "青莲",
+    "source": "中",
+    "en": "Royal Violet",
+    "zh-Hant": "青蓮"
+  },
+  {
+    "hex": "#8B8296",
+    "name": "藕褐",
+    "source": "中",
+    "en": "Lotus Brown",
+    "zh-Hant": "藕褐"
+  },
+  {
+    "hex": "#7F7D91",
+    "name": "莲灰",
+    "source": "中",
+    "en": "Lotus Gray",
+    "zh-Hant": "蓮灰"
+  },
+  {
+    "hex": "#605D9D",
+    "name": "紫",
+    "source": "中",
+    "en": "Purple",
+    "zh-Hant": "紫"
+  },
+  {
+    "hex": "#52435A",
+    "name": "茄紫",
+    "source": "中",
+    "en": "Eggplant Purple",
+    "zh-Hant": "茄紫"
+  },
+  {
+    "hex": "#4B3F68",
+    "name": "深紫",
+    "source": "中",
+    "en": "Deep Purple",
+    "zh-Hant": "深紫"
+  },
+  {
+    "hex": "#854475",
+    "name": "绛紫",
+    "source": "中",
+    "en": "Dark Purple",
+    "zh-Hant": "絳紫"
+  },
+  {
+    "hex": "#8C3C54",
+    "name": "红豆紫",
+    "source": "中",
+    "en": "Red Bean Purple",
+    "zh-Hant": "紅豆紫"
+  },
+  {
+    "hex": "#7C3C60",
+    "name": "紫红",
+    "source": "中",
+    "en": "Purple Red",
+    "zh-Hant": "紫紅"
+  },
+  {
+    "hex": "#6A3E68",
+    "name": "玫瑰紫",
+    "source": "中",
+    "en": "Rose Purple",
+    "zh-Hant": "玫瑰紫"
+  },
+  {
+    "hex": "#5F3F69",
+    "name": "葡萄紫",
+    "source": "中",
+    "en": "Grape Purple",
+    "zh-Hant": "葡萄紫"
+  },
+  {
+    "hex": "#684750",
+    "name": "紫铜",
+    "source": "中",
+    "en": "Purple Copper",
+    "zh-Hant": "紫铜"
+  },
+  {
+    "hex": "#5F3950",
+    "name": "大紫",
+    "source": "中",
+    "en": "Deep Purple",
+    "zh-Hant": "大紫"
+  },
+  {
+    "hex": "#69363F",
+    "name": "酱紫",
+    "source": "中",
+    "en": "Deep Mulberry",
+    "zh-Hant": "醬紫"
+  },
+  {
+    "hex": "#5B373D",
+    "name": "紫檀",
+    "source": "中",
+    "en": "Rosewood",
+    "zh-Hant": "紫檀"
+  },
+  {
+    "hex": "#46394A",
+    "name": "紫黑",
+    "source": "中",
+    "en": "Purple Black",
+    "zh-Hant": "紫黑"
+  },
+  {
+    "hex": "#E2AF57",
+    "name": "金色",
+    "source": "中",
+    "en": "Gold",
+    "zh-Hant": "金色"
+  },
+  {
+    "hex": "#E49D4A",
+    "name": "金黄",
+    "source": "中",
+    "en": "Golden Yellow",
+    "zh-Hant": "金黃"
+  },
+  {
+    "hex": "#e3e3e3",
+    "name": "白色",
+    "source": "中",
+    "en": "White",
+    "zh-Hant": "白色"
+  },
+  {
+    "hex": "#0a0a0a",
+    "name": "黑色",
+    "source": "中",
+    "en": "Black",
+    "zh-Hant": "黑色"
+  },
+  {
+    "hex": "#0f0f0f",
+    "name": "百草霜",
+    "source": "中",
+    "en": "Soot Black",
+    "zh-Hant": "百草霜"
+  },
+  {
+    "hex": "#171717",
+    "name": "铁灰",
+    "source": "中",
+    "en": "Iron Gray",
+    "zh-Hant": "鐵灰"
+  },
+  {
+    "hex": "#262626",
+    "name": "深灰",
+    "source": "中",
+    "en": "Dark Gray",
+    "zh-Hant": "深灰"
+  },
+  {
+    "hex": "#303030",
+    "name": "鼠色",
+    "source": "中",
+    "en": "Mouse",
+    "zh-Hant": "鼠色"
+  },
+  {
+    "hex": "#4a4a4a",
+    "name": "老灰",
+    "source": "中",
+    "en": "Old Gray",
+    "zh-Hant": "老灰"
+  },
+  {
+    "hex": "#7a7a7a",
+    "name": "浅灰",
+    "source": "中",
+    "en": "Light Gray",
+    "zh-Hant": "淺灰"
+  },
+  {
+    "hex": "#BBBDBC",
+    "name": "银色",
+    "source": "中",
+    "en": "Silver",
+    "zh-Hant": "銀色"
+  },
+  {
+    "hex": "#999999",
+    "name": "银灰",
+    "source": "中",
+    "en": "Silver Gray",
+    "zh-Hant": "銀灰"
+  },
+  {
+    "hex": "#C2C4C5",
+    "name": "银白",
+    "source": "中",
+    "en": "Silver White",
+    "zh-Hant": "銀白"
+  },
+  {
+    "hex": "#DC9FB4",
+    "name": "撫子",
+    "source": "日",
+    "en": "Pink"
+  },
+  {
+    "hex": "#E16B8C",
+    "name": "紅梅",
+    "source": "日",
+    "en": "Red Plum"
+  },
+  {
+    "hex": "#8E354A",
+    "name": "蘇芳",
+    "source": "日",
+    "en": "Dark Red"
+  },
+  {
+    "hex": "#F8C3CD",
+    "name": "退紅",
+    "source": "日",
+    "en": "Blush Suede"
+  },
+  {
+    "hex": "#F4A7B9",
+    "name": "一斥染",
+    "source": "日",
+    "en": "Whisper Pink"
+  },
+  {
+    "hex": "#64363C",
+    "name": "桑染",
+    "source": "日",
+    "en": "Mulberry"
+  },
+  {
+    "hex": "#F596AA",
+    "name": "桃",
+    "source": "日",
+    "en": "Peach"
+  },
+  {
+    "hex": "#B5495B",
+    "name": "苺",
+    "source": "日",
+    "en": "Strawberry"
+  },
+  {
+    "hex": "#E87A90",
+    "name": "薄紅",
+    "source": "日",
+    "en": "Light Red"
+  },
+  {
+    "hex": "#D05A6E",
+    "name": "今様",
+    "source": "日",
+    "en": "Fashion Pink"
+  },
+  {
+    "hex": "#DB4D6D",
+    "name": "中紅",
+    "source": "日",
+    "en": "Medium Red"
+  },
+  {
+    "hex": "#FEDFE1",
+    "name": "桜",
+    "source": "日",
+    "en": "Cherry Blossom"
+  },
+  {
+    "hex": "#9E7A7A",
+    "name": "梅鼠",
+    "source": "日",
+    "en": "Plum Gray"
+  },
+  {
+    "hex": "#D0104C",
+    "name": "韓紅花",
+    "source": "日",
+    "en": "Korean Red"
+  },
+  {
+    "hex": "#9F353A",
+    "name": "燕脂",
+    "source": "日",
+    "en": "Carmine"
+  },
+  {
+    "hex": "#CB1B45",
+    "name": "紅",
+    "source": "日",
+    "en": "Crimson"
+  },
+  {
+    "hex": "#EEA9A9",
+    "name": "鴇",
+    "source": "日",
+    "en": "Ibis Pink"
+  },
+  {
+    "hex": "#BF6766",
+    "name": "長春",
+    "source": "日",
+    "en": "Long Spring"
+  },
+  {
+    "hex": "#86473F",
+    "name": "深緋",
+    "source": "日",
+    "en": "Deep Scarlet"
+  },
+  {
+    "hex": "#B19693",
+    "name": "桜鼠",
+    "source": "日",
+    "en": "Cherry Gray"
+  },
+  {
+    "hex": "#EB7A77",
+    "name": "甚三紅",
+    "source": "日",
+    "en": "Deep Pink"
+  },
+  {
+    "hex": "#954A45",
+    "name": "小豆",
+    "source": "日",
+    "en": "Red Bean"
+  },
+  {
+    "hex": "#A96360",
+    "name": "蘇芳香",
+    "source": "日",
+    "en": "Spiced Currant"
+  },
+  {
+    "hex": "#CB4042",
+    "name": "赤紅",
+    "source": "日",
+    "en": "Vermilion"
+  },
+  {
+    "hex": "#AB3B3A",
+    "name": "真朱",
+    "source": "日",
+    "en": "True Red"
+  },
+  {
+    "hex": "#D7C4BB",
+    "name": "灰桜",
+    "source": "日",
+    "en": "Gray Cherry"
+  },
+  {
+    "hex": "#904840",
+    "name": "栗梅",
+    "source": "日",
+    "en": "Chestnut Plum"
+  },
+  {
+    "hex": "#734338",
+    "name": "海老茶",
+    "source": "日",
+    "en": "Shrimp Brown"
+  },
+  {
+    "hex": "#C73E3A",
+    "name": "銀朱",
+    "source": "日",
+    "en": "Silver Red"
+  },
+  {
+    "hex": "#554236",
+    "name": "黒鳶",
+    "source": "日",
+    "en": "Black Kite"
+  },
+  {
+    "hex": "#994639",
+    "name": "紅鳶",
+    "source": "日",
+    "en": "Red Kite"
+  },
+  {
+    "hex": "#F19483",
+    "name": "曙",
+    "source": "日",
+    "en": "Dawn"
+  },
+  {
+    "hex": "#B54434",
+    "name": "紅樺",
+    "source": "日",
+    "en": "Red Birch"
+  },
+  {
+    "hex": "#B9887D",
+    "name": "水がき",
+    "source": "日",
+    "en": "Muted Coral"
+  },
+  {
+    "hex": "#F17C67",
+    "name": "珊瑚朱",
+    "source": "日",
+    "en": "Coral Red"
+  },
+  {
+    "hex": "#884C3A",
+    "name": "紅檜皮",
+    "source": "日",
+    "en": "Red Cypress Bark"
+  },
+  {
+    "hex": "#E83015",
+    "name": "猩猩緋",
+    "source": "日",
+    "en": "Scarlet"
+  },
+  {
+    "hex": "#D75455",
+    "name": "鉛丹",
+    "source": "日",
+    "en": "Red Lead"
+  },
+  {
+    "hex": "#B55D4C",
+    "name": "芝翫茶",
+    "source": "日",
+    "en": "Shibakan Tan"
+  },
+  {
+    "hex": "#854836",
+    "name": "檜皮",
+    "source": "日",
+    "en": "Cypress Bark"
+  },
+  {
+    "hex": "#A35E47",
+    "name": "柿渋",
+    "source": "日",
+    "en": "Tannin Amber"
+  },
+  {
+    "hex": "#CC543A",
+    "name": "緋",
+    "source": "日",
+    "en": "Scarlet"
+  },
+  {
+    "hex": "#724832",
+    "name": "鳶",
+    "source": "日",
+    "en": "Kite Brown"
+  },
+  {
+    "hex": "#F75C2F",
+    "name": "紅緋",
+    "source": "日",
+    "en": "Red Scarlet"
+  },
+  {
+    "hex": "#6A4028",
+    "name": "栗皮茶",
+    "source": "日",
+    "en": "Chestnut Skin"
+  },
+  {
+    "hex": "#9A5034",
+    "name": "弁柄",
+    "source": "日",
+    "en": "Bengara Red"
+  },
+  {
+    "hex": "#C46243",
+    "name": "照柿",
+    "source": "日",
+    "en": "Glazed Persimmon"
+  },
+  {
+    "hex": "#AF5F3C",
+    "name": "江戸茶",
+    "source": "日",
+    "en": "Edo Brown"
+  },
+  {
+    "hex": "#FB966E",
+    "name": "洗朱",
+    "source": "日",
+    "en": "Washed Red"
+  },
+  {
+    "hex": "#724938",
+    "name": "百塩茶",
+    "source": "日",
+    "en": "Rich Mahogany"
+  },
+  {
+    "hex": "#B47157",
+    "name": "唐茶",
+    "source": "日",
+    "en": "Chinese Brown"
+  },
+  {
+    "hex": "#DB8E71",
+    "name": "ときがら茶",
+    "source": "日",
+    "en": "Pale Terracotta"
+  },
+  {
+    "hex": "#F05E1C",
+    "name": "黄丹",
+    "source": "日",
+    "en": "Orange Yellow"
+  },
+  {
+    "hex": "#ED784A",
+    "name": "纁",
+    "source": "日",
+    "en": "Sunset Orange"
+  },
+  {
+    "hex": "#CA7853",
+    "name": "遠州茶",
+    "source": "日",
+    "en": "Enshu Terracotta"
+  },
+  {
+    "hex": "#B35C37",
+    "name": "樺茶",
+    "source": "日",
+    "en": "Birch Brown"
+  },
+  {
+    "hex": "#563F2E",
+    "name": "焦茶",
+    "source": "日",
+    "en": "Dark Brown"
+  },
+  {
+    "hex": "#E3916E",
+    "name": "赤香",
+    "source": "日",
+    "en": "Flesh Ochre"
+  },
+  {
+    "hex": "#8F5A3C",
+    "name": "雀茶",
+    "source": "日",
+    "en": "Sparrow Brown"
+  },
+  {
+    "hex": "#F0A986",
+    "name": "宍",
+    "source": "日",
+    "en": "Flesh"
+  },
+  {
+    "hex": "#A0674B",
+    "name": "宗伝唐茶",
+    "source": "日",
+    "en": "Soden Russet"
+  },
+  {
+    "hex": "#C1693C",
+    "name": "樺",
+    "source": "日",
+    "en": "Birch"
+  },
+  {
+    "hex": "#FB9966",
+    "name": "深支子",
+    "source": "日",
+    "en": "Deep Gardenia"
+  },
+  {
+    "hex": "#947A6D",
+    "name": "胡桃",
+    "source": "日",
+    "en": "Walnut"
+  },
+  {
+    "hex": "#A36336",
+    "name": "代赭",
+    "source": "日",
+    "en": "Red Ochre"
+  },
+  {
+    "hex": "#E79460",
+    "name": "洗柿",
+    "source": "日",
+    "en": "Washed Persimmon"
+  },
+  {
+    "hex": "#7D532C",
+    "name": "黄櫨染",
+    "source": "日",
+    "en": "Yellow Oak Dye"
+  },
+  {
+    "hex": "#C78550",
+    "name": "赤朽葉",
+    "source": "日",
+    "en": "Red Decayed Leaf"
+  },
+  {
+    "hex": "#985F2A",
+    "name": "礪茶",
+    "source": "日",
+    "en": "Whetstone Brown"
+  },
+  {
+    "hex": "#E1A679",
+    "name": "赤白橡",
+    "source": "日",
+    "en": "Red White Oak"
+  },
+  {
+    "hex": "#855B32",
+    "name": "煎茶",
+    "source": "日",
+    "en": "Green Tea"
+  },
+  {
+    "hex": "#FC9F4D",
+    "name": "萱草",
+    "source": "日",
+    "en": "Daylily"
+  },
+  {
+    "hex": "#FFBA84",
+    "name": "洒落柿",
+    "source": "日",
+    "en": "Stylish Persimmon"
+  },
+  {
+    "hex": "#E98B2A",
+    "name": "紅鬱金",
+    "source": "日",
+    "en": "Red Turmeric"
+  },
+  {
+    "hex": "#E9A368",
+    "name": "梅染",
+    "source": "日",
+    "en": "Plum Dye"
+  },
+  {
+    "hex": "#B17844",
+    "name": "枇杷茶",
+    "source": "日",
+    "en": "Loquat Brown"
+  },
+  {
+    "hex": "#96632E",
+    "name": "丁子茶",
+    "source": "日",
+    "en": "Clove Brown"
+  },
+  {
+    "hex": "#43341B",
+    "name": "憲法染",
+    "source": "日",
+    "en": "Constitution Dye"
+  },
+  {
+    "hex": "#CA7A2C",
+    "name": "琥珀",
+    "source": "日",
+    "en": "Amber"
+  },
+  {
+    "hex": "#ECB88A",
+    "name": "薄柿",
+    "source": "日",
+    "en": "Pale Persimmon"
+  },
+  {
+    "hex": "#78552B",
+    "name": "伽羅",
+    "source": "日",
+    "en": "Aloeswood"
+  },
+  {
+    "hex": "#B07736",
+    "name": "丁子染",
+    "source": "日",
+    "en": "Clove Dyed"
+  },
+  {
+    "hex": "#967249",
+    "name": "柴染",
+    "source": "日",
+    "en": "Brushwood Dye"
+  },
+  {
+    "hex": "#E2943B",
+    "name": "朽葉",
+    "source": "日",
+    "en": "Decayed Leaf"
+  },
+  {
+    "hex": "#C7802D",
+    "name": "金茶",
+    "source": "日",
+    "en": "Gold Brown"
+  },
+  {
+    "hex": "#9B6E23",
+    "name": "狐",
+    "source": "日",
+    "en": "Fox"
+  },
+  {
+    "hex": "#6E552F",
+    "name": "煤竹",
+    "source": "日",
+    "en": "Sooty Bamboo"
+  },
+  {
+    "hex": "#EBB471",
+    "name": "薄香",
+    "source": "日",
+    "en": "Pale Scent"
+  },
+  {
+    "hex": "#D7B98E",
+    "name": "砥粉",
+    "source": "日",
+    "en": "Polishing Powder"
+  },
+  {
+    "hex": "#82663A",
+    "name": "銀煤竹",
+    "source": "日",
+    "en": "Silver Sooty Bamboo"
+  },
+  {
+    "hex": "#B68E55",
+    "name": "黄土",
+    "source": "日",
+    "en": "Ochre"
+  },
+  {
+    "hex": "#BC9F77",
+    "name": "白茶",
+    "source": "日",
+    "en": "White Tea"
+  },
+  {
+    "hex": "#876633",
+    "name": "媚茶",
+    "source": "日",
+    "en": "Charming Brown"
+  },
+  {
+    "hex": "#C18A26",
+    "name": "黄唐茶",
+    "source": "日",
+    "en": "Yellow Brown"
+  },
+  {
+    "hex": "#FFB11B",
+    "name": "山吹",
+    "source": "日",
+    "en": "Golden Yellow"
+  },
+  {
+    "hex": "#D19826",
+    "name": "山吹茶",
+    "source": "日",
+    "en": "Golden Yellow Brown"
+  },
+  {
+    "hex": "#DDA52D",
+    "name": "櫨染",
+    "source": "日",
+    "en": "Wax Tree Dye"
+  },
+  {
+    "hex": "#C99833",
+    "name": "桑茶",
+    "source": "日",
+    "en": "Mulberry Brown"
+  },
+  {
+    "hex": "#F9BF45",
+    "name": "玉子",
+    "source": "日",
+    "en": "Egg"
+  },
+  {
+    "hex": "#DCB879",
+    "name": "白橡",
+    "source": "日",
+    "en": "White Oak"
+  },
+  {
+    "hex": "#BA9132",
+    "name": "黄橡",
+    "source": "日",
+    "en": "Yellow Oak"
+  },
+  {
+    "hex": "#E8B647",
+    "name": "玉蜀黍",
+    "source": "日",
+    "en": "Corn"
+  },
+  {
+    "hex": "#F7C242",
+    "name": "花葉",
+    "source": "日",
+    "en": "Flower Leaf"
+  },
+  {
+    "hex": "#7D6C46",
+    "name": "生壁",
+    "source": "日",
+    "en": "Pumice Gray"
+  },
+  {
+    "hex": "#DAC9A6",
+    "name": "鳥の子",
+    "source": "日",
+    "en": "Bird Egg"
+  },
+  {
+    "hex": "#FAD689",
+    "name": "浅黄",
+    "source": "日",
+    "en": "Pale Yellow"
+  },
+  {
+    "hex": "#D9AB42",
+    "name": "黄朽葉",
+    "source": "日",
+    "en": "Yellow Decayed Leaf"
+  },
+  {
+    "hex": "#F6C555",
+    "name": "梔子",
+    "source": "日",
+    "en": "Cape Jasmine"
+  },
+  {
+    "hex": "#FFC408",
+    "name": "籐黄",
+    "source": "日",
+    "en": "Gamboge Yellow"
+  },
+  {
+    "hex": "#EFBB24",
+    "name": "鬱金",
+    "source": "日",
+    "en": "Turmeric"
+  },
+  {
+    "hex": "#CAAD5F",
+    "name": "芥子",
+    "source": "日",
+    "en": "Mustard"
+  },
+  {
+    "hex": "#8D742A",
+    "name": "肥後煤竹",
+    "source": "日",
+    "en": "Higo Sepia"
+  },
+  {
+    "hex": "#B4A582",
+    "name": "利休白茶",
+    "source": "日",
+    "en": "Rikyu White Tea"
+  },
+  {
+    "hex": "#877F6C",
+    "name": "灰汁",
+    "source": "日",
+    "en": "Ash Beige"
+  },
+  {
+    "hex": "#897D55",
+    "name": "利休茶",
+    "source": "日",
+    "en": "Rikyu Tea"
+  },
+  {
+    "hex": "#74673E",
+    "name": "路考茶",
+    "source": "日",
+    "en": "Roko Olive Brown"
+  },
+  {
+    "hex": "#A28C37",
+    "name": "菜種油",
+    "source": "日",
+    "en": "Rapeseed Oil"
+  },
+  {
+    "hex": "#6C6024",
+    "name": "鶯茶",
+    "source": "日",
+    "en": "Nightingale Brown"
+  },
+  {
+    "hex": "#867835",
+    "name": "黄海松茶",
+    "source": "日",
+    "en": "Yellow Sea Pine"
+  },
+  {
+    "hex": "#62592C",
+    "name": "海松茶",
+    "source": "日",
+    "en": "Sea Pine Brown"
+  },
+  {
+    "hex": "#E9CD4C",
+    "name": "刈安",
+    "source": "日",
+    "en": "Miscanthus"
+  },
+  {
+    "hex": "#F7D94C",
+    "name": "菜の花",
+    "source": "日",
+    "en": "Rapeseed"
+  },
+  {
+    "hex": "#FBE251",
+    "name": "黄蘗",
+    "source": "日",
+    "en": "Amur Cork"
+  },
+  {
+    "hex": "#D9CD90",
+    "name": "蒸栗",
+    "source": "日",
+    "en": "Steamed Chestnut"
+  },
+  {
+    "hex": "#ADA142",
+    "name": "青朽葉",
+    "source": "日",
+    "en": "Blue Decayed Leaf"
+  },
+  {
+    "hex": "#DDD23B",
+    "name": "女郎花",
+    "source": "日",
+    "en": "Maiden Flower"
+  },
+  {
+    "hex": "#A5A051",
+    "name": "鶸茶",
+    "source": "日",
+    "en": "Siskin Brown"
+  },
+  {
+    "hex": "#BEC23F",
+    "name": "鶸",
+    "source": "日",
+    "en": "Siskin"
+  },
+  {
+    "hex": "#6C6A2D",
+    "name": "鶯",
+    "source": "日",
+    "en": "Nightingale"
+  },
+  {
+    "hex": "#939650",
+    "name": "柳茶",
+    "source": "日",
+    "en": "Willow Brown"
+  },
+  {
+    "hex": "#838A2D",
+    "name": "苔",
+    "source": "日",
+    "en": "Moss"
+  },
+  {
+    "hex": "#B1B479",
+    "name": "麹塵",
+    "source": "日",
+    "en": "Imperial Lichen"
+  },
+  {
+    "hex": "#616138",
+    "name": "璃寛茶",
+    "source": "日",
+    "en": "Rikan Olive"
+  },
+  {
+    "hex": "#4B4E2A",
+    "name": "藍媚茶",
+    "source": "日",
+    "en": "Drab Olive"
+  },
+  {
+    "hex": "#5B622E",
+    "name": "海松",
+    "source": "日",
+    "en": "Sea Pine"
+  },
+  {
+    "hex": "#4D5139",
+    "name": "千歳茶",
+    "source": "日",
+    "en": "Eternity Sage"
+  },
+  {
+    "hex": "#89916B",
+    "name": "梅幸茶",
+    "source": "日",
+    "en": "Baikō Khaki"
+  },
+  {
+    "hex": "#90B44B",
+    "name": "鶸萌黄",
+    "source": "日",
+    "en": "Siskin Sprout"
+  },
+  {
+    "hex": "#91AD70",
+    "name": "柳染",
+    "source": "日",
+    "en": "Willow Dye"
+  },
+  {
+    "hex": "#B5CAA0",
+    "name": "裏柳",
+    "source": "日",
+    "en": "Willow Mist"
+  },
+  {
+    "hex": "#646A58",
+    "name": "岩井茶",
+    "source": "日",
+    "en": "Iwai Tea"
+  },
+  {
+    "hex": "#7BA23F",
+    "name": "萌黄",
+    "source": "日",
+    "en": "Sprout Yellow"
+  },
+  {
+    "hex": "#86C166",
+    "name": "苗",
+    "source": "日",
+    "en": "Seedling"
+  },
+  {
+    "hex": "#4A593D",
+    "name": "柳煤竹",
+    "source": "日",
+    "en": "Willow Sooty Bamboo"
+  },
+  {
+    "hex": "#42602D",
+    "name": "松葉",
+    "source": "日",
+    "en": "Pine Needle"
+  },
+  {
+    "hex": "#516E41",
+    "name": "青丹",
+    "source": "日",
+    "en": "Blue Green"
+  },
+  {
+    "hex": "#91B493",
+    "name": "薄青",
+    "source": "日",
+    "en": "Pale Blue"
+  },
+  {
+    "hex": "#808F7C",
+    "name": "柳鼠",
+    "source": "日",
+    "en": "Willow Gray"
+  },
+  {
+    "hex": "#1B813E",
+    "name": "常磐",
+    "source": "日",
+    "en": "Evergreen"
+  },
+  {
+    "hex": "#5DAC81",
+    "name": "若竹",
+    "source": "日",
+    "en": "Young Bamboo"
+  },
+  {
+    "hex": "#36563C",
+    "name": "千歳緑",
+    "source": "日",
+    "en": "Millennium Green"
+  },
+  {
+    "hex": "#227D51",
+    "name": "緑",
+    "source": "日",
+    "en": "Green"
+  },
+  {
+    "hex": "#A8D8B9",
+    "name": "白緑",
+    "source": "日",
+    "en": "White Green"
+  },
+  {
+    "hex": "#6A8372",
+    "name": "老竹",
+    "source": "日",
+    "en": "Old Bamboo"
+  },
+  {
+    "hex": "#2D6D4B",
+    "name": "木賊",
+    "source": "日",
+    "en": "Horsetail"
+  },
+  {
+    "hex": "#465D4C",
+    "name": "御納戸茶",
+    "source": "日",
+    "en": "Shadowed Teal"
+  },
+  {
+    "hex": "#24936E",
+    "name": "緑青",
+    "source": "日",
+    "en": "Verdigris"
+  },
+  {
+    "hex": "#86A697",
+    "name": "錆青磁",
+    "source": "日",
+    "en": "Rusted Celadon"
+  },
+  {
+    "hex": "#00896C",
+    "name": "青竹",
+    "source": "日",
+    "en": "Green Bamboo"
+  },
+  {
+    "hex": "#096148",
+    "name": "ビロード",
+    "source": "日",
+    "en": "Velvet"
+  },
+  {
+    "hex": "#20604F",
+    "name": "虫襖",
+    "source": "日",
+    "en": "Insect Screen"
+  },
+  {
+    "hex": "#0F4C3A",
+    "name": "藍海松茶",
+    "source": "日",
+    "en": "Indigo Sea Pine"
+  },
+  {
+    "hex": "#4F726C",
+    "name": "沈香茶",
+    "source": "日",
+    "en": "Aloeswood Teal"
+  },
+  {
+    "hex": "#00AA90",
+    "name": "青緑",
+    "source": "日",
+    "en": "Teal"
+  },
+  {
+    "hex": "#69B0AC",
+    "name": "青磁",
+    "source": "日",
+    "en": "Celadon"
+  },
+  {
+    "hex": "#26453D",
+    "name": "鉄",
+    "source": "日",
+    "en": "Iron"
+  },
+  {
+    "hex": "#66BAB7",
+    "name": "水浅葱",
+    "source": "日",
+    "en": "Pale Aqua"
+  },
+  {
+    "hex": "#268785",
+    "name": "青碧",
+    "source": "日",
+    "en": "Blue Green"
+  },
+  {
+    "hex": "#405B55",
+    "name": "錆鉄御納戸",
+    "source": "日",
+    "en": "Rusted Iron Navy"
+  },
+  {
+    "hex": "#305A56",
+    "name": "高麗納戸",
+    "source": "日",
+    "en": "Korean Navy"
+  },
+  {
+    "hex": "#78C2C4",
+    "name": "白群",
+    "source": "日",
+    "en": "White Blue"
+  },
+  {
+    "hex": "#376B6D",
+    "name": "御召茶",
+    "source": "日",
+    "en": "Omeshi Sage"
+  },
+  {
+    "hex": "#A5DEE4",
+    "name": "瓶覗",
+    "source": "日",
+    "en": "Peek-an-Indigo"
+  },
+  {
+    "hex": "#77969A",
+    "name": "深川鼠",
+    "source": "日",
+    "en": "Fukagawa Gray"
+  },
+  {
+    "hex": "#6699A1",
+    "name": "錆浅葱",
+    "source": "日",
+    "en": "Rusted Light Blue"
+  },
+  {
+    "hex": "#81C7D4",
+    "name": "水",
+    "source": "日",
+    "en": "Water"
+  },
+  {
+    "hex": "#33A6B8",
+    "name": "浅葱",
+    "source": "日",
+    "en": "Light Blue"
+  },
+  {
+    "hex": "#0C4842",
+    "name": "御納戸",
+    "source": "日",
+    "en": "Navy Blue"
+  },
+  {
+    "hex": "#0D5661",
+    "name": "藍",
+    "source": "日",
+    "en": "Indigo"
+  },
+  {
+    "hex": "#0089A7",
+    "name": "新橋",
+    "source": "日",
+    "en": "New Bridge"
+  },
+  {
+    "hex": "#336774",
+    "name": "錆御納戸",
+    "source": "日",
+    "en": "Rusted Navy"
+  },
+  {
+    "hex": "#255359",
+    "name": "鉄御納戸",
+    "source": "日",
+    "en": "Iron Navy"
+  },
+  {
+    "hex": "#1E88A8",
+    "name": "花浅葱",
+    "source": "日",
+    "en": "Light Indigo"
+  },
+  {
+    "hex": "#566C73",
+    "name": "藍鼠",
+    "source": "日",
+    "en": "Indigo Gray"
+  },
+  {
+    "hex": "#577C8A",
+    "name": "舛花",
+    "source": "日",
+    "en": "Masuhana"
+  },
+  {
+    "hex": "#58B2DC",
+    "name": "空",
+    "source": "日",
+    "en": "Sky"
+  },
+  {
+    "hex": "#2B5F75",
+    "name": "熨斗目花",
+    "source": "日",
+    "en": "Noshibana"
+  },
+  {
+    "hex": "#3A8FB7",
+    "name": "千草",
+    "source": "日",
+    "en": "Thousand Herbs"
+  },
+  {
+    "hex": "#2E5C6E",
+    "name": "御召御納戸",
+    "source": "日",
+    "en": "Gosyoku Navy"
+  },
+  {
+    "hex": "#006284",
+    "name": "縹",
+    "source": "日",
+    "en": "Light Indigo"
+  },
+  {
+    "hex": "#7DB9DE",
+    "name": "勿忘草",
+    "source": "日",
+    "en": "Forget Me Not"
+  },
+  {
+    "hex": "#51A8DD",
+    "name": "群青",
+    "source": "日",
+    "en": "Ultramarine"
+  },
+  {
+    "hex": "#2EA9DF",
+    "name": "露草",
+    "source": "日",
+    "en": "Dew Grass"
+  },
+  {
+    "hex": "#0B1013",
+    "name": "黒橡",
+    "source": "日",
+    "en": "Black Oak"
+  },
+  {
+    "hex": "#0F2540",
+    "name": "紺",
+    "source": "日",
+    "en": "Navy"
+  },
+  {
+    "hex": "#08192D",
+    "name": "褐",
+    "source": "日",
+    "en": "Brown Ochre"
+  },
+  {
+    "hex": "#005CAF",
+    "name": "瑠璃",
+    "source": "日",
+    "en": "Lapis Lazuli"
+  },
+  {
+    "hex": "#0B346E",
+    "name": "瑠璃紺",
+    "source": "日",
+    "en": "Lapis Navy"
+  },
+  {
+    "hex": "#7B90D2",
+    "name": "紅碧",
+    "source": "日",
+    "en": "Red Jade"
+  },
+  {
+    "hex": "#6E75A4",
+    "name": "藤鼠",
+    "source": "日",
+    "en": "Wisteria Gray"
+  },
+  {
+    "hex": "#261E47",
+    "name": "鉄紺",
+    "source": "日",
+    "en": "Iron Navy"
+  },
+  {
+    "hex": "#113285",
+    "name": "紺青",
+    "source": "日",
+    "en": "Navy Blue"
+  },
+  {
+    "hex": "#4E4F97",
+    "name": "紅掛花",
+    "source": "日",
+    "en": "Red Flower"
+  },
+  {
+    "hex": "#211E55",
+    "name": "紺桔梗",
+    "source": "日",
+    "en": "Navy Bellflower"
+  },
+  {
+    "hex": "#8B81C3",
+    "name": "藤",
+    "source": "日",
+    "en": "Wisteria"
+  },
+  {
+    "hex": "#70649A",
+    "name": "二藍",
+    "source": "日",
+    "en": "Duochrome Violet"
+  },
+  {
+    "hex": "#9B90C2",
+    "name": "楝",
+    "source": "日",
+    "en": "Chinaberry"
+  },
+  {
+    "hex": "#8A6BBE",
+    "name": "藤紫",
+    "source": "日",
+    "en": "Wisteria Purple"
+  },
+  {
+    "hex": "#6A4C9C",
+    "name": "桔梗",
+    "source": "日",
+    "en": "Bellflower"
+  },
+  {
+    "hex": "#8F77B5",
+    "name": "紫苑",
+    "source": "日",
+    "en": "Aster"
+  },
+  {
+    "hex": "#533D5B",
+    "name": "滅紫",
+    "source": "日",
+    "en": "Faded Purple"
+  },
+  {
+    "hex": "#B28FCE",
+    "name": "薄",
+    "source": "日",
+    "en": "Pale"
+  },
+  {
+    "hex": "#986DB2",
+    "name": "半",
+    "source": "日",
+    "en": "Half"
+  },
+  {
+    "hex": "#77428D",
+    "name": "江戸紫",
+    "source": "日",
+    "en": "Edo Purple"
+  },
+  {
+    "hex": "#3C2F41",
+    "name": "紫紺",
+    "source": "日",
+    "en": "Purple Navy"
+  },
+  {
+    "hex": "#4A225D",
+    "name": "深紫",
+    "source": "日",
+    "en": "Deep Purple"
+  },
+  {
+    "hex": "#66327C",
+    "name": "菫",
+    "source": "日",
+    "en": "Violet"
+  },
+  {
+    "hex": "#592C63",
+    "name": "紫",
+    "source": "日",
+    "en": "Purple"
+  },
+  {
+    "hex": "#6F3381",
+    "name": "菖蒲",
+    "source": "日",
+    "en": "Iris"
+  },
+  {
+    "hex": "#574C57",
+    "name": "藤煤竹",
+    "source": "日",
+    "en": "Wisteria Bamboo"
+  },
+  {
+    "hex": "#B481BB",
+    "name": "紅藤",
+    "source": "日",
+    "en": "Red Wisteria"
+  },
+  {
+    "hex": "#3F2B36",
+    "name": "黒紅",
+    "source": "日",
+    "en": "Black Red"
+  },
+  {
+    "hex": "#572A3F",
+    "name": "茄子紺",
+    "source": "日",
+    "en": "Eggplant Navy"
+  },
+  {
+    "hex": "#5E3D50",
+    "name": "葡萄鼠",
+    "source": "日",
+    "en": "Grape Gray"
+  },
+  {
+    "hex": "#72636E",
+    "name": "鳩羽鼠",
+    "source": "日",
+    "en": "Lavender Slate"
+  },
+  {
+    "hex": "#622954",
+    "name": "杜若",
+    "source": "日",
+    "en": "Iris"
+  },
+  {
+    "hex": "#6D2E5B",
+    "name": "蒲葡",
+    "source": "日",
+    "en": "Grape Purple"
+  },
+  {
+    "hex": "#C1328E",
+    "name": "牡丹",
+    "source": "日",
+    "en": "Peony"
+  },
+  {
+    "hex": "#A8497A",
+    "name": "梅紫",
+    "source": "日",
+    "en": "Plum Purple"
+  },
+  {
+    "hex": "#562E37",
+    "name": "似紫",
+    "source": "日",
+    "en": "Muted Amethyst"
+  },
+  {
+    "hex": "#E03C8A",
+    "name": "躑躅",
+    "source": "日",
+    "en": "Azalea"
+  },
+  {
+    "hex": "#60373E",
+    "name": "紫鳶",
+    "source": "日",
+    "en": "Purple Kite"
+  },
+  {
+    "hex": "#FCFAF2",
+    "name": "白練",
+    "source": "日",
+    "en": "White Silk"
+  },
+  {
+    "hex": "#FFFFFB",
+    "name": "胡粉",
+    "source": "日",
+    "en": "Whitewash"
+  },
+  {
+    "hex": "#BDC0BA",
+    "name": "白鼠",
+    "source": "日",
+    "en": "White Gray"
+  },
+  {
+    "hex": "#91989F",
+    "name": "銀鼠",
+    "source": "日",
+    "en": "Silver Gray"
+  },
+  {
+    "hex": "#787878",
+    "name": "鉛",
+    "source": "日",
+    "en": "Lead"
+  },
+  {
+    "hex": "#828282",
+    "name": "灰",
+    "source": "日",
+    "en": "Ash Gray"
+  },
+  {
+    "hex": "#787D7B",
+    "name": "素鼠",
+    "source": "日",
+    "en": "Plain Gray"
+  },
+  {
+    "hex": "#707C74",
+    "name": "利休鼠",
+    "source": "日",
+    "en": "Rikyu Gray"
+  },
+  {
+    "hex": "#656765",
+    "name": "鈍",
+    "source": "日",
+    "en": "Dull"
+  },
+  {
+    "hex": "#535953",
+    "name": "青鈍",
+    "source": "日",
+    "en": "Blue Dull"
+  },
+  {
+    "hex": "#4F4F48",
+    "name": "溝鼠",
+    "source": "日",
+    "en": "Gutter Gray"
+  },
+  {
+    "hex": "#52433D",
+    "name": "紅消鼠",
+    "source": "日",
+    "en": "Faded Red Gray"
+  },
+  {
+    "hex": "#373C38",
+    "name": "藍墨茶",
+    "source": "日",
+    "en": "Indigo Ink Brown"
+  },
+  {
+    "hex": "#3A3226",
+    "name": "檳榔子染",
+    "source": "日",
+    "en": "Betel Nut Dye"
+  },
+  {
+    "hex": "#434343",
+    "name": "消炭",
+    "source": "日",
+    "en": "Dead Charcoal"
+  },
+  {
+    "hex": "#1C1C1C",
+    "name": "墨",
+    "source": "日",
+    "en": "Ink Black"
+  },
+  {
+    "hex": "#080808",
+    "name": "黒",
+    "source": "日",
+    "en": "Black"
+  },
+  {
+    "hex": "#0C0C0C",
+    "name": "呂",
+    "source": "日",
+    "en": "Jet Black"
+  },
+  {
+    "hex": "#FFFF00",
+    "name": "Process Yellow",
+    "source": "商",
+    "en": "Process Yellow"
+  },
+  {
+    "hex": "#FFFF7D",
+    "name": "100",
+    "source": "商",
+    "en": "100"
+  },
+  {
+    "hex": "#FFFF36",
+    "name": "101",
+    "source": "商",
+    "en": "101"
+  },
+  {
+    "hex": "#FFFC0D",
+    "name": "102",
+    "source": "商",
+    "en": "102"
+  },
+  {
+    "hex": "#FFFC00",
+    "name": "Pantone Yellow",
+    "source": "商",
+    "en": "Pantone Yellow"
+  },
+  {
+    "hex": "#D1CB00",
+    "name": "103",
+    "source": "商",
+    "en": "103"
+  },
+  {
+    "hex": "#B3AD00",
+    "name": "104",
+    "source": "商",
+    "en": "104"
+  },
+  {
+    "hex": "#807C00",
+    "name": "105",
+    "source": "商",
+    "en": "105"
+  },
+  {
+    "hex": "#FFFA4F",
+    "name": "106",
+    "source": "商",
+    "en": "106"
+  },
+  {
+    "hex": "#FFF536",
+    "name": "107",
+    "source": "商",
+    "en": "107"
+  },
+  {
+    "hex": "#FFF00D",
+    "name": "108",
+    "source": "商",
+    "en": "108"
+  },
+  {
+    "hex": "#FFE600",
+    "name": "109",
+    "source": "商",
+    "en": "109"
+  },
+  {
+    "hex": "#EDD100",
+    "name": "110",
+    "source": "商",
+    "en": "110"
+  },
+  {
+    "hex": "#BAA600",
+    "name": "111",
+    "source": "商",
+    "en": "111"
+  },
+  {
+    "hex": "#9E8E00",
+    "name": "112",
+    "source": "商",
+    "en": "112"
+  },
+  {
+    "hex": "#FFED57",
+    "name": "113",
+    "source": "商",
+    "en": "113"
+  },
+  {
+    "hex": "#FFEB45",
+    "name": "114",
+    "source": "商",
+    "en": "114"
+  },
+  {
+    "hex": "#FFE833",
+    "name": "115",
+    "source": "商",
+    "en": "115"
+  },
+  {
+    "hex": "#FFD600",
+    "name": "116",
+    "source": "商",
+    "en": "116"
+  },
+  {
+    "hex": "#D9B200",
+    "name": "117",
+    "source": "商",
+    "en": "117"
+  },
+  {
+    "hex": "#BA9900",
+    "name": "118",
+    "source": "商",
+    "en": "118"
+  },
+  {
+    "hex": "#827200",
+    "name": "119",
+    "source": "商",
+    "en": "119"
+  },
+  {
+    "hex": "#FFE86B",
+    "name": "120",
+    "source": "商",
+    "en": "120"
+  },
+  {
+    "hex": "#FFF2B0",
+    "name": "1205",
+    "source": "商",
+    "en": "1205"
+  },
+  {
+    "hex": "#FFE34F",
+    "name": "121",
+    "source": "商",
+    "en": "121"
+  },
+  {
+    "hex": "#FFE88C",
+    "name": "1215",
+    "source": "商",
+    "en": "1215"
+  },
+  {
+    "hex": "#FFD433",
+    "name": "122",
+    "source": "商",
+    "en": "122"
+  },
+  {
+    "hex": "#FFD461",
+    "name": "1225",
+    "source": "商",
+    "en": "1225"
+  },
+  {
+    "hex": "#FFC20F",
+    "name": "123",
+    "source": "商",
+    "en": "123"
+  },
+  {
+    "hex": "#FFB517",
+    "name": "1235",
+    "source": "商",
+    "en": "1235"
+  },
+  {
+    "hex": "#F0AD00",
+    "name": "124",
+    "source": "商",
+    "en": "124"
+  },
+  {
+    "hex": "#D19700",
+    "name": "1245",
+    "source": "商",
+    "en": "1245"
+  },
+  {
+    "hex": "#BD8C00",
+    "name": "125",
+    "source": "商",
+    "en": "125"
+  },
+  {
+    "hex": "#A87B00",
+    "name": "1255",
+    "source": "商",
+    "en": "1255"
+  },
+  {
+    "hex": "#A17800",
+    "name": "126",
+    "source": "商",
+    "en": "126"
+  },
+  {
+    "hex": "#7D5B00",
+    "name": "1265",
+    "source": "商",
+    "en": "1265"
+  },
+  {
+    "hex": "#FFED80",
+    "name": "127",
+    "source": "商",
+    "en": "127"
+  },
+  {
+    "hex": "#FFE359",
+    "name": "128",
+    "source": "商",
+    "en": "128"
+  },
+  {
+    "hex": "#FFD63B",
+    "name": "129",
+    "source": "商",
+    "en": "129"
+  },
+  {
+    "hex": "#FFB300",
+    "name": "130",
+    "source": "商",
+    "en": "130"
+  },
+  {
+    "hex": "#E89E00",
+    "name": "131",
+    "source": "商",
+    "en": "131"
+  },
+  {
+    "hex": "#B38100",
+    "name": "132",
+    "source": "商",
+    "en": "132"
+  },
+  {
+    "hex": "#705A00",
+    "name": "133",
+    "source": "商",
+    "en": "133"
+  },
+  {
+    "hex": "#FFE38C",
+    "name": "134",
+    "source": "商",
+    "en": "134"
+  },
+  {
+    "hex": "#FFDB87",
+    "name": "1345",
+    "source": "商",
+    "en": "1345"
+  },
+  {
+    "hex": "#FFCF66",
+    "name": "135",
+    "source": "商",
+    "en": "135"
+  },
+  {
+    "hex": "#FFCC70",
+    "name": "1355",
+    "source": "商",
+    "en": "1355"
+  },
+  {
+    "hex": "#FFBA3D",
+    "name": "136",
+    "source": "商",
+    "en": "136"
+  },
+  {
+    "hex": "#FFB547",
+    "name": "1365",
+    "source": "商",
+    "en": "1365"
+  },
+  {
+    "hex": "#FFA61A",
+    "name": "137",
+    "source": "商",
+    "en": "137"
+  },
+  {
+    "hex": "#FF991A",
+    "name": "1375",
+    "source": "商",
+    "en": "1375"
+  },
+  {
+    "hex": "#FC9200",
+    "name": "138",
+    "source": "商",
+    "en": "138"
+  },
+  {
+    "hex": "#ED8500",
+    "name": "1385",
+    "source": "商",
+    "en": "1385"
+  },
+  {
+    "hex": "#C47C00",
+    "name": "139",
+    "source": "商",
+    "en": "139"
+  },
+  {
+    "hex": "#A15F00",
+    "name": "1395",
+    "source": "商",
+    "en": "1395"
+  },
+  {
+    "hex": "#755600",
+    "name": "140",
+    "source": "商",
+    "en": "140"
+  },
+  {
+    "hex": "#5E3C00",
+    "name": "1405",
+    "source": "商",
+    "en": "1405"
+  },
+  {
+    "hex": "#FFCF7D",
+    "name": "141",
+    "source": "商",
+    "en": "141"
+  },
+  {
+    "hex": "#FFB83D",
+    "name": "142",
+    "source": "商",
+    "en": "142"
+  },
+  {
+    "hex": "#FFA626",
+    "name": "143",
+    "source": "商",
+    "en": "143"
+  },
+  {
+    "hex": "#FF8500",
+    "name": "144",
+    "source": "商",
+    "en": "144"
+  },
+  {
+    "hex": "#EB7C00",
+    "name": "145",
+    "source": "商",
+    "en": "145"
+  },
+  {
+    "hex": "#AB6100",
+    "name": "146",
+    "source": "商",
+    "en": "146"
+  },
+  {
+    "hex": "#705100",
+    "name": "147",
+    "source": "商",
+    "en": "147"
+  },
+  {
+    "hex": "#FFD6A1",
+    "name": "148",
+    "source": "商",
+    "en": "148"
+  },
+  {
+    "hex": "#FFBA75",
+    "name": "1485",
+    "source": "商",
+    "en": "1485"
+  },
+  {
+    "hex": "#FFC487",
+    "name": "149",
+    "source": "商",
+    "en": "149"
+  },
+  {
+    "hex": "#FFAB54",
+    "name": "1495",
+    "source": "商",
+    "en": "1495"
+  },
+  {
+    "hex": "#FFA64D",
+    "name": "150",
+    "source": "商",
+    "en": "150"
+  },
+  {
+    "hex": "#FF943B",
+    "name": "1505",
+    "source": "商",
+    "en": "1505"
+  },
+  {
+    "hex": "#FF7800",
+    "name": "Orange 021",
+    "source": "商",
+    "en": "Orange 021"
+  },
+  {
+    "hex": "#FF850D",
+    "name": "151",
+    "source": "商",
+    "en": "151"
+  },
+  {
+    "hex": "#FC7C00",
+    "name": "152",
+    "source": "商",
+    "en": "152"
+  },
+  {
+    "hex": "#E66000",
+    "name": "1525",
+    "source": "商",
+    "en": "1525"
+  },
+  {
+    "hex": "#D17100",
+    "name": "153",
+    "source": "商",
+    "en": "153"
+  },
+  {
+    "hex": "#9E4A00",
+    "name": "1535",
+    "source": "商",
+    "en": "1535"
+  },
+  {
+    "hex": "#A85B00",
+    "name": "154",
+    "source": "商",
+    "en": "154"
+  },
+  {
+    "hex": "#472200",
+    "name": "1545",
+    "source": "商",
+    "en": "1545"
+  },
+  {
+    "hex": "#FFE0B8",
+    "name": "155",
+    "source": "商",
+    "en": "155"
+  },
+  {
+    "hex": "#FFC7A8",
+    "name": "1555",
+    "source": "商",
+    "en": "1555"
+  },
+  {
+    "hex": "#FFC794",
+    "name": "156",
+    "source": "商",
+    "en": "156"
+  },
+  {
+    "hex": "#FFA882",
+    "name": "1565",
+    "source": "商",
+    "en": "1565"
+  },
+  {
+    "hex": "#FF914D",
+    "name": "157",
+    "source": "商",
+    "en": "157"
+  },
+  {
+    "hex": "#FF8C47",
+    "name": "1575",
+    "source": "商",
+    "en": "1575"
+  },
+  {
+    "hex": "#FF6308",
+    "name": "158",
+    "source": "商",
+    "en": "158"
+  },
+  {
+    "hex": "#FF701A",
+    "name": "1585",
+    "source": "商",
+    "en": "1585"
+  },
+  {
+    "hex": "#ED5100",
+    "name": "159",
+    "source": "商",
+    "en": "159"
+  },
+  {
+    "hex": "#F26300",
+    "name": "1595",
+    "source": "商",
+    "en": "1595"
+  },
+  {
+    "hex": "#AD4200",
+    "name": "160",
+    "source": "商",
+    "en": "160"
+  },
+  {
+    "hex": "#B34F00",
+    "name": "1605",
+    "source": "商",
+    "en": "1605"
+  },
+  {
+    "hex": "#5C2C00",
+    "name": "161",
+    "source": "商",
+    "en": "161"
+  },
+  {
+    "hex": "#914000",
+    "name": "1615",
+    "source": "商",
+    "en": "1615"
+  },
+  {
+    "hex": "#FFD9C7",
+    "name": "162",
+    "source": "商",
+    "en": "162"
+  },
+  {
+    "hex": "#FFB0A1",
+    "name": "1625",
+    "source": "商",
+    "en": "1625"
+  },
+  {
+    "hex": "#FFB08F",
+    "name": "163",
+    "source": "商",
+    "en": "163"
+  },
+  {
+    "hex": "#FF9C85",
+    "name": "1635",
+    "source": "商",
+    "en": "1635"
+  },
+  {
+    "hex": "#FF8A45",
+    "name": "164",
+    "source": "商",
+    "en": "164"
+  },
+  {
+    "hex": "#FF8257",
+    "name": "1645",
+    "source": "商",
+    "en": "1645"
+  },
+  {
+    "hex": "#FF690A",
+    "name": "165",
+    "source": "商",
+    "en": "165"
+  },
+  {
+    "hex": "#FF5E17",
+    "name": "1655",
+    "source": "商",
+    "en": "1655"
+  },
+  {
+    "hex": "#FF5C00",
+    "name": "166",
+    "source": "商",
+    "en": "166"
+  },
+  {
+    "hex": "#FF5200",
+    "name": "1665",
+    "source": "商",
+    "en": "1665"
+  },
+  {
+    "hex": "#D45500",
+    "name": "167",
+    "source": "商",
+    "en": "167"
+  },
+  {
+    "hex": "#B83D00",
+    "name": "1675",
+    "source": "商",
+    "en": "1675"
+  },
+  {
+    "hex": "#692D00",
+    "name": "168",
+    "source": "商",
+    "en": "168"
+  },
+  {
+    "hex": "#8F2E00",
+    "name": "1685",
+    "source": "商",
+    "en": "1685"
+  },
+  {
+    "hex": "#FFCCCC",
+    "name": "169",
+    "source": "商",
+    "en": "169"
+  },
+  {
+    "hex": "#FF998F",
+    "name": "170",
+    "source": "商",
+    "en": "170"
+  },
+  {
+    "hex": "#FF7852",
+    "name": "171",
+    "source": "商",
+    "en": "171"
+  },
+  {
+    "hex": "#FF571F",
+    "name": "172",
+    "source": "商",
+    "en": "172"
+  },
+  {
+    "hex": "#F54C00",
+    "name": "173",
+    "source": "商",
+    "en": "173"
+  },
+  {
+    "hex": "#A33100",
+    "name": "174",
+    "source": "商",
+    "en": "174"
+  },
+  {
+    "hex": "#662400",
+    "name": "175",
+    "source": "商",
+    "en": "175"
+  },
+  {
+    "hex": "#FFBFD1",
+    "name": "176",
+    "source": "商",
+    "en": "176"
+  },
+  {
+    "hex": "#FF9EC9",
+    "name": "1765",
+    "source": "商",
+    "en": "1765"
+  },
+  {
+    "hex": "#FFBAE0",
+    "name": "1767",
+    "source": "商",
+    "en": "1767"
+  },
+  {
+    "hex": "#FF8C99",
+    "name": "177",
+    "source": "商",
+    "en": "177"
+  },
+  {
+    "hex": "#FF87B5",
+    "name": "1775",
+    "source": "商",
+    "en": "1775"
+  },
+  {
+    "hex": "#FF6BA3",
+    "name": "1777",
+    "source": "商",
+    "en": "1777"
+  },
+  {
+    "hex": "#FF6970",
+    "name": "178",
+    "source": "商",
+    "en": "178"
+  },
+  {
+    "hex": "#FF401A",
+    "name": "Warm Red",
+    "source": "商",
+    "en": "Warm Red"
+  },
+  {
+    "hex": "#FF5480",
+    "name": "1785",
+    "source": "商",
+    "en": "1785"
+  },
+  {
+    "hex": "#FF3D66",
+    "name": "1787",
+    "source": "商",
+    "en": "1787"
+  },
+  {
+    "hex": "#FF1A24",
+    "name": "Red 032",
+    "source": "商",
+    "en": "Red 032"
+  },
+  {
+    "hex": "#FF291F",
+    "name": "1788",
+    "source": "商",
+    "en": "1788"
+  },
+  {
+    "hex": "#FF3600",
+    "name": "179",
+    "source": "商",
+    "en": "179"
+  },
+  {
+    "hex": "#FF0F00",
+    "name": "1795",
+    "source": "商",
+    "en": "1795"
+  },
+  {
+    "hex": "#F50002",
+    "name": "1797",
+    "source": "商",
+    "en": "1797"
+  },
+  {
+    "hex": "#E33000",
+    "name": "180",
+    "source": "商",
+    "en": "180"
+  },
+  {
+    "hex": "#C41200",
+    "name": "1805",
+    "source": "商",
+    "en": "1805"
+  },
+  {
+    "hex": "#B80007",
+    "name": "1807",
+    "source": "商",
+    "en": "1807"
+  },
+  {
+    "hex": "#872300",
+    "name": "181",
+    "source": "商",
+    "en": "181"
+  },
+  {
+    "hex": "#7D0C00",
+    "name": "1815",
+    "source": "商",
+    "en": "1815"
+  },
+  {
+    "hex": "#570900",
+    "name": "1817",
+    "source": "商",
+    "en": "1817"
+  },
+  {
+    "hex": "#FFBDE6",
+    "name": "182",
+    "source": "商",
+    "en": "182"
+  },
+  {
+    "hex": "#FF8AC9",
+    "name": "183",
+    "source": "商",
+    "en": "183"
+  },
+  {
+    "hex": "#FF5296",
+    "name": "184",
+    "source": "商",
+    "en": "184"
+  },
+  {
+    "hex": "#FF173D",
+    "name": "185",
+    "source": "商",
+    "en": "185"
+  },
+  {
+    "hex": "#F5002F",
+    "name": "186",
+    "source": "商",
+    "en": "186"
+  },
+  {
+    "hex": "#CC002B",
+    "name": "187",
+    "source": "商",
+    "en": "187"
+  },
+  {
+    "hex": "#800400",
+    "name": "188",
+    "source": "商",
+    "en": "188"
+  },
+  {
+    "hex": "#FFA1E6",
+    "name": "189",
+    "source": "商",
+    "en": "189"
+  },
+  {
+    "hex": "#FFB8ED",
+    "name": "1895",
+    "source": "商",
+    "en": "1895"
+  },
+  {
+    "hex": "#FF73C7",
+    "name": "190",
+    "source": "商",
+    "en": "190"
+  },
+  {
+    "hex": "#FF96E8",
+    "name": "1905",
+    "source": "商",
+    "en": "1905"
+  },
+  {
+    "hex": "#FF3D9E",
+    "name": "191",
+    "source": "商",
+    "en": "191"
+  },
+  {
+    "hex": "#FF4ACC",
+    "name": "1915",
+    "source": "商",
+    "en": "1915"
+  },
+  {
+    "hex": "#FF0052",
+    "name": "192",
+    "source": "商",
+    "en": "192"
+  },
+  {
+    "hex": "#FF0073",
+    "name": "1925",
+    "source": "商",
+    "en": "1925"
+  },
+  {
+    "hex": "#DE004B",
+    "name": "193",
+    "source": "商",
+    "en": "193"
+  },
+  {
+    "hex": "#F20068",
+    "name": "1935",
+    "source": "商",
+    "en": "1935"
+  },
+  {
+    "hex": "#AB003E",
+    "name": "194",
+    "source": "商",
+    "en": "194"
+  },
+  {
+    "hex": "#CF005B",
+    "name": "1945",
+    "source": "商",
+    "en": "1945"
+  },
+  {
+    "hex": "#73002E",
+    "name": "195",
+    "source": "商",
+    "en": "195"
+  },
+  {
+    "hex": "#A10040",
+    "name": "1955",
+    "source": "商",
+    "en": "1955"
+  },
+  {
+    "hex": "#FFBFF5",
+    "name": "196",
+    "source": "商",
+    "en": "196"
+  },
+  {
+    "hex": "#FF8CE6",
+    "name": "197",
+    "source": "商",
+    "en": "197"
+  },
+  {
+    "hex": "#FF38AB",
+    "name": "198",
+    "source": "商",
+    "en": "198"
+  },
+  {
+    "hex": "#FF0061",
+    "name": "199",
+    "source": "商",
+    "en": "199"
+  },
+  {
+    "hex": "#E00053",
+    "name": "200",
+    "source": "商",
+    "en": "200"
+  },
+  {
+    "hex": "#B50043",
+    "name": "201",
+    "source": "商",
+    "en": "201"
+  },
+  {
+    "hex": "#910039",
+    "name": "202",
+    "source": "商",
+    "en": "202"
+  },
+  {
+    "hex": "#FFA8F7",
+    "name": "203",
+    "source": "商",
+    "en": "203"
+  },
+  {
+    "hex": "#FF6BF7",
+    "name": "204",
+    "source": "商",
+    "en": "204"
+  },
+  {
+    "hex": "#FF29E8",
+    "name": "205",
+    "source": "商",
+    "en": "205"
+  },
+  {
+    "hex": "#F70099",
+    "name": "206",
+    "source": "商",
+    "en": "206"
+  },
+  {
+    "hex": "#CF0076",
+    "name": "207",
+    "source": "商",
+    "en": "207"
+  },
+  {
+    "hex": "#A10067",
+    "name": "208",
+    "source": "商",
+    "en": "208"
+  },
+  {
+    "hex": "#78004F",
+    "name": "209",
+    "source": "商",
+    "en": "209"
+  },
+  {
+    "hex": "#FF9CF0",
+    "name": "210",
+    "source": "商",
+    "en": "210"
+  },
+  {
+    "hex": "#FF73EB",
+    "name": "211",
+    "source": "商",
+    "en": "211"
+  },
+  {
+    "hex": "#FF47E3",
+    "name": "212",
+    "source": "商",
+    "en": "212"
+  },
+  {
+    "hex": "#FF0DBA",
+    "name": "213",
+    "source": "商",
+    "en": "213"
+  },
+  {
+    "hex": "#EB009B",
+    "name": "214",
+    "source": "商",
+    "en": "214"
+  },
+  {
+    "hex": "#BA0079",
+    "name": "215",
+    "source": "商",
+    "en": "215"
+  },
+  {
+    "hex": "#82074E",
+    "name": "216",
+    "source": "商",
+    "en": "216"
+  },
+  {
+    "hex": "#FFB8FF",
+    "name": "217",
+    "source": "商",
+    "en": "217"
+  },
+  {
+    "hex": "#FA63FF",
+    "name": "218",
+    "source": "商",
+    "en": "218"
+  },
+  {
+    "hex": "#FC1FFF",
+    "name": "219",
+    "source": "商",
+    "en": "219"
+  },
+  {
+    "hex": "#F500D0",
+    "name": "Rubine Red",
+    "source": "商",
+    "en": "Rubine Red"
+  },
+  {
+    "hex": "#D400B8",
+    "name": "220",
+    "source": "商",
+    "en": "220"
+  },
+  {
+    "hex": "#B30098",
+    "name": "221",
+    "source": "商",
+    "en": "221"
+  },
+  {
+    "hex": "#69005E",
+    "name": "222",
+    "source": "商",
+    "en": "222"
+  },
+  {
+    "hex": "#FF8AFF",
+    "name": "223",
+    "source": "商",
+    "en": "223"
+  },
+  {
+    "hex": "#FC5EFF",
+    "name": "224",
+    "source": "商",
+    "en": "224"
+  },
+  {
+    "hex": "#FC2BFF",
+    "name": "225",
+    "source": "商",
+    "en": "225"
+  },
+  {
+    "hex": "#FF00FF",
+    "name": "226",
+    "source": "商",
+    "en": "226"
+  },
+  {
+    "hex": "#CF00C0",
+    "name": "227",
+    "source": "商",
+    "en": "227"
+  },
+  {
+    "hex": "#960090",
+    "name": "228",
+    "source": "商",
+    "en": "228"
+  },
+  {
+    "hex": "#660057",
+    "name": "229",
+    "source": "商",
+    "en": "229"
+  },
+  {
+    "hex": "#FFA8FF",
+    "name": "230",
+    "source": "商",
+    "en": "230"
+  },
+  {
+    "hex": "#FC7AFF",
+    "name": "231",
+    "source": "商",
+    "en": "231"
+  },
+  {
+    "hex": "#F754FF",
+    "name": "232",
+    "source": "商",
+    "en": "232"
+  },
+  {
+    "hex": "#F71CFF",
+    "name": "Rhodamine Red",
+    "source": "商",
+    "en": "Rhodamine Red"
+  },
+  {
+    "hex": "#E300FF",
+    "name": "233",
+    "source": "商",
+    "en": "233"
+  },
+  {
+    "hex": "#B100BD",
+    "name": "234",
+    "source": "商",
+    "en": "234"
+  },
+  {
+    "hex": "#910099",
+    "name": "235",
+    "source": "商",
+    "en": "235"
+  },
+  {
+    "hex": "#FCB3FF",
+    "name": "236",
+    "source": "商",
+    "en": "236"
+  },
+  {
+    "hex": "#FABAFF",
+    "name": "2365",
+    "source": "商",
+    "en": "2365"
+  },
+  {
+    "hex": "#F782FF",
+    "name": "237",
+    "source": "商",
+    "en": "237"
+  },
+  {
+    "hex": "#E66EFF",
+    "name": "2375",
+    "source": "商",
+    "en": "2375"
+  },
+  {
+    "hex": "#F05EFF",
+    "name": "238",
+    "source": "商",
+    "en": "238"
+  },
+  {
+    "hex": "#CF36FF",
+    "name": "2385",
+    "source": "商",
+    "en": "2385"
+  },
+  {
+    "hex": "#E336FF",
+    "name": "239",
+    "source": "商",
+    "en": "239"
+  },
+  {
+    "hex": "#BA0DFF",
+    "name": "2395",
+    "source": "商",
+    "en": "2395"
+  },
+  {
+    "hex": "#D10FFF",
+    "name": "240",
+    "source": "商",
+    "en": "240"
+  },
+  {
+    "hex": "#A800FF",
+    "name": "2405",
+    "source": "商",
+    "en": "2405"
+  },
+  {
+    "hex": "#B600FA",
+    "name": "241",
+    "source": "商",
+    "en": "241"
+  },
+  {
+    "hex": "#9D00EB",
+    "name": "2415",
+    "source": "商",
+    "en": "2415"
+  },
+  {
+    "hex": "#750082",
+    "name": "242",
+    "source": "商",
+    "en": "242"
+  },
+  {
+    "hex": "#7700BD",
+    "name": "2425",
+    "source": "商",
+    "en": "2425"
+  },
+  {
+    "hex": "#F2B5FF",
+    "name": "243",
+    "source": "商",
+    "en": "243"
+  },
+  {
+    "hex": "#E89EFF",
+    "name": "244",
+    "source": "商",
+    "en": "244"
+  },
+  {
+    "hex": "#DB78FF",
+    "name": "245",
+    "source": "商",
+    "en": "245"
+  },
+  {
+    "hex": "#B51AFF",
+    "name": "246",
+    "source": "商",
+    "en": "246"
+  },
+  {
+    "hex": "#A300FF",
+    "name": "247",
+    "source": "商",
+    "en": "247"
+  },
+  {
+    "hex": "#9600FA",
+    "name": "248",
+    "source": "商",
+    "en": "248"
+  },
+  {
+    "hex": "#6E00B8",
+    "name": "249",
+    "source": "商",
+    "en": "249"
+  },
+  {
+    "hex": "#F2D1FF",
+    "name": "250",
+    "source": "商",
+    "en": "250"
+  },
+  {
+    "hex": "#DE9CFF",
+    "name": "251",
+    "source": "商",
+    "en": "251"
+  },
+  {
+    "hex": "#C270FF",
+    "name": "252",
+    "source": "商",
+    "en": "252"
+  },
+  {
+    "hex": "#9E1FFF",
+    "name": "Purple",
+    "source": "商",
+    "en": "Purple"
+  },
+  {
+    "hex": "#910DFF",
+    "name": "253",
+    "source": "商",
+    "en": "253"
+  },
+  {
+    "hex": "#8000FF",
+    "name": "254",
+    "source": "商",
+    "en": "254"
+  },
+  {
+    "hex": "#5E00BF",
+    "name": "255",
+    "source": "商",
+    "en": "255"
+  },
+  {
+    "hex": "#EDCCFF",
+    "name": "256",
+    "source": "商",
+    "en": "256"
+  },
+  {
+    "hex": "#CFA6FF",
+    "name": "2562",
+    "source": "商",
+    "en": "2562"
+  },
+  {
+    "hex": "#C7ABFF",
+    "name": "2563",
+    "source": "商",
+    "en": "2563"
+  },
+  {
+    "hex": "#B5A3FF",
+    "name": "2567",
+    "source": "商",
+    "en": "2567"
+  },
+  {
+    "hex": "#DBA8FF",
+    "name": "257",
+    "source": "商",
+    "en": "257"
+  },
+  {
+    "hex": "#B387FF",
+    "name": "2572",
+    "source": "商",
+    "en": "2572"
+  },
+  {
+    "hex": "#B391FF",
+    "name": "2573",
+    "source": "商",
+    "en": "2573"
+  },
+  {
+    "hex": "#998CFF",
+    "name": "2577",
+    "source": "商",
+    "en": "2577"
+  },
+  {
+    "hex": "#913DFF",
+    "name": "258",
+    "source": "商",
+    "en": "258"
+  },
+  {
+    "hex": "#8A47FF",
+    "name": "2582",
+    "source": "商",
+    "en": "2582"
+  },
+  {
+    "hex": "#8A5EFF",
+    "name": "2583",
+    "source": "商",
+    "en": "2583"
+  },
+  {
+    "hex": "#6957FF",
+    "name": "2587",
+    "source": "商",
+    "en": "2587"
+  },
+  {
+    "hex": "#5F00D9",
+    "name": "259",
+    "source": "商",
+    "en": "259"
+  },
+  {
+    "hex": "#661AFF",
+    "name": "2592",
+    "source": "商",
+    "en": "2592"
+  },
+  {
+    "hex": "#631CFF",
+    "name": "2593",
+    "source": "商",
+    "en": "2593"
+  },
+  {
+    "hex": "#2600FF",
+    "name": "2597",
+    "source": "商",
+    "en": "2597"
+  },
+  {
+    "hex": "#5B00BD",
+    "name": "260",
+    "source": "商",
+    "en": "260"
+  },
+  {
+    "hex": "#5C00F7",
+    "name": "2602",
+    "source": "商",
+    "en": "2602"
+  },
+  {
+    "hex": "#4D00FA",
+    "name": "2603",
+    "source": "商",
+    "en": "2603"
+  },
+  {
+    "hex": "#2D00ED",
+    "name": "2607",
+    "source": "商",
+    "en": "2607"
+  },
+  {
+    "hex": "#500099",
+    "name": "261",
+    "source": "商",
+    "en": "261"
+  },
+  {
+    "hex": "#4F00DB",
+    "name": "2612",
+    "source": "商",
+    "en": "2612"
+  },
+  {
+    "hex": "#5000D9",
+    "name": "2613",
+    "source": "商",
+    "en": "2613"
+  },
+  {
+    "hex": "#2E00D9",
+    "name": "2617",
+    "source": "商",
+    "en": "2617"
+  },
+  {
+    "hex": "#3F0073",
+    "name": "262",
+    "source": "商",
+    "en": "262"
+  },
+  {
+    "hex": "#3C008F",
+    "name": "2622",
+    "source": "商",
+    "en": "2622"
+  },
+  {
+    "hex": "#4700AD",
+    "name": "2623",
+    "source": "商",
+    "en": "2623"
+  },
+  {
+    "hex": "#2800B0",
+    "name": "2627",
+    "source": "商",
+    "en": "2627"
+  },
+  {
+    "hex": "#E6DBFF",
+    "name": "263",
+    "source": "商",
+    "en": "263"
+  },
+  {
+    "hex": "#B8BAFF",
+    "name": "2635",
+    "source": "商",
+    "en": "2635"
+  },
+  {
+    "hex": "#BDB8FF",
+    "name": "264",
+    "source": "商",
+    "en": "264"
+  },
+  {
+    "hex": "#99A3FF",
+    "name": "2645",
+    "source": "商",
+    "en": "2645"
+  },
+  {
+    "hex": "#7570FF",
+    "name": "265",
+    "source": "商",
+    "en": "265"
+  },
+  {
+    "hex": "#7582FF",
+    "name": "2655",
+    "source": "商",
+    "en": "2655"
+  },
+  {
+    "hex": "#361AFF",
+    "name": "266",
+    "source": "商",
+    "en": "266"
+  },
+  {
+    "hex": "#6166FF",
+    "name": "2665",
+    "source": "商",
+    "en": "2665"
+  },
+  {
+    "hex": "#0500FF",
+    "name": "Violet",
+    "source": "商",
+    "en": "Violet"
+  },
+  {
+    "hex": "#1C00FF",
+    "name": "267",
+    "source": "商",
+    "en": "267"
+  },
+  {
+    "hex": "#2800E0",
+    "name": "268",
+    "source": "商",
+    "en": "268"
+  },
+  {
+    "hex": "#0900E6",
+    "name": "2685",
+    "source": "商",
+    "en": "2685"
+  },
+  {
+    "hex": "#2600AB",
+    "name": "269",
+    "source": "商",
+    "en": "269"
+  },
+  {
+    "hex": "#0C0082",
+    "name": "2695",
+    "source": "商",
+    "en": "2695"
+  },
+  {
+    "hex": "#B0BAFF",
+    "name": "270",
+    "source": "商",
+    "en": "270"
+  },
+  {
+    "hex": "#99B3FF",
+    "name": "2705",
+    "source": "商",
+    "en": "2705"
+  },
+  {
+    "hex": "#CFE8FF",
+    "name": "2706",
+    "source": "商",
+    "en": "2706"
+  },
+  {
+    "hex": "#D4F0FF",
+    "name": "2707",
+    "source": "商",
+    "en": "2707"
+  },
+  {
+    "hex": "#BDE6FF",
+    "name": "2708",
+    "source": "商",
+    "en": "2708"
+  },
+  {
+    "hex": "#91A1FF",
+    "name": "271",
+    "source": "商",
+    "en": "271"
+  },
+  {
+    "hex": "#6E8CFF",
+    "name": "2715",
+    "source": "商",
+    "en": "2715"
+  },
+  {
+    "hex": "#8CB5FF",
+    "name": "2716",
+    "source": "商",
+    "en": "2716"
+  },
+  {
+    "hex": "#B5E0FF",
+    "name": "2717",
+    "source": "商",
+    "en": "2717"
+  },
+  {
+    "hex": "#5496FF",
+    "name": "2718",
+    "source": "商",
+    "en": "2718"
+  },
+  {
+    "hex": "#6B85FF",
+    "name": "272",
+    "source": "商",
+    "en": "272"
+  },
+  {
+    "hex": "#3B52FF",
+    "name": "2725",
+    "source": "商",
+    "en": "2725"
+  },
+  {
+    "hex": "#3657FF",
+    "name": "2726",
+    "source": "商",
+    "en": "2726"
+  },
+  {
+    "hex": "#4A94FF",
+    "name": "2727",
+    "source": "商",
+    "en": "2727"
+  },
+  {
+    "hex": "#001DF2",
+    "name": "Blue 072",
+    "source": "商",
+    "en": "Blue 072"
+  },
+  {
+    "hex": "#0A4FFF",
+    "name": "2728",
+    "source": "商",
+    "en": "2728"
+  },
+  {
+    "hex": "#0009EB",
+    "name": "273",
+    "source": "商",
+    "en": "273"
+  },
+  {
+    "hex": "#000DFF",
+    "name": "2735",
+    "source": "商",
+    "en": "2735"
+  },
+  {
+    "hex": "#0017FF",
+    "name": "2736",
+    "source": "商",
+    "en": "2736"
+  },
+  {
+    "hex": "#0020FA",
+    "name": "2738",
+    "source": "商",
+    "en": "2738"
+  },
+  {
+    "hex": "#0000B8",
+    "name": "274",
+    "source": "商",
+    "en": "274"
+  },
+  {
+    "hex": "#000BD9",
+    "name": "2745",
+    "source": "商",
+    "en": "2745"
+  },
+  {
+    "hex": "#0012E6",
+    "name": "2746",
+    "source": "商",
+    "en": "2746"
+  },
+  {
+    "hex": "#001ED9",
+    "name": "2747",
+    "source": "商",
+    "en": "2747"
+  },
+  {
+    "hex": "#001AD9",
+    "name": "2748",
+    "source": "商",
+    "en": "2748"
+  },
+  {
+    "hex": "#030091",
+    "name": "275",
+    "source": "商",
+    "en": "275"
+  },
+  {
+    "hex": "#0005B3",
+    "name": "2755",
+    "source": "商",
+    "en": "2755"
+  },
+  {
+    "hex": "#000BB5",
+    "name": "2756",
+    "source": "商",
+    "en": "2756"
+  },
+  {
+    "hex": "#0020B3",
+    "name": "2757",
+    "source": "商",
+    "en": "2757"
+  },
+  {
+    "hex": "#0026BD",
+    "name": "2758",
+    "source": "商",
+    "en": "2758"
+  },
+  {
+    "hex": "#020073",
+    "name": "276",
+    "source": "商",
+    "en": "276"
+  },
+  {
+    "hex": "#00048C",
+    "name": "2765",
+    "source": "商",
+    "en": "2765"
+  },
+  {
+    "hex": "#000887",
+    "name": "2766",
+    "source": "商",
+    "en": "2766"
+  },
+  {
+    "hex": "#001A75",
+    "name": "2767",
+    "source": "商",
+    "en": "2767"
+  },
+  {
+    "hex": "#001F8F",
+    "name": "2768",
+    "source": "商",
+    "en": "2768"
+  },
+  {
+    "hex": "#BAEDFF",
+    "name": "277",
+    "source": "商",
+    "en": "277"
+  },
+  {
+    "hex": "#9CDBFF",
+    "name": "278",
+    "source": "商",
+    "en": "278"
+  },
+  {
+    "hex": "#52A8FF",
+    "name": "279",
+    "source": "商",
+    "en": "279"
+  },
+  {
+    "hex": "#0043FA",
+    "name": "Reflex Blue",
+    "source": "商",
+    "en": "Reflex Blue"
+  },
+  {
+    "hex": "#003BD1",
+    "name": "280",
+    "source": "商",
+    "en": "280"
+  },
+  {
+    "hex": "#0031AD",
+    "name": "281",
+    "source": "商",
+    "en": "281"
+  },
+  {
+    "hex": "#002675",
+    "name": "282",
+    "source": "商",
+    "en": "282"
+  },
+  {
+    "hex": "#A6E8FF",
+    "name": "283",
+    "source": "商",
+    "en": "283"
+  },
+  {
+    "hex": "#73CFFF",
+    "name": "284",
+    "source": "商",
+    "en": "284"
+  },
+  {
+    "hex": "#1C91FF",
+    "name": "285",
+    "source": "商",
+    "en": "285"
+  },
+  {
+    "hex": "#0055FA",
+    "name": "286",
+    "source": "商",
+    "en": "286"
+  },
+  {
+    "hex": "#0048E0",
+    "name": "287",
+    "source": "商",
+    "en": "287"
+  },
+  {
+    "hex": "#0041C4",
+    "name": "288",
+    "source": "商",
+    "en": "288"
+  },
+  {
+    "hex": "#00246B",
+    "name": "289",
+    "source": "商",
+    "en": "289"
+  },
+  {
+    "hex": "#BFFAFF",
+    "name": "290",
+    "source": "商",
+    "en": "290"
+  },
+  {
+    "hex": "#96FAFF",
+    "name": "2905",
+    "source": "商",
+    "en": "2905"
+  },
+  {
+    "hex": "#ABF7FF",
+    "name": "291",
+    "source": "商",
+    "en": "291"
+  },
+  {
+    "hex": "#69EDFF",
+    "name": "2915",
+    "source": "商",
+    "en": "2915"
+  },
+  {
+    "hex": "#82E3FF",
+    "name": "292",
+    "source": "商",
+    "en": "292"
+  },
+  {
+    "hex": "#26C2FF",
+    "name": "2925",
+    "source": "商",
+    "en": "2925"
+  },
+  {
+    "hex": "#006BFA",
+    "name": "293",
+    "source": "商",
+    "en": "293"
+  },
+  {
+    "hex": "#008AFF",
+    "name": "2935",
+    "source": "商",
+    "en": "2935"
+  },
+  {
+    "hex": "#0055C9",
+    "name": "294",
+    "source": "商",
+    "en": "294"
+  },
+  {
+    "hex": "#0079DB",
+    "name": "2945",
+    "source": "商",
+    "en": "2945"
+  },
+  {
+    "hex": "#0045A1",
+    "name": "295",
+    "source": "商",
+    "en": "295"
+  },
+  {
+    "hex": "#0058A1",
+    "name": "2955",
+    "source": "商",
+    "en": "2955"
+  },
+  {
+    "hex": "#00294D",
+    "name": "296",
+    "source": "商",
+    "en": "296"
+  },
+  {
+    "hex": "#00395C",
+    "name": "2965",
+    "source": "商",
+    "en": "2965"
+  },
+  {
+    "hex": "#82FCFF",
+    "name": "297",
+    "source": "商",
+    "en": "297"
+  },
+  {
+    "hex": "#B3FFF2",
+    "name": "2975",
+    "source": "商",
+    "en": "2975"
+  },
+  {
+    "hex": "#4FEDFF",
+    "name": "298",
+    "source": "商",
+    "en": "298"
+  },
+  {
+    "hex": "#69FFF0",
+    "name": "2985",
+    "source": "商",
+    "en": "2985"
+  },
+  {
+    "hex": "#26CFFF",
+    "name": "299",
+    "source": "商",
+    "en": "299"
+  },
+  {
+    "hex": "#1AE3FF",
+    "name": "2995",
+    "source": "商",
+    "en": "2995"
+  },
+  {
+    "hex": "#008FFF",
+    "name": "300",
+    "source": "商",
+    "en": "300"
+  },
+  {
+    "hex": "#00A0FA",
+    "name": "3005",
+    "source": "商",
+    "en": "3005"
+  },
+  {
+    "hex": "#0073D1",
+    "name": "301",
+    "source": "商",
+    "en": "301"
+  },
+  {
+    "hex": "#0089CC",
+    "name": "3015",
+    "source": "商",
+    "en": "3015"
+  },
+  {
+    "hex": "#006080",
+    "name": "302",
+    "source": "商",
+    "en": "302"
+  },
+  {
+    "hex": "#00687D",
+    "name": "3025",
+    "source": "商",
+    "en": "3025"
+  },
+  {
+    "hex": "#003B42",
+    "name": "303",
+    "source": "商",
+    "en": "303"
+  },
+  {
+    "hex": "#004744",
+    "name": "3035",
+    "source": "商",
+    "en": "3035"
+  },
+  {
+    "hex": "#B3FFEB",
+    "name": "304",
+    "source": "商",
+    "en": "304"
+  },
+  {
+    "hex": "#7DFFE8",
+    "name": "305",
+    "source": "商",
+    "en": "305"
+  },
+  {
+    "hex": "#40FFED",
+    "name": "306",
+    "source": "商",
+    "en": "306"
+  },
+  {
+    "hex": "#00CFE6",
+    "name": "Process Blue",
+    "source": "商",
+    "en": "Process Blue"
+  },
+  {
+    "hex": "#009CBA",
+    "name": "307",
+    "source": "商",
+    "en": "307"
+  },
+  {
+    "hex": "#008087",
+    "name": "308",
+    "source": "商",
+    "en": "308"
+  },
+  {
+    "hex": "#004741",
+    "name": "309",
+    "source": "商",
+    "en": "309"
+  },
+  {
+    "hex": "#91FFE6",
+    "name": "310",
+    "source": "商",
+    "en": "310"
+  },
+  {
+    "hex": "#91FFE0",
+    "name": "3105",
+    "source": "商",
+    "en": "3105"
+  },
+  {
+    "hex": "#5EFFE0",
+    "name": "311",
+    "source": "商",
+    "en": "311"
+  },
+  {
+    "hex": "#5EFFD1",
+    "name": "3115",
+    "source": "商",
+    "en": "3115"
+  },
+  {
+    "hex": "#0AFFE3",
+    "name": "312",
+    "source": "商",
+    "en": "312"
+  },
+  {
+    "hex": "#2BFFC9",
+    "name": "3125",
+    "source": "商",
+    "en": "3125"
+  },
+  {
+    "hex": "#00DECC",
+    "name": "313",
+    "source": "商",
+    "en": "313"
+  },
+  {
+    "hex": "#00E8C3",
+    "name": "3135",
+    "source": "商",
+    "en": "3135"
+  },
+  {
+    "hex": "#00B3A2",
+    "name": "314",
+    "source": "商",
+    "en": "314"
+  },
+  {
+    "hex": "#00C49F",
+    "name": "3145",
+    "source": "商",
+    "en": "3145"
+  },
+  {
+    "hex": "#009180",
+    "name": "315",
+    "source": "商",
+    "en": "315"
+  },
+  {
+    "hex": "#009E78",
+    "name": "3155",
+    "source": "商",
+    "en": "3155"
+  },
+  {
+    "hex": "#00523C",
+    "name": "316",
+    "source": "商",
+    "en": "316"
+  },
+  {
+    "hex": "#005940",
+    "name": "3165",
+    "source": "商",
+    "en": "3165"
+  },
+  {
+    "hex": "#D1FFEB",
+    "name": "317",
+    "source": "商",
+    "en": "317"
+  },
+  {
+    "hex": "#9EFFD9",
+    "name": "318",
+    "source": "商",
+    "en": "318"
+  },
+  {
+    "hex": "#7AFFCF",
+    "name": "319",
+    "source": "商",
+    "en": "319"
+  },
+  {
+    "hex": "#00EDA4",
+    "name": "320",
+    "source": "商",
+    "en": "320"
+  },
+  {
+    "hex": "#00C487",
+    "name": "321",
+    "source": "商",
+    "en": "321"
+  },
+  {
+    "hex": "#00A66F",
+    "name": "322",
+    "source": "商",
+    "en": "322"
+  },
+  {
+    "hex": "#008754",
+    "name": "323",
+    "source": "商",
+    "en": "323"
+  },
+  {
+    "hex": "#B8FFE0",
+    "name": "324",
+    "source": "商",
+    "en": "324"
+  },
+  {
+    "hex": "#A1FFD1",
+    "name": "3242",
+    "source": "商",
+    "en": "3242"
+  },
+  {
+    "hex": "#A8FFCF",
+    "name": "3245",
+    "source": "商",
+    "en": "3245"
+  },
+  {
+    "hex": "#91FFC2",
+    "name": "3248",
+    "source": "商",
+    "en": "3248"
+  },
+  {
+    "hex": "#70FFBD",
+    "name": "325",
+    "source": "商",
+    "en": "325"
+  },
+  {
+    "hex": "#87FFC2",
+    "name": "3252",
+    "source": "商",
+    "en": "3252"
+  },
+  {
+    "hex": "#82FFB8",
+    "name": "3255",
+    "source": "商",
+    "en": "3255"
+  },
+  {
+    "hex": "#69FFAB",
+    "name": "3258",
+    "source": "商",
+    "en": "3258"
+  },
+  {
+    "hex": "#21FF9E",
+    "name": "326",
+    "source": "商",
+    "en": "326"
+  },
+  {
+    "hex": "#4AFFAB",
+    "name": "3262",
+    "source": "商",
+    "en": "3262"
+  },
+  {
+    "hex": "#4FFFA1",
+    "name": "3265",
+    "source": "商",
+    "en": "3265"
+  },
+  {
+    "hex": "#1AFF82",
+    "name": "3268",
+    "source": "商",
+    "en": "3268"
+  },
+  {
+    "hex": "#00D477",
+    "name": "327",
+    "source": "商",
+    "en": "327"
+  },
+  {
+    "hex": "#00FF8F",
+    "name": "3272",
+    "source": "商",
+    "en": "3272"
+  },
+  {
+    "hex": "#0DFF87",
+    "name": "3275",
+    "source": "商",
+    "en": "3275"
+  },
+  {
+    "hex": "#00F26D",
+    "name": "3278",
+    "source": "商",
+    "en": "3278"
+  },
+  {
+    "hex": "#00AD5F",
+    "name": "328",
+    "source": "商",
+    "en": "328"
+  },
+  {
+    "hex": "#00D975",
+    "name": "3282",
+    "source": "商",
+    "en": "3282"
+  },
+  {
+    "hex": "#00ED77",
+    "name": "3285",
+    "source": "商",
+    "en": "3285"
+  },
+  {
+    "hex": "#00CC5E",
+    "name": "3288",
+    "source": "商",
+    "en": "3288"
+  },
+  {
+    "hex": "#008A4A",
+    "name": "329",
+    "source": "商",
+    "en": "329"
+  },
+  {
+    "hex": "#008A46",
+    "name": "3292",
+    "source": "商",
+    "en": "3292"
+  },
+  {
+    "hex": "#00C95F",
+    "name": "3295",
+    "source": "商",
+    "en": "3295"
+  },
+  {
+    "hex": "#009440",
+    "name": "3298",
+    "source": "商",
+    "en": "3298"
+  },
+  {
+    "hex": "#006635",
+    "name": "330",
+    "source": "商",
+    "en": "330"
+  },
+  {
+    "hex": "#004F24",
+    "name": "3302",
+    "source": "商",
+    "en": "3302"
+  },
+  {
+    "hex": "#006327",
+    "name": "3305",
+    "source": "商",
+    "en": "3305"
+  },
+  {
+    "hex": "#00471D",
+    "name": "3308",
+    "source": "商",
+    "en": "3308"
+  },
+  {
+    "hex": "#C2FFD6",
+    "name": "331",
+    "source": "商",
+    "en": "331"
+  },
+  {
+    "hex": "#B3FFCC",
+    "name": "332",
+    "source": "商",
+    "en": "332"
+  },
+  {
+    "hex": "#91FFBA",
+    "name": "333",
+    "source": "商",
+    "en": "333"
+  },
+  {
+    "hex": "#00FF69",
+    "name": "Green",
+    "source": "商",
+    "en": "Green"
+  },
+  {
+    "hex": "#00F763",
+    "name": "334",
+    "source": "商",
+    "en": "334"
+  },
+  {
+    "hex": "#00B33E",
+    "name": "335",
+    "source": "商",
+    "en": "335"
+  },
+  {
+    "hex": "#00872D",
+    "name": "336",
+    "source": "商",
+    "en": "336"
+  },
+  {
+    "hex": "#B0FFCC",
+    "name": "337",
+    "source": "商",
+    "en": "337"
+  },
+  {
+    "hex": "#A6FFBF",
+    "name": "3375",
+    "source": "商",
+    "en": "3375"
+  },
+  {
+    "hex": "#87FFAD",
+    "name": "338",
+    "source": "商",
+    "en": "338"
+  },
+  {
+    "hex": "#8CFFAB",
+    "name": "3385",
+    "source": "商",
+    "en": "3385"
+  },
+  {
+    "hex": "#29FF70",
+    "name": "339",
+    "source": "商",
+    "en": "339"
+  },
+  {
+    "hex": "#63FF8C",
+    "name": "3395",
+    "source": "商",
+    "en": "3395"
+  },
+  {
+    "hex": "#00E84F",
+    "name": "340",
+    "source": "商",
+    "en": "340"
+  },
+  {
+    "hex": "#26FF59",
+    "name": "3405",
+    "source": "商",
+    "en": "3405"
+  },
+  {
+    "hex": "#00B53C",
+    "name": "341",
+    "source": "商",
+    "en": "341"
+  },
+  {
+    "hex": "#00C72E",
+    "name": "3415",
+    "source": "商",
+    "en": "3415"
+  },
+  {
+    "hex": "#00912A",
+    "name": "342",
+    "source": "商",
+    "en": "342"
+  },
+  {
+    "hex": "#009421",
+    "name": "3425",
+    "source": "商",
+    "en": "3425"
+  },
+  {
+    "hex": "#02631C",
+    "name": "343",
+    "source": "商",
+    "en": "343"
+  },
+  {
+    "hex": "#005710",
+    "name": "3435",
+    "source": "商",
+    "en": "3435"
+  },
+  {
+    "hex": "#BAFFC4",
+    "name": "344",
+    "source": "商",
+    "en": "344"
+  },
+  {
+    "hex": "#9EFFAD",
+    "name": "345",
+    "source": "商",
+    "en": "345"
+  },
+  {
+    "hex": "#73FF87",
+    "name": "346",
+    "source": "商",
+    "en": "346"
+  },
+  {
+    "hex": "#00F723",
+    "name": "347",
+    "source": "商",
+    "en": "347"
+  },
+  {
+    "hex": "#00C21D",
+    "name": "348",
+    "source": "商",
+    "en": "348"
+  },
+  {
+    "hex": "#00940D",
+    "name": "349",
+    "source": "商",
+    "en": "349"
+  },
+  {
+    "hex": "#0D4000",
+    "name": "350",
+    "source": "商",
+    "en": "350"
+  },
+  {
+    "hex": "#D4FFD6",
+    "name": "351",
+    "source": "商",
+    "en": "351"
+  },
+  {
+    "hex": "#BAFFBF",
+    "name": "352",
+    "source": "商",
+    "en": "352"
+  },
+  {
+    "hex": "#9EFFA3",
+    "name": "353",
+    "source": "商",
+    "en": "353"
+  },
+  {
+    "hex": "#33FF1A",
+    "name": "354",
+    "source": "商",
+    "en": "354"
+  },
+  {
+    "hex": "#0FFF00",
+    "name": "355",
+    "source": "商",
+    "en": "355"
+  },
+  {
+    "hex": "#09BA00",
+    "name": "356",
+    "source": "商",
+    "en": "356"
+  },
+  {
+    "hex": "#167000",
+    "name": "357",
+    "source": "商",
+    "en": "357"
+  },
+  {
+    "hex": "#BAFF9E",
+    "name": "358",
+    "source": "商",
+    "en": "358"
+  },
+  {
+    "hex": "#A3FF82",
+    "name": "359",
+    "source": "商",
+    "en": "359"
+  },
+  {
+    "hex": "#6BFF33",
+    "name": "360",
+    "source": "商",
+    "en": "360"
+  },
+  {
+    "hex": "#4FFF00",
+    "name": "361",
+    "source": "商",
+    "en": "361"
+  },
+  {
+    "hex": "#46E800",
+    "name": "362",
+    "source": "商",
+    "en": "362"
+  },
+  {
+    "hex": "#3EC200",
+    "name": "363",
+    "source": "商",
+    "en": "363"
+  },
+  {
+    "hex": "#349400",
+    "name": "364",
+    "source": "商",
+    "en": "364"
+  },
+  {
+    "hex": "#E0FFB5",
+    "name": "365",
+    "source": "商",
+    "en": "365"
+  },
+  {
+    "hex": "#CCFF8F",
+    "name": "366",
+    "source": "商",
+    "en": "366"
+  },
+  {
+    "hex": "#ADFF69",
+    "name": "367",
+    "source": "商",
+    "en": "367"
+  },
+  {
+    "hex": "#6EFF00",
+    "name": "368",
+    "source": "商",
+    "en": "368"
+  },
+  {
+    "hex": "#61ED00",
+    "name": "369",
+    "source": "商",
+    "en": "369"
+  },
+  {
+    "hex": "#52BA00",
+    "name": "370",
+    "source": "商",
+    "en": "370"
+  },
+  {
+    "hex": "#407000",
+    "name": "371",
+    "source": "商",
+    "en": "371"
+  },
+  {
+    "hex": "#E6FFAB",
+    "name": "372",
+    "source": "商",
+    "en": "372"
+  },
+  {
+    "hex": "#D6FF8A",
+    "name": "373",
+    "source": "商",
+    "en": "373"
+  },
+  {
+    "hex": "#C2FF6E",
+    "name": "374",
+    "source": "商",
+    "en": "374"
+  },
+  {
+    "hex": "#96FF38",
+    "name": "375",
+    "source": "商",
+    "en": "375"
+  },
+  {
+    "hex": "#74F200",
+    "name": "376",
+    "source": "商",
+    "en": "376"
+  },
+  {
+    "hex": "#6BC200",
+    "name": "377",
+    "source": "商",
+    "en": "377"
+  },
+  {
+    "hex": "#436600",
+    "name": "378",
+    "source": "商",
+    "en": "378"
+  },
+  {
+    "hex": "#E8FF6B",
+    "name": "379",
+    "source": "商",
+    "en": "379"
+  },
+  {
+    "hex": "#DEFF47",
+    "name": "380",
+    "source": "商",
+    "en": "380"
+  },
+  {
+    "hex": "#CCFF17",
+    "name": "381",
+    "source": "商",
+    "en": "381"
+  },
+  {
+    "hex": "#B5FF00",
+    "name": "382",
+    "source": "商",
+    "en": "382"
+  },
+  {
+    "hex": "#A5CF00",
+    "name": "383",
+    "source": "商",
+    "en": "383"
+  },
+  {
+    "hex": "#90B000",
+    "name": "384",
+    "source": "商",
+    "en": "384"
+  },
+  {
+    "hex": "#686B00",
+    "name": "385",
+    "source": "商",
+    "en": "385"
+  },
+  {
+    "hex": "#F0FF70",
+    "name": "386",
+    "source": "商",
+    "en": "386"
+  },
+  {
+    "hex": "#E6FF42",
+    "name": "387",
+    "source": "商",
+    "en": "387"
+  },
+  {
+    "hex": "#DBFF36",
+    "name": "388",
+    "source": "商",
+    "en": "388"
+  },
+  {
+    "hex": "#CCFF26",
+    "name": "389",
+    "source": "商",
+    "en": "389"
+  },
+  {
+    "hex": "#B7EB00",
+    "name": "390",
+    "source": "商",
+    "en": "390"
+  },
+  {
+    "hex": "#95AB00",
+    "name": "391",
+    "source": "商",
+    "en": "391"
+  },
+  {
+    "hex": "#798200",
+    "name": "392",
+    "source": "商",
+    "en": "392"
+  },
+  {
+    "hex": "#F7FF73",
+    "name": "393",
+    "source": "商",
+    "en": "393"
+  },
+  {
+    "hex": "#FCFF52",
+    "name": "3935",
+    "source": "商",
+    "en": "3935"
+  },
+  {
+    "hex": "#F0FF3D",
+    "name": "394",
+    "source": "商",
+    "en": "394"
+  },
+  {
+    "hex": "#F7FF26",
+    "name": "3945",
+    "source": "商",
+    "en": "3945"
+  },
+  {
+    "hex": "#EBFF26",
+    "name": "395",
+    "source": "商",
+    "en": "395"
+  },
+  {
+    "hex": "#F0FF00",
+    "name": "3955",
+    "source": "商",
+    "en": "3955"
+  },
+  {
+    "hex": "#E3FF0F",
+    "name": "396",
+    "source": "商",
+    "en": "396"
+  },
+  {
+    "hex": "#EBFF00",
+    "name": "3965",
+    "source": "商",
+    "en": "3965"
+  },
+  {
+    "hex": "#CCE300",
+    "name": "397",
+    "source": "商",
+    "en": "397"
+  },
+  {
+    "hex": "#B5B500",
+    "name": "3975",
+    "source": "商",
+    "en": "3975"
+  },
+  {
+    "hex": "#ABB800",
+    "name": "398",
+    "source": "商",
+    "en": "398"
+  },
+  {
+    "hex": "#969200",
+    "name": "3985",
+    "source": "商",
+    "en": "3985"
+  },
+  {
+    "hex": "#919100",
+    "name": "399",
+    "source": "商",
+    "en": "399"
+  },
+  {
+    "hex": "#5C5900",
+    "name": "3995",
+    "source": "商",
+    "en": "3995"
+  },
+  {
+    "hex": "#D6D0C9",
+    "name": "400",
+    "source": "商",
+    "en": "400"
+  },
+  {
+    "hex": "#C4BBAF",
+    "name": "401",
+    "source": "商",
+    "en": "401"
+  },
+  {
+    "hex": "#B0A597",
+    "name": "402",
+    "source": "商",
+    "en": "402"
+  },
+  {
+    "hex": "#918779",
+    "name": "403",
+    "source": "商",
+    "en": "403"
+  },
+  {
+    "hex": "#706758",
+    "name": "404",
+    "source": "商",
+    "en": "404"
+  },
+  {
+    "hex": "#474030",
+    "name": "405",
+    "source": "商",
+    "en": "405"
+  },
+  {
+    "hex": "#050403",
+    "name": "Black",
+    "source": "商",
+    "en": "Black"
+  },
+  {
+    "hex": "#D6CBC9",
+    "name": "406",
+    "source": "商",
+    "en": "406"
+  },
+  {
+    "hex": "#BDAEAC",
+    "name": "407",
+    "source": "商",
+    "en": "407"
+  },
+  {
+    "hex": "#A89796",
+    "name": "408",
+    "source": "商",
+    "en": "408"
+  },
+  {
+    "hex": "#8C7A77",
+    "name": "409",
+    "source": "商",
+    "en": "409"
+  },
+  {
+    "hex": "#705C59",
+    "name": "410",
+    "source": "商",
+    "en": "410"
+  },
+  {
+    "hex": "#47342E",
+    "name": "411",
+    "source": "商",
+    "en": "411"
+  },
+  {
+    "hex": "#050402",
+    "name": "412",
+    "source": "商",
+    "en": "412"
+  },
+  {
+    "hex": "#CCCCBA",
+    "name": "413",
+    "source": "商",
+    "en": "413"
+  },
+  {
+    "hex": "#B3B3A1",
+    "name": "414",
+    "source": "商",
+    "en": "414"
+  },
+  {
+    "hex": "#969684",
+    "name": "415",
+    "source": "商",
+    "en": "415"
+  },
+  {
+    "hex": "#80806B",
+    "name": "416",
+    "source": "商",
+    "en": "416"
+  },
+  {
+    "hex": "#585943",
+    "name": "417",
+    "source": "商",
+    "en": "417"
+  },
+  {
+    "hex": "#3E402C",
+    "name": "418",
+    "source": "商",
+    "en": "418"
+  },
+  {
+    "hex": "#000000",
+    "name": "419",
+    "source": "商",
+    "en": "419"
+  },
+  {
+    "hex": "#D9D9D9",
+    "name": "420",
+    "source": "商",
+    "en": "420"
+  },
+  {
+    "hex": "#BDBDBD",
+    "name": "421",
+    "source": "商",
+    "en": "421"
+  },
+  {
+    "hex": "#ABABAB",
+    "name": "422",
+    "source": "商",
+    "en": "422"
+  },
+  {
+    "hex": "#8F8F8F",
+    "name": "423",
+    "source": "商",
+    "en": "423"
+  },
+  {
+    "hex": "#636363",
+    "name": "424",
+    "source": "商",
+    "en": "424"
+  },
+  {
+    "hex": "#3B3B3B",
+    "name": "425",
+    "source": "商",
+    "en": "425"
+  },
+  {
+    "hex": "#000000",
+    "name": "426",
+    "source": "商",
+    "en": "426"
+  },
+  {
+    "hex": "#E3E3E3",
+    "name": "427",
+    "source": "商",
+    "en": "427"
+  },
+  {
+    "hex": "#CDD1D1",
+    "name": "428",
+    "source": "商",
+    "en": "428"
+  },
+  {
+    "hex": "#A8ADAD",
+    "name": "429",
+    "source": "商",
+    "en": "429"
+  },
+  {
+    "hex": "#858C8C",
+    "name": "430",
+    "source": "商",
+    "en": "430"
+  },
+  {
+    "hex": "#525B5C",
+    "name": "431",
+    "source": "商",
+    "en": "431"
+  },
+  {
+    "hex": "#2D393B",
+    "name": "432",
+    "source": "商",
+    "en": "432"
+  },
+  {
+    "hex": "#090C0D",
+    "name": "433",
+    "source": "商",
+    "en": "433"
+  },
+  {
+    "hex": "#EDE6E8",
+    "name": "434",
+    "source": "商",
+    "en": "434"
+  },
+  {
+    "hex": "#DED6DB",
+    "name": "435",
+    "source": "商",
+    "en": "435"
+  },
+  {
+    "hex": "#C2BFBF",
+    "name": "436",
+    "source": "商",
+    "en": "436"
+  },
+  {
+    "hex": "#8A8C8A",
+    "name": "437",
+    "source": "商",
+    "en": "437"
+  },
+  {
+    "hex": "#394500",
+    "name": "438",
+    "source": "商",
+    "en": "438"
+  },
+  {
+    "hex": "#293300",
+    "name": "439",
+    "source": "商",
+    "en": "439"
+  },
+  {
+    "hex": "#202700",
+    "name": "440",
+    "source": "商",
+    "en": "440"
+  },
+  {
+    "hex": "#DAE8D8",
+    "name": "441",
+    "source": "商",
+    "en": "441"
+  },
+  {
+    "hex": "#BECFBC",
+    "name": "442",
+    "source": "商",
+    "en": "442"
+  },
+  {
+    "hex": "#9DB39D",
+    "name": "443",
+    "source": "商",
+    "en": "443"
+  },
+  {
+    "hex": "#7E947E",
+    "name": "444",
+    "source": "商",
+    "en": "444"
+  },
+  {
+    "hex": "#475947",
+    "name": "445",
+    "source": "商",
+    "en": "445"
+  },
+  {
+    "hex": "#324031",
+    "name": "446",
+    "source": "商",
+    "en": "446"
+  },
+  {
+    "hex": "#272E20",
+    "name": "447",
+    "source": "商",
+    "en": "447"
+  },
+  {
+    "hex": "#F0EBE9",
+    "name": "Warm Gray 1",
+    "source": "商",
+    "en": "Warm Gray 1"
+  },
+  {
+    "hex": "#E8E3DC",
+    "name": "Warm Gray 2",
+    "source": "商",
+    "en": "Warm Gray 2"
+  },
+  {
+    "hex": "#D4CBC3",
+    "name": "Warm Gray 3",
+    "source": "商",
+    "en": "Warm Gray 3"
+  },
+  {
+    "hex": "#C2BAB0",
+    "name": "Warm Gray 4",
+    "source": "商",
+    "en": "Warm Gray 4"
+  },
+  {
+    "hex": "#B5ACA3",
+    "name": "Warm Gray 5",
+    "source": "商",
+    "en": "Warm Gray 5"
+  },
+  {
+    "hex": "#B0A59B",
+    "name": "Warm Gray 6",
+    "source": "商",
+    "en": "Warm Gray 6"
+  },
+  {
+    "hex": "#9E9188",
+    "name": "Warm Gray 7",
+    "source": "商",
+    "en": "Warm Gray 7"
+  },
+  {
+    "hex": "#91847A",
+    "name": "Warm Gray 8",
+    "source": "商",
+    "en": "Warm Gray 8"
+  },
+  {
+    "hex": "#87786C",
+    "name": "Warm Gray 9",
+    "source": "商",
+    "en": "Warm Gray 9"
+  },
+  {
+    "hex": "#736353",
+    "name": "Warm Gray 10",
+    "source": "商",
+    "en": "Warm Gray 10"
+  },
+  {
+    "hex": "#615040",
+    "name": "Warm Gray 11",
+    "source": "商",
+    "en": "Warm Gray 11"
+  },
+  {
+    "hex": "#F0F0F0",
+    "name": "Cool Gray 1",
+    "source": "商",
+    "en": "Cool Gray 1"
+  },
+  {
+    "hex": "#E3E3E3",
+    "name": "Cool Gray 2",
+    "source": "商",
+    "en": "Cool Gray 2"
+  },
+  {
+    "hex": "#D1D1D1",
+    "name": "Cool Gray 3",
+    "source": "商",
+    "en": "Cool Gray 3"
+  },
+  {
+    "hex": "#BABABA",
+    "name": "Cool Gray 4",
+    "source": "商",
+    "en": "Cool Gray 4"
+  },
+  {
+    "hex": "#A8A8A8",
+    "name": "Cool Gray 5",
+    "source": "商",
+    "en": "Cool Gray 5"
+  },
+  {
+    "hex": "#9E9E9E",
+    "name": "Cool Gray 6",
+    "source": "商",
+    "en": "Cool Gray 6"
+  },
+  {
+    "hex": "#878787",
+    "name": "Cool Gray 7",
+    "source": "商",
+    "en": "Cool Gray 7"
+  },
+  {
+    "hex": "#707070",
+    "name": "Cool Gray 8",
+    "source": "商",
+    "en": "Cool Gray 8"
+  },
+  {
+    "hex": "#595959",
+    "name": "Cool Gray 9",
+    "source": "商",
+    "en": "Cool Gray 9"
+  },
+  {
+    "hex": "#474747",
+    "name": "Cool Gray 10",
+    "source": "商",
+    "en": "Cool Gray 10"
+  },
+  {
+    "hex": "#363636",
+    "name": "Cool Gray 11",
+    "source": "商",
+    "en": "Cool Gray 11"
+  },
+  {
+    "hex": "#2D3E00",
+    "name": "448",
+    "source": "商",
+    "en": "448"
+  },
+  {
+    "hex": "#4F3A00",
+    "name": "4485",
+    "source": "商",
+    "en": "4485"
+  },
+  {
+    "hex": "#3D5200",
+    "name": "449",
+    "source": "商",
+    "en": "449"
+  },
+  {
+    "hex": "#8A6E07",
+    "name": "4495",
+    "source": "商",
+    "en": "4495"
+  },
+  {
+    "hex": "#506700",
+    "name": "450",
+    "source": "商",
+    "en": "450"
+  },
+  {
+    "hex": "#A38B24",
+    "name": "4505",
+    "source": "商",
+    "en": "4505"
+  },
+  {
+    "hex": "#ABB573",
+    "name": "451",
+    "source": "商",
+    "en": "451"
+  },
+  {
+    "hex": "#C2B061",
+    "name": "4515",
+    "source": "商",
+    "en": "4515"
+  },
+  {
+    "hex": "#C2CF9C",
+    "name": "452",
+    "source": "商",
+    "en": "452"
+  },
+  {
+    "hex": "#D4C581",
+    "name": "4525",
+    "source": "商",
+    "en": "4525"
+  },
+  {
+    "hex": "#DBE3BF",
+    "name": "453",
+    "source": "商",
+    "en": "453"
+  },
+  {
+    "hex": "#E3DA9F",
+    "name": "4535",
+    "source": "商",
+    "en": "4535"
+  },
+  {
+    "hex": "#E8EDD6",
+    "name": "454",
+    "source": "商",
+    "en": "454"
+  },
+  {
+    "hex": "#F0E9C2",
+    "name": "4545",
+    "source": "商",
+    "en": "4545"
+  },
+  {
+    "hex": "#594A00",
+    "name": "455",
+    "source": "商",
+    "en": "455"
+  },
+  {
+    "hex": "#917C00",
+    "name": "456",
+    "source": "商",
+    "en": "456"
+  },
+  {
+    "hex": "#B89C00",
+    "name": "457",
+    "source": "商",
+    "en": "457"
+  },
+  {
+    "hex": "#E6E645",
+    "name": "458",
+    "source": "商",
+    "en": "458"
+  },
+  {
+    "hex": "#F0ED73",
+    "name": "459",
+    "source": "商",
+    "en": "459"
+  },
+  {
+    "hex": "#F5F28F",
+    "name": "460",
+    "source": "商",
+    "en": "460"
+  },
+  {
+    "hex": "#F7F7A6",
+    "name": "461",
+    "source": "商",
+    "en": "461"
+  },
+  {
+    "hex": "#402600",
+    "name": "462",
+    "source": "商",
+    "en": "462"
+  },
+  {
+    "hex": "#361500",
+    "name": "4625",
+    "source": "商",
+    "en": "4625"
+  },
+  {
+    "hex": "#6B3D00",
+    "name": "463",
+    "source": "商",
+    "en": "463"
+  },
+  {
+    "hex": "#8F4A06",
+    "name": "4635",
+    "source": "商",
+    "en": "4635"
+  },
+  {
+    "hex": "#955300",
+    "name": "464",
+    "source": "商",
+    "en": "464"
+  },
+  {
+    "hex": "#B8743B",
+    "name": "4645",
+    "source": "商",
+    "en": "4645"
+  },
+  {
+    "hex": "#CCAD6B",
+    "name": "465",
+    "source": "商",
+    "en": "465"
+  },
+  {
+    "hex": "#D19B73",
+    "name": "4655",
+    "source": "商",
+    "en": "4655"
+  },
+  {
+    "hex": "#E0C791",
+    "name": "466",
+    "source": "商",
+    "en": "466"
+  },
+  {
+    "hex": "#E6BC9C",
+    "name": "4665",
+    "source": "商",
+    "en": "4665"
+  },
+  {
+    "hex": "#E8D9A8",
+    "name": "467",
+    "source": "商",
+    "en": "467"
+  },
+  {
+    "hex": "#F0D5BD",
+    "name": "4675",
+    "source": "商",
+    "en": "4675"
+  },
+  {
+    "hex": "#F0E8C4",
+    "name": "468",
+    "source": "商",
+    "en": "468"
+  },
+  {
+    "hex": "#F5E4D3",
+    "name": "4685",
+    "source": "商",
+    "en": "4685"
+  },
+  {
+    "hex": "#4A1A00",
+    "name": "469",
+    "source": "商",
+    "en": "469"
+  },
+  {
+    "hex": "#420D00",
+    "name": "4695",
+    "source": "商",
+    "en": "4695"
+  },
+  {
+    "hex": "#AB4800",
+    "name": "470",
+    "source": "商",
+    "en": "470"
+  },
+  {
+    "hex": "#823126",
+    "name": "4705",
+    "source": "商",
+    "en": "4705"
+  },
+  {
+    "hex": "#D15600",
+    "name": "471",
+    "source": "商",
+    "en": "471"
+  },
+  {
+    "hex": "#A8625D",
+    "name": "4715",
+    "source": "商",
+    "en": "4715"
+  },
+  {
+    "hex": "#FFA87A",
+    "name": "472",
+    "source": "商",
+    "en": "472"
+  },
+  {
+    "hex": "#BF827C",
+    "name": "4725",
+    "source": "商",
+    "en": "4725"
+  },
+  {
+    "hex": "#FFC4A3",
+    "name": "473",
+    "source": "商",
+    "en": "473"
+  },
+  {
+    "hex": "#D9A9A7",
+    "name": "4735",
+    "source": "商",
+    "en": "4735"
+  },
+  {
+    "hex": "#FFD9BD",
+    "name": "474",
+    "source": "商",
+    "en": "474"
+  },
+  {
+    "hex": "#E6BEBC",
+    "name": "4745",
+    "source": "商",
+    "en": "4745"
+  },
+  {
+    "hex": "#FFE3CC",
+    "name": "475",
+    "source": "商",
+    "en": "475"
+  },
+  {
+    "hex": "#F0D8D3",
+    "name": "4755",
+    "source": "商",
+    "en": "4755"
+  },
+  {
+    "hex": "#381C00",
+    "name": "476",
+    "source": "商",
+    "en": "476"
+  },
+  {
+    "hex": "#4F1800",
+    "name": "477",
+    "source": "商",
+    "en": "477"
+  },
+  {
+    "hex": "#6B1200",
+    "name": "478",
+    "source": "商",
+    "en": "478"
+  },
+  {
+    "hex": "#B08573",
+    "name": "479",
+    "source": "商",
+    "en": "479"
+  },
+  {
+    "hex": "#D9B5B0",
+    "name": "480",
+    "source": "商",
+    "en": "480"
+  },
+  {
+    "hex": "#E8CFC9",
+    "name": "481",
+    "source": "商",
+    "en": "481"
+  },
+  {
+    "hex": "#F2E0DE",
+    "name": "482",
+    "source": "商",
+    "en": "482"
+  },
+  {
+    "hex": "#660700",
+    "name": "483",
+    "source": "商",
+    "en": "483"
+  },
+  {
+    "hex": "#B50900",
+    "name": "484",
+    "source": "商",
+    "en": "484"
+  },
+  {
+    "hex": "#FF0D00",
+    "name": "485",
+    "source": "商",
+    "en": "485"
+  },
+  {
+    "hex": "#FF8796",
+    "name": "486",
+    "source": "商",
+    "en": "486"
+  },
+  {
+    "hex": "#FFA6B8",
+    "name": "487",
+    "source": "商",
+    "en": "487"
+  },
+  {
+    "hex": "#FFBDCF",
+    "name": "488",
+    "source": "商",
+    "en": "488"
+  },
+  {
+    "hex": "#FFD9E3",
+    "name": "489",
+    "source": "商",
+    "en": "489"
+  },
+  {
+    "hex": "#471300",
+    "name": "490",
+    "source": "商",
+    "en": "490"
+  },
+  {
+    "hex": "#7A1A00",
+    "name": "491",
+    "source": "商",
+    "en": "491"
+  },
+  {
+    "hex": "#942200",
+    "name": "492",
+    "source": "商",
+    "en": "492"
+  },
+  {
+    "hex": "#F283BB",
+    "name": "493",
+    "source": "商",
+    "en": "493"
+  },
+  {
+    "hex": "#FFABDE",
+    "name": "494",
+    "source": "商",
+    "en": "494"
+  },
+  {
+    "hex": "#FFC2E3",
+    "name": "495",
+    "source": "商",
+    "en": "495"
+  },
+  {
+    "hex": "#FFD6E8",
+    "name": "496",
+    "source": "商",
+    "en": "496"
+  },
+  {
+    "hex": "#381100",
+    "name": "497",
+    "source": "商",
+    "en": "497"
+  },
+  {
+    "hex": "#330E00",
+    "name": "4975",
+    "source": "商",
+    "en": "4975"
+  },
+  {
+    "hex": "#662500",
+    "name": "498",
+    "source": "商",
+    "en": "498"
+  },
+  {
+    "hex": "#853241",
+    "name": "4985",
+    "source": "商",
+    "en": "4985"
+  },
+  {
+    "hex": "#853100",
+    "name": "499",
+    "source": "商",
+    "en": "499"
+  },
+  {
+    "hex": "#A85868",
+    "name": "4995",
+    "source": "商",
+    "en": "4995"
+  },
+  {
+    "hex": "#E38DB3",
+    "name": "500",
+    "source": "商",
+    "en": "500"
+  },
+  {
+    "hex": "#C47A8F",
+    "name": "5005",
+    "source": "商",
+    "en": "5005"
+  },
+  {
+    "hex": "#F7B5D7",
+    "name": "501",
+    "source": "商",
+    "en": "501"
+  },
+  {
+    "hex": "#E3AAC1",
+    "name": "5015",
+    "source": "商",
+    "en": "5015"
+  },
+  {
+    "hex": "#FCCFE3",
+    "name": "502",
+    "source": "商",
+    "en": "502"
+  },
+  {
+    "hex": "#EDC2D1",
+    "name": "5025",
+    "source": "商",
+    "en": "5025"
+  },
+  {
+    "hex": "#FFE3EB",
+    "name": "503",
+    "source": "商",
+    "en": "503"
+  },
+  {
+    "hex": "#F7DFE1",
+    "name": "5035",
+    "source": "商",
+    "en": "5035"
+  },
+  {
+    "hex": "#320000",
+    "name": "504",
+    "source": "商",
+    "en": "504"
+  },
+  {
+    "hex": "#600000",
+    "name": "505",
+    "source": "商",
+    "en": "505"
+  },
+  {
+    "hex": "#770000",
+    "name": "506",
+    "source": "商",
+    "en": "506"
+  },
+  {
+    "hex": "#DE82C4",
+    "name": "507",
+    "source": "商",
+    "en": "507"
+  },
+  {
+    "hex": "#F2A3E3",
+    "name": "508",
+    "source": "商",
+    "en": "508"
+  },
+  {
+    "hex": "#FFC2ED",
+    "name": "509",
+    "source": "商",
+    "en": "509"
+  },
+  {
+    "hex": "#FFD4F0",
+    "name": "510",
+    "source": "商",
+    "en": "510"
+  },
+  {
+    "hex": "#3D0066",
+    "name": "511",
+    "source": "商",
+    "en": "511"
+  },
+  {
+    "hex": "#2B0041",
+    "name": "5115",
+    "source": "商",
+    "en": "5115"
+  },
+  {
+    "hex": "#6100CE",
+    "name": "512",
+    "source": "商",
+    "en": "512"
+  },
+  {
+    "hex": "#592482",
+    "name": "5125",
+    "source": "商",
+    "en": "5125"
+  },
+  {
+    "hex": "#8A1FFF",
+    "name": "513",
+    "source": "商",
+    "en": "513"
+  },
+  {
+    "hex": "#8257B8",
+    "name": "5135",
+    "source": "商",
+    "en": "5135"
+  },
+  {
+    "hex": "#D980FF",
+    "name": "514",
+    "source": "商",
+    "en": "514"
+  },
+  {
+    "hex": "#B38CE0",
+    "name": "5145",
+    "source": "商",
+    "en": "5145"
+  },
+  {
+    "hex": "#ED9EFF",
+    "name": "515",
+    "source": "商",
+    "en": "515"
+  },
+  {
+    "hex": "#D4B3EB",
+    "name": "5155",
+    "source": "商",
+    "en": "5155"
+  },
+  {
+    "hex": "#F7BAFF",
+    "name": "516",
+    "source": "商",
+    "en": "516"
+  },
+  {
+    "hex": "#E8CFF2",
+    "name": "5165",
+    "source": "商",
+    "en": "5165"
+  },
+  {
+    "hex": "#FFD1FF",
+    "name": "517",
+    "source": "商",
+    "en": "517"
+  },
+  {
+    "hex": "#F2E0F7",
+    "name": "5175",
+    "source": "商",
+    "en": "5175"
+  },
+  {
+    "hex": "#2E005C",
+    "name": "518",
+    "source": "商",
+    "en": "518"
+  },
+  {
+    "hex": "#1C0022",
+    "name": "5185",
+    "source": "商",
+    "en": "5185"
+  },
+  {
+    "hex": "#44009D",
+    "name": "519",
+    "source": "商",
+    "en": "519"
+  },
+  {
+    "hex": "#3D0C4E",
+    "name": "5195",
+    "source": "商",
+    "en": "5195"
+  },
+  {
+    "hex": "#5C00E0",
+    "name": "520",
+    "source": "商",
+    "en": "520"
+  },
+  {
+    "hex": "#7A5E85",
+    "name": "5205",
+    "source": "商",
+    "en": "5205"
+  },
+  {
+    "hex": "#BA87FF",
+    "name": "521",
+    "source": "商",
+    "en": "521"
+  },
+  {
+    "hex": "#B59EC2",
+    "name": "5215",
+    "source": "商",
+    "en": "5215"
+  },
+  {
+    "hex": "#D4A1FF",
+    "name": "522",
+    "source": "商",
+    "en": "522"
+  },
+  {
+    "hex": "#D4BAD9",
+    "name": "5225",
+    "source": "商",
+    "en": "5225"
+  },
+  {
+    "hex": "#E6BDFF",
+    "name": "523",
+    "source": "商",
+    "en": "523"
+  },
+  {
+    "hex": "#E6D4E6",
+    "name": "5235",
+    "source": "商",
+    "en": "5235"
+  },
+  {
+    "hex": "#F0D9FF",
+    "name": "524",
+    "source": "商",
+    "en": "524"
+  },
+  {
+    "hex": "#F0E6ED",
+    "name": "5245",
+    "source": "商",
+    "en": "5245"
+  },
+  {
+    "hex": "#270085",
+    "name": "525",
+    "source": "商",
+    "en": "525"
+  },
+  {
+    "hex": "#0D0B4D",
+    "name": "5255",
+    "source": "商",
+    "en": "5255"
+  },
+  {
+    "hex": "#3B00ED",
+    "name": "526",
+    "source": "商",
+    "en": "526"
+  },
+  {
+    "hex": "#20258A",
+    "name": "5265",
+    "source": "商",
+    "en": "5265"
+  },
+  {
+    "hex": "#4500FF",
+    "name": "527",
+    "source": "商",
+    "en": "527"
+  },
+  {
+    "hex": "#3848A8",
+    "name": "5275",
+    "source": "商",
+    "en": "5275"
+  },
+  {
+    "hex": "#9673FF",
+    "name": "528",
+    "source": "商",
+    "en": "528"
+  },
+  {
+    "hex": "#7280C4",
+    "name": "5285",
+    "source": "商",
+    "en": "5285"
+  },
+  {
+    "hex": "#BD99FF",
+    "name": "529",
+    "source": "商",
+    "en": "529"
+  },
+  {
+    "hex": "#A8B3E6",
+    "name": "5295",
+    "source": "商",
+    "en": "5295"
+  },
+  {
+    "hex": "#D1B0FF",
+    "name": "530",
+    "source": "商",
+    "en": "530"
+  },
+  {
+    "hex": "#C7CEED",
+    "name": "5305",
+    "source": "商",
+    "en": "5305"
+  },
+  {
+    "hex": "#E6CCFF",
+    "name": "531",
+    "source": "商",
+    "en": "531"
+  },
+  {
+    "hex": "#E4E4F2",
+    "name": "5315",
+    "source": "商",
+    "en": "5315"
+  },
+  {
+    "hex": "#00193F",
+    "name": "532",
+    "source": "商",
+    "en": "532"
+  },
+  {
+    "hex": "#00227B",
+    "name": "533",
+    "source": "商",
+    "en": "533"
+  },
+  {
+    "hex": "#002CAA",
+    "name": "534",
+    "source": "商",
+    "en": "534"
+  },
+  {
+    "hex": "#94B3ED",
+    "name": "535",
+    "source": "商",
+    "en": "535"
+  },
+  {
+    "hex": "#B0C7F2",
+    "name": "536",
+    "source": "商",
+    "en": "536"
+  },
+  {
+    "hex": "#C7DBF7",
+    "name": "537",
+    "source": "商",
+    "en": "537"
+  },
+  {
+    "hex": "#DEE8FA",
+    "name": "538",
+    "source": "商",
+    "en": "538"
+  },
+  {
+    "hex": "#00274D",
+    "name": "539",
+    "source": "商",
+    "en": "539"
+  },
+  {
+    "hex": "#00223D",
+    "name": "5395",
+    "source": "商",
+    "en": "5395"
+  },
+  {
+    "hex": "#003473",
+    "name": "540",
+    "source": "商",
+    "en": "540"
+  },
+  {
+    "hex": "#3A728A",
+    "name": "5405",
+    "source": "商",
+    "en": "5405"
+  },
+  {
+    "hex": "#00449E",
+    "name": "541",
+    "source": "商",
+    "en": "541"
+  },
+  {
+    "hex": "#5A8A96",
+    "name": "5415",
+    "source": "商",
+    "en": "5415"
+  },
+  {
+    "hex": "#5EC1F7",
+    "name": "542",
+    "source": "商",
+    "en": "542"
+  },
+  {
+    "hex": "#79A6AD",
+    "name": "5425",
+    "source": "商",
+    "en": "5425"
+  },
+  {
+    "hex": "#96E3FF",
+    "name": "543",
+    "source": "商",
+    "en": "543"
+  },
+  {
+    "hex": "#B8CDD4",
+    "name": "5435",
+    "source": "商",
+    "en": "5435"
+  },
+  {
+    "hex": "#B3F0FF",
+    "name": "544",
+    "source": "商",
+    "en": "544"
+  },
+  {
+    "hex": "#CCDCDE",
+    "name": "5445",
+    "source": "商",
+    "en": "5445"
+  },
+  {
+    "hex": "#C7F7FF",
+    "name": "545",
+    "source": "商",
+    "en": "545"
+  },
+  {
+    "hex": "#DAE8E8",
+    "name": "5455",
+    "source": "商",
+    "en": "5455"
+  },
+  {
+    "hex": "#02272B",
+    "name": "546",
+    "source": "商",
+    "en": "546"
+  },
+  {
+    "hex": "#002B24",
+    "name": "5463",
+    "source": "商",
+    "en": "5463"
+  },
+  {
+    "hex": "#000D09",
+    "name": "5467",
+    "source": "商",
+    "en": "5467"
+  },
+  {
+    "hex": "#003440",
+    "name": "547",
+    "source": "商",
+    "en": "547"
+  },
+  {
+    "hex": "#167A58",
+    "name": "5473",
+    "source": "商",
+    "en": "5473"
+  },
+  {
+    "hex": "#1D4230",
+    "name": "5477",
+    "source": "商",
+    "en": "5477"
+  },
+  {
+    "hex": "#00465C",
+    "name": "548",
+    "source": "商",
+    "en": "548"
+  },
+  {
+    "hex": "#43B08B",
+    "name": "5483",
+    "source": "商",
+    "en": "5483"
+  },
+  {
+    "hex": "#48705D",
+    "name": "5487",
+    "source": "商",
+    "en": "5487"
+  },
+  {
+    "hex": "#56ADBA",
+    "name": "549",
+    "source": "商",
+    "en": "549"
+  },
+  {
+    "hex": "#73C9AD",
+    "name": "5493",
+    "source": "商",
+    "en": "5493"
+  },
+  {
+    "hex": "#829E90",
+    "name": "5497",
+    "source": "商",
+    "en": "5497"
+  },
+  {
+    "hex": "#7BC1C9",
+    "name": "550",
+    "source": "商",
+    "en": "550"
+  },
+  {
+    "hex": "#9CDBC5",
+    "name": "5503",
+    "source": "商",
+    "en": "5503"
+  },
+  {
+    "hex": "#A1B5A8",
+    "name": "5507",
+    "source": "商",
+    "en": "5507"
+  },
+  {
+    "hex": "#A2D7DE",
+    "name": "551",
+    "source": "商",
+    "en": "551"
+  },
+  {
+    "hex": "#C7F2E1",
+    "name": "5513",
+    "source": "商",
+    "en": "5513"
+  },
+  {
+    "hex": "#BED1C5",
+    "name": "5517",
+    "source": "商",
+    "en": "5517"
+  },
+  {
+    "hex": "#C5E8E8",
+    "name": "552",
+    "source": "商",
+    "en": "552"
+  },
+  {
+    "hex": "#DCF7EB",
+    "name": "5523",
+    "source": "商",
+    "en": "5523"
+  },
+  {
+    "hex": "#D5E3DA",
+    "name": "5527",
+    "source": "商",
+    "en": "5527"
+  },
+  {
+    "hex": "#143319",
+    "name": "553",
+    "source": "商",
+    "en": "553"
+  },
+  {
+    "hex": "#102E14",
+    "name": "5535",
+    "source": "商",
+    "en": "5535"
+  },
+  {
+    "hex": "#115422",
+    "name": "554",
+    "source": "商",
+    "en": "554"
+  },
+  {
+    "hex": "#327A3D",
+    "name": "5545",
+    "source": "商",
+    "en": "5545"
+  },
+  {
+    "hex": "#187031",
+    "name": "555",
+    "source": "商",
+    "en": "555"
+  },
+  {
+    "hex": "#5A9E68",
+    "name": "5555",
+    "source": "商",
+    "en": "5555"
+  },
+  {
+    "hex": "#66BA80",
+    "name": "556",
+    "source": "商",
+    "en": "556"
+  },
+  {
+    "hex": "#84BD8F",
+    "name": "5565",
+    "source": "商",
+    "en": "5565"
+  },
+  {
+    "hex": "#98D9AD",
+    "name": "557",
+    "source": "商",
+    "en": "557"
+  },
+  {
+    "hex": "#A9D4B2",
+    "name": "5575",
+    "source": "商",
+    "en": "5575"
+  },
+  {
+    "hex": "#BAE8CA",
+    "name": "558",
+    "source": "商",
+    "en": "558"
+  },
+  {
+    "hex": "#CAE6CC",
+    "name": "5585",
+    "source": "商",
+    "en": "5585"
+  },
+  {
+    "hex": "#CEF0D8",
+    "name": "559",
+    "source": "商",
+    "en": "559"
+  },
+  {
+    "hex": "#DDEDDA",
+    "name": "5595",
+    "source": "商",
+    "en": "5595"
+  },
+  {
+    "hex": "#0D4018",
+    "name": "560",
+    "source": "商",
+    "en": "560"
+  },
+  {
+    "hex": "#050F07",
+    "name": "5605",
+    "source": "商",
+    "en": "5605"
+  },
+  {
+    "hex": "#127A38",
+    "name": "561",
+    "source": "商",
+    "en": "561"
+  },
+  {
+    "hex": "#2E522B",
+    "name": "5615",
+    "source": "商",
+    "en": "5615"
+  },
+  {
+    "hex": "#1AB058",
+    "name": "562",
+    "source": "商",
+    "en": "562"
+  },
+  {
+    "hex": "#5A7D57",
+    "name": "5625",
+    "source": "商",
+    "en": "5625"
+  },
+  {
+    "hex": "#79FCAC",
+    "name": "563",
+    "source": "商",
+    "en": "563"
+  },
+  {
+    "hex": "#89A386",
+    "name": "5635",
+    "source": "商",
+    "en": "5635"
+  },
+  {
+    "hex": "#A1FFCC",
+    "name": "564",
+    "source": "商",
+    "en": "564"
+  },
+  {
+    "hex": "#AEBFA6",
+    "name": "5645",
+    "source": "商",
+    "en": "5645"
+  },
+  {
+    "hex": "#C4FFDE",
+    "name": "565",
+    "source": "商",
+    "en": "565"
+  },
+  {
+    "hex": "#C5D1BE",
+    "name": "5655",
+    "source": "商",
+    "en": "5655"
+  },
+  {
+    "hex": "#DBFFE8",
+    "name": "566",
+    "source": "商",
+    "en": "566"
+  },
+  {
+    "hex": "#DAE6D5",
+    "name": "5665",
+    "source": "商",
+    "en": "5665"
+  },
+  {
+    "hex": "#0E4D1C",
+    "name": "567",
+    "source": "商",
+    "en": "567"
+  },
+  {
+    "hex": "#14A346",
+    "name": "568",
+    "source": "商",
+    "en": "568"
+  },
+  {
+    "hex": "#04D45B",
+    "name": "569",
+    "source": "商",
+    "en": "569"
+  },
+  {
+    "hex": "#85FFB5",
+    "name": "570",
+    "source": "商",
+    "en": "570"
+  },
+  {
+    "hex": "#ADFFCF",
+    "name": "571",
+    "source": "商",
+    "en": "571"
+  },
+  {
+    "hex": "#C4FFDB",
+    "name": "572",
+    "source": "商",
+    "en": "572"
+  },
+  {
+    "hex": "#DBFFE8",
+    "name": "573",
+    "source": "商",
+    "en": "573"
+  },
+  {
+    "hex": "#314A0E",
+    "name": "574",
+    "source": "商",
+    "en": "574"
+  },
+  {
+    "hex": "#1F2E07",
+    "name": "5743",
+    "source": "商",
+    "en": "5743"
+  },
+  {
+    "hex": "#243600",
+    "name": "5747",
+    "source": "商",
+    "en": "5747"
+  },
+  {
+    "hex": "#3E7800",
+    "name": "575",
+    "source": "商",
+    "en": "575"
+  },
+  {
+    "hex": "#3F5410",
+    "name": "5753",
+    "source": "商",
+    "en": "5753"
+  },
+  {
+    "hex": "#547306",
+    "name": "5757",
+    "source": "商",
+    "en": "5757"
+  },
+  {
+    "hex": "#4F9C00",
+    "name": "576",
+    "source": "商",
+    "en": "576"
+  },
+  {
+    "hex": "#5C6E1D",
+    "name": "5763",
+    "source": "商",
+    "en": "5763"
+  },
+  {
+    "hex": "#849C32",
+    "name": "5767",
+    "source": "商",
+    "en": "5767"
+  },
+  {
+    "hex": "#AEE67C",
+    "name": "577",
+    "source": "商",
+    "en": "577"
+  },
+  {
+    "hex": "#909E5A",
+    "name": "5773",
+    "source": "商",
+    "en": "5773"
+  },
+  {
+    "hex": "#A5B85E",
+    "name": "5777",
+    "source": "商",
+    "en": "5777"
+  },
+  {
+    "hex": "#C0F090",
+    "name": "578",
+    "source": "商",
+    "en": "578"
+  },
+  {
+    "hex": "#AFBA86",
+    "name": "5783",
+    "source": "商",
+    "en": "5783"
+  },
+  {
+    "hex": "#CEDE99",
+    "name": "5787",
+    "source": "商",
+    "en": "5787"
+  },
+  {
+    "hex": "#CDF7A3",
+    "name": "579",
+    "source": "商",
+    "en": "579"
+  },
+  {
+    "hex": "#C9D1A5",
+    "name": "5793",
+    "source": "商",
+    "en": "5793"
+  },
+  {
+    "hex": "#DCE8B0",
+    "name": "5797",
+    "source": "商",
+    "en": "5797"
+  },
+  {
+    "hex": "#DCFAB9",
+    "name": "580",
+    "source": "商",
+    "en": "580"
+  },
+  {
+    "hex": "#DEE3C8",
+    "name": "5803",
+    "source": "商",
+    "en": "5803"
+  },
+  {
+    "hex": "#E9F0CE",
+    "name": "5807",
+    "source": "商",
+    "en": "5807"
+  },
+  {
+    "hex": "#464700",
+    "name": "581",
+    "source": "商",
+    "en": "581"
+  },
+  {
+    "hex": "#363605",
+    "name": "5815",
+    "source": "商",
+    "en": "5815"
+  },
+  {
+    "hex": "#788A00",
+    "name": "582",
+    "source": "商",
+    "en": "582"
+  },
+  {
+    "hex": "#69660E",
+    "name": "5825",
+    "source": "商",
+    "en": "5825"
+  },
+  {
+    "hex": "#A3D400",
+    "name": "583",
+    "source": "商",
+    "en": "583"
+  },
+  {
+    "hex": "#999632",
+    "name": "5835",
+    "source": "商",
+    "en": "5835"
+  },
+  {
+    "hex": "#D3F032",
+    "name": "584",
+    "source": "商",
+    "en": "584"
+  },
+  {
+    "hex": "#B3B15F",
+    "name": "5845",
+    "source": "商",
+    "en": "5845"
+  },
+  {
+    "hex": "#DEFA55",
+    "name": "585",
+    "source": "商",
+    "en": "585"
+  },
+  {
+    "hex": "#D1D190",
+    "name": "5855",
+    "source": "商",
+    "en": "5855"
+  },
+  {
+    "hex": "#E8FF78",
+    "name": "586",
+    "source": "商",
+    "en": "586"
+  },
+  {
+    "hex": "#DEDEA6",
+    "name": "5865",
+    "source": "商",
+    "en": "5865"
+  },
+  {
+    "hex": "#F2FF99",
+    "name": "587",
+    "source": "商",
+    "en": "587"
+  },
+  {
+    "hex": "#EBEBC0",
+    "name": "5875",
+    "source": "商",
+    "en": "5875"
+  },
+  {
+    "hex": "#FFFFB5",
+    "name": "600",
+    "source": "商",
+    "en": "600"
+  },
+  {
+    "hex": "#FFFF99",
+    "name": "601",
+    "source": "商",
+    "en": "601"
+  },
+  {
+    "hex": "#FFFF7D",
+    "name": "602",
+    "source": "商",
+    "en": "602"
+  },
+  {
+    "hex": "#FCFC4E",
+    "name": "603",
+    "source": "商",
+    "en": "603"
+  },
+  {
+    "hex": "#F7F71E",
+    "name": "604",
+    "source": "商",
+    "en": "604"
+  },
+  {
+    "hex": "#EDE800",
+    "name": "605",
+    "source": "商",
+    "en": "605"
+  },
+  {
+    "hex": "#E0D700",
+    "name": "606",
+    "source": "商",
+    "en": "606"
+  },
+  {
+    "hex": "#FCFCCF",
+    "name": "607",
+    "source": "商",
+    "en": "607"
+  },
+  {
+    "hex": "#FAFAAA",
+    "name": "608",
+    "source": "商",
+    "en": "608"
+  },
+  {
+    "hex": "#F5F584",
+    "name": "609",
+    "source": "商",
+    "en": "609"
+  },
+  {
+    "hex": "#F0F065",
+    "name": "610",
+    "source": "商",
+    "en": "610"
+  },
+  {
+    "hex": "#E3E112",
+    "name": "611",
+    "source": "商",
+    "en": "611"
+  },
+  {
+    "hex": "#CCC800",
+    "name": "612",
+    "source": "商",
+    "en": "612"
+  },
+  {
+    "hex": "#B3AB00",
+    "name": "613",
+    "source": "商",
+    "en": "613"
+  },
+  {
+    "hex": "#F5F5C4",
+    "name": "614",
+    "source": "商",
+    "en": "614"
+  },
+  {
+    "hex": "#F0EDAF",
+    "name": "615",
+    "source": "商",
+    "en": "615"
+  },
+  {
+    "hex": "#E8E397",
+    "name": "616",
+    "source": "商",
+    "en": "616"
+  },
+  {
+    "hex": "#D4CF6E",
+    "name": "617",
+    "source": "商",
+    "en": "617"
+  },
+  {
+    "hex": "#B3AD17",
+    "name": "618",
+    "source": "商",
+    "en": "618"
+  },
+  {
+    "hex": "#918C00",
+    "name": "619",
+    "source": "商",
+    "en": "619"
+  },
+  {
+    "hex": "#787200",
+    "name": "620",
+    "source": "商",
+    "en": "620"
+  },
+  {
+    "hex": "#D9FAE1",
+    "name": "621",
+    "source": "商",
+    "en": "621"
+  },
+  {
+    "hex": "#BAF5C6",
+    "name": "622",
+    "source": "商",
+    "en": "622"
+  },
+  {
+    "hex": "#9CE6AE",
+    "name": "623",
+    "source": "商",
+    "en": "623"
+  },
+  {
+    "hex": "#72CC85",
+    "name": "624",
+    "source": "商",
+    "en": "624"
+  },
+  {
+    "hex": "#4BAB60",
+    "name": "625",
+    "source": "商",
+    "en": "625"
+  },
+  {
+    "hex": "#175E22",
+    "name": "626",
+    "source": "商",
+    "en": "626"
+  },
+  {
+    "hex": "#04290A",
+    "name": "627",
+    "source": "商",
+    "en": "627"
+  },
+  {
+    "hex": "#CFFFF0",
+    "name": "628",
+    "source": "商",
+    "en": "628"
+  },
+  {
+    "hex": "#A8FFE8",
+    "name": "629",
+    "source": "商",
+    "en": "629"
+  },
+  {
+    "hex": "#87FFE3",
+    "name": "630",
+    "source": "商",
+    "en": "630"
+  },
+  {
+    "hex": "#52FADC",
+    "name": "631",
+    "source": "商",
+    "en": "631"
+  },
+  {
+    "hex": "#13F2CE",
+    "name": "632",
+    "source": "商",
+    "en": "632"
+  },
+  {
+    "hex": "#00BFAC",
+    "name": "633",
+    "source": "商",
+    "en": "633"
+  },
+  {
+    "hex": "#00998B",
+    "name": "634",
+    "source": "商",
+    "en": "634"
+  },
+  {
+    "hex": "#ADFFEB",
+    "name": "635",
+    "source": "商",
+    "en": "635"
+  },
+  {
+    "hex": "#8CFFE8",
+    "name": "636",
+    "source": "商",
+    "en": "636"
+  },
+  {
+    "hex": "#73FFE8",
+    "name": "637",
+    "source": "商",
+    "en": "637"
+  },
+  {
+    "hex": "#2BFFE6",
+    "name": "638",
+    "source": "商",
+    "en": "638"
+  },
+  {
+    "hex": "#00F2E6",
+    "name": "639",
+    "source": "商",
+    "en": "639"
+  },
+  {
+    "hex": "#00C7C7",
+    "name": "640",
+    "source": "商",
+    "en": "640"
+  },
+  {
+    "hex": "#00ABB3",
+    "name": "641",
+    "source": "商",
+    "en": "641"
+  },
+  {
+    "hex": "#D2F0FA",
+    "name": "642",
+    "source": "商",
+    "en": "642"
+  },
+  {
+    "hex": "#B8E4F5",
+    "name": "643",
+    "source": "商",
+    "en": "643"
+  },
+  {
+    "hex": "#8BCCF0",
+    "name": "644",
+    "source": "商",
+    "en": "644"
+  },
+  {
+    "hex": "#64A7E8",
+    "name": "645",
+    "source": "商",
+    "en": "645"
+  },
+  {
+    "hex": "#4696E3",
+    "name": "646",
+    "source": "商",
+    "en": "646"
+  },
+  {
+    "hex": "#0056C4",
+    "name": "647",
+    "source": "商",
+    "en": "647"
+  },
+  {
+    "hex": "#002D75",
+    "name": "648",
+    "source": "商",
+    "en": "648"
+  },
+  {
+    "hex": "#D9EDFC",
+    "name": "649",
+    "source": "商",
+    "en": "649"
+  },
+  {
+    "hex": "#BEE3FA",
+    "name": "650",
+    "source": "商",
+    "en": "650"
+  },
+  {
+    "hex": "#95C5F0",
+    "name": "651",
+    "source": "商",
+    "en": "651"
+  },
+  {
+    "hex": "#5C97E6",
+    "name": "652",
+    "source": "商",
+    "en": "652"
+  },
+  {
+    "hex": "#004ECC",
+    "name": "653",
+    "source": "商",
+    "en": "653"
+  },
+  {
+    "hex": "#00399E",
+    "name": "654",
+    "source": "商",
+    "en": "654"
+  },
+  {
+    "hex": "#002B7A",
+    "name": "655",
+    "source": "商",
+    "en": "655"
+  },
+  {
+    "hex": "#DBF5FF",
+    "name": "656",
+    "source": "商",
+    "en": "656"
+  },
+  {
+    "hex": "#C2EBFF",
+    "name": "657",
+    "source": "商",
+    "en": "657"
+  },
+  {
+    "hex": "#96CCFF",
+    "name": "658",
+    "source": "商",
+    "en": "658"
+  },
+  {
+    "hex": "#5CA6FF",
+    "name": "659",
+    "source": "商",
+    "en": "659"
+  },
+  {
+    "hex": "#1A6EFF",
+    "name": "660",
+    "source": "商",
+    "en": "660"
+  },
+  {
+    "hex": "#0048E8",
+    "name": "661",
+    "source": "商",
+    "en": "661"
+  },
+  {
+    "hex": "#003BD1",
+    "name": "662",
+    "source": "商",
+    "en": "662"
+  },
+  {
+    "hex": "#EDF0FF",
+    "name": "663",
+    "source": "商",
+    "en": "663"
+  },
+  {
+    "hex": "#E3E8FF",
+    "name": "664",
+    "source": "商",
+    "en": "664"
+  },
+  {
+    "hex": "#C8CFFA",
+    "name": "665",
+    "source": "商",
+    "en": "665"
+  },
+  {
+    "hex": "#A4A6ED",
+    "name": "666",
+    "source": "商",
+    "en": "666"
+  },
+  {
+    "hex": "#6970DB",
+    "name": "667",
+    "source": "商",
+    "en": "667"
+  },
+  {
+    "hex": "#3E40B3",
+    "name": "668",
+    "source": "商",
+    "en": "668"
+  },
+  {
+    "hex": "#201E87",
+    "name": "669",
+    "source": "商",
+    "en": "669"
+  },
+  {
+    "hex": "#FFDEFF",
+    "name": "670",
+    "source": "商",
+    "en": "670"
+  },
+  {
+    "hex": "#FCCCFF",
+    "name": "671",
+    "source": "商",
+    "en": "671"
+  },
+  {
+    "hex": "#F7A8FF",
+    "name": "672",
+    "source": "商",
+    "en": "672"
+  },
+  {
+    "hex": "#F082FF",
+    "name": "673",
+    "source": "商",
+    "en": "673"
+  },
+  {
+    "hex": "#E854FF",
+    "name": "674",
+    "source": "商",
+    "en": "674"
+  },
+  {
+    "hex": "#CD00F7",
+    "name": "675",
+    "source": "商",
+    "en": "675"
+  },
+  {
+    "hex": "#BB00C7",
+    "name": "676",
+    "source": "商",
+    "en": "676"
+  },
+  {
+    "hex": "#FADEFF",
+    "name": "677",
+    "source": "商",
+    "en": "677"
+  },
+  {
+    "hex": "#F7C9FF",
+    "name": "678",
+    "source": "商",
+    "en": "678"
+  },
+  {
+    "hex": "#F2BAFF",
+    "name": "679",
+    "source": "商",
+    "en": "679"
+  },
+  {
+    "hex": "#E18EFA",
+    "name": "680",
+    "source": "商",
+    "en": "680"
+  },
+  {
+    "hex": "#C15FF5",
+    "name": "681",
+    "source": "商",
+    "en": "681"
+  },
+  {
+    "hex": "#A82FE0",
+    "name": "682",
+    "source": "商",
+    "en": "682"
+  },
+  {
+    "hex": "#810091",
+    "name": "683",
+    "source": "商",
+    "en": "683"
+  },
+  {
+    "hex": "#FACFFA",
+    "name": "684",
+    "source": "商",
+    "en": "684"
+  },
+  {
+    "hex": "#F7BAF7",
+    "name": "685",
+    "source": "商",
+    "en": "685"
+  },
+  {
+    "hex": "#F2AAF2",
+    "name": "686",
+    "source": "商",
+    "en": "686"
+  },
+  {
+    "hex": "#DC7EE0",
+    "name": "687",
+    "source": "商",
+    "en": "687"
+  },
+  {
+    "hex": "#C459CF",
+    "name": "688",
+    "source": "商",
+    "en": "688"
+  },
+  {
+    "hex": "#9D27A8",
+    "name": "689",
+    "source": "商",
+    "en": "689"
+  },
+  {
+    "hex": "#690369",
+    "name": "690",
+    "source": "商",
+    "en": "690"
+  },
+  {
+    "hex": "#FCD7E8",
+    "name": "691",
+    "source": "商",
+    "en": "691"
+  },
+  {
+    "hex": "#FAC0E1",
+    "name": "692",
+    "source": "商",
+    "en": "692"
+  },
+  {
+    "hex": "#F0A8D3",
+    "name": "693",
+    "source": "商",
+    "en": "693"
+  },
+  {
+    "hex": "#E683BA",
+    "name": "694",
+    "source": "商",
+    "en": "694"
+  },
+  {
+    "hex": "#BF508A",
+    "name": "695",
+    "source": "商",
+    "en": "695"
+  },
+  {
+    "hex": "#991846",
+    "name": "696",
+    "source": "商",
+    "en": "696"
+  },
+  {
+    "hex": "#7D0925",
+    "name": "697",
+    "source": "商",
+    "en": "697"
+  },
+  {
+    "hex": "#FFD6EB",
+    "name": "698",
+    "source": "商",
+    "en": "698"
+  },
+  {
+    "hex": "#FFC2E6",
+    "name": "699",
+    "source": "商",
+    "en": "699"
+  },
+  {
+    "hex": "#FFA3DB",
+    "name": "700",
+    "source": "商",
+    "en": "700"
+  },
+  {
+    "hex": "#FF78CC",
+    "name": "701",
+    "source": "商",
+    "en": "701"
+  },
+  {
+    "hex": "#F24BA0",
+    "name": "702",
+    "source": "商",
+    "en": "702"
+  },
+  {
+    "hex": "#D62463",
+    "name": "703",
+    "source": "商",
+    "en": "703"
+  },
+  {
+    "hex": "#BA0025",
+    "name": "704",
+    "source": "商",
+    "en": "704"
+  },
+  {
+    "hex": "#FFE8F2",
+    "name": "705",
+    "source": "商",
+    "en": "705"
+  },
+  {
+    "hex": "#FFD4E6",
+    "name": "706",
+    "source": "商",
+    "en": "706"
+  },
+  {
+    "hex": "#FFB3DB",
+    "name": "707",
+    "source": "商",
+    "en": "707"
+  },
+  {
+    "hex": "#FF8AC7",
+    "name": "708",
+    "source": "商",
+    "en": "708"
+  },
+  {
+    "hex": "#FF579E",
+    "name": "709",
+    "source": "商",
+    "en": "709"
+  },
+  {
+    "hex": "#FF366B",
+    "name": "710",
+    "source": "商",
+    "en": "710"
+  },
+  {
+    "hex": "#FA0032",
+    "name": "711",
+    "source": "商",
+    "en": "711"
+  },
+  {
+    "hex": "#FFDBB0",
+    "name": "712",
+    "source": "商",
+    "en": "712"
+  },
+  {
+    "hex": "#FFCF96",
+    "name": "713",
+    "source": "商",
+    "en": "713"
+  },
+  {
+    "hex": "#FFB875",
+    "name": "714",
+    "source": "商",
+    "en": "714"
+  },
+  {
+    "hex": "#FFA14A",
+    "name": "715",
+    "source": "商",
+    "en": "715"
+  },
+  {
+    "hex": "#FF8717",
+    "name": "716",
+    "source": "商",
+    "en": "716"
+  },
+  {
+    "hex": "#FA7000",
+    "name": "717",
+    "source": "商",
+    "en": "717"
+  },
+  {
+    "hex": "#EB6300",
+    "name": "718",
+    "source": "商",
+    "en": "718"
+  },
+  {
+    "hex": "#FFE6BF",
+    "name": "719",
+    "source": "商",
+    "en": "719"
+  },
+  {
+    "hex": "#FCD7A7",
+    "name": "720",
+    "source": "商",
+    "en": "720"
+  },
+  {
+    "hex": "#F7BC77",
+    "name": "721",
+    "source": "商",
+    "en": "721"
+  },
+  {
+    "hex": "#E89538",
+    "name": "722",
+    "source": "商",
+    "en": "722"
+  },
+  {
+    "hex": "#D4740B",
+    "name": "723",
+    "source": "商",
+    "en": "723"
+  },
+  {
+    "hex": "#A14C00",
+    "name": "724",
+    "source": "商",
+    "en": "724"
+  },
+  {
+    "hex": "#823B00",
+    "name": "725",
+    "source": "商",
+    "en": "725"
+  },
+  {
+    "hex": "#FAE6C0",
+    "name": "726",
+    "source": "商",
+    "en": "726"
+  },
+  {
+    "hex": "#F2CEA0",
+    "name": "727",
+    "source": "商",
+    "en": "727"
+  },
+  {
+    "hex": "#E6B577",
+    "name": "728",
+    "source": "商",
+    "en": "728"
+  },
+  {
+    "hex": "#D19052",
+    "name": "729",
+    "source": "商",
+    "en": "729"
+  },
+  {
+    "hex": "#B56E2B",
+    "name": "730",
+    "source": "商",
+    "en": "730"
+  },
+  {
+    "hex": "#753700",
+    "name": "731",
+    "source": "商",
+    "en": "731"
+  },
+  {
+    "hex": "#5C2800",
+    "name": "732",
+    "source": "商",
+    "en": "732"
+  },
+  {
+    "hex": "#FFF5D1",
+    "name": "7401",
+    "source": "商",
+    "en": "7401"
+  },
+  {
+    "hex": "#FFF0B3",
+    "name": "7402",
+    "source": "商",
+    "en": "7402"
+  },
+  {
+    "hex": "#FFE680",
+    "name": "7403",
+    "source": "商",
+    "en": "7403"
+  },
+  {
+    "hex": "#FFE833",
+    "name": "7404",
+    "source": "商",
+    "en": "7404"
+  },
+  {
+    "hex": "#FFE600",
+    "name": "7405",
+    "source": "商",
+    "en": "7405"
+  },
+  {
+    "hex": "#FFD100",
+    "name": "7406",
+    "source": "商",
+    "en": "7406"
+  },
+  {
+    "hex": "#E3B122",
+    "name": "7407",
+    "source": "商",
+    "en": "7407"
+  },
+  {
+    "hex": "#FFBF0D",
+    "name": "7408",
+    "source": "商",
+    "en": "7408"
+  },
+  {
+    "hex": "#FFB30D",
+    "name": "7409",
+    "source": "商",
+    "en": "7409"
+  },
+  {
+    "hex": "#FFB373",
+    "name": "7410",
+    "source": "商",
+    "en": "7410"
+  },
+  {
+    "hex": "#FFA64F",
+    "name": "7411",
+    "source": "商",
+    "en": "7411"
+  },
+  {
+    "hex": "#ED8A00",
+    "name": "7412",
+    "source": "商",
+    "en": "7412"
+  },
+  {
+    "hex": "#F57300",
+    "name": "7413",
+    "source": "商",
+    "en": "7413"
+  },
+  {
+    "hex": "#E37B00",
+    "name": "7414",
+    "source": "商",
+    "en": "7414"
+  },
+  {
+    "hex": "#FFD1D9",
+    "name": "7415",
+    "source": "商",
+    "en": "7415"
+  },
+  {
+    "hex": "#FF6666",
+    "name": "7416",
+    "source": "商",
+    "en": "7416"
+  },
+  {
+    "hex": "#FF4040",
+    "name": "7417",
+    "source": "商",
+    "en": "7417"
+  },
+  {
+    "hex": "#F24961",
+    "name": "7418",
+    "source": "商",
+    "en": "7418"
+  },
+  {
+    "hex": "#D15473",
+    "name": "7419",
+    "source": "商",
+    "en": "7419"
+  },
+  {
+    "hex": "#CC2976",
+    "name": "7420",
+    "source": "商",
+    "en": "7420"
+  },
+  {
+    "hex": "#630046",
+    "name": "7421",
+    "source": "商",
+    "en": "7421"
+  },
+  {
+    "hex": "#FFE8F2",
+    "name": "7422",
+    "source": "商",
+    "en": "7422"
+  },
+  {
+    "hex": "#FF73C7",
+    "name": "7423",
+    "source": "商",
+    "en": "7423"
+  },
+  {
+    "hex": "#FF40B3",
+    "name": "7424",
+    "source": "商",
+    "en": "7424"
+  },
+  {
+    "hex": "#ED18A6",
+    "name": "7425",
+    "source": "商",
+    "en": "7425"
+  },
+  {
+    "hex": "#D10073",
+    "name": "7426",
+    "source": "商",
+    "en": "7426"
+  },
+  {
+    "hex": "#B80040",
+    "name": "7427",
+    "source": "商",
+    "en": "7427"
+  },
+  {
+    "hex": "#73173F",
+    "name": "7428",
+    "source": "商",
+    "en": "7428"
+  },
+  {
+    "hex": "#FFD1F7",
+    "name": "7429",
+    "source": "商",
+    "en": "7429"
+  },
+  {
+    "hex": "#FAB0FF",
+    "name": "7430",
+    "source": "商",
+    "en": "7430"
+  },
+  {
+    "hex": "#F296ED",
+    "name": "7431",
+    "source": "商",
+    "en": "7431"
+  },
+  {
+    "hex": "#E667DF",
+    "name": "7432",
+    "source": "商",
+    "en": "7432"
+  },
+  {
+    "hex": "#D936B8",
+    "name": "7433",
+    "source": "商",
+    "en": "7433"
+  },
+  {
+    "hex": "#CC29AD",
+    "name": "7434",
+    "source": "商",
+    "en": "7434"
+  },
+  {
+    "hex": "#A60095",
+    "name": "7435",
+    "source": "商",
+    "en": "7435"
+  },
+  {
+    "hex": "#F7EBFF",
+    "name": "7436",
+    "source": "商",
+    "en": "7436"
+  },
+  {
+    "hex": "#F0CCFF",
+    "name": "7437",
+    "source": "商",
+    "en": "7437"
+  },
+  {
+    "hex": "#D9A6FF",
+    "name": "7438",
+    "source": "商",
+    "en": "7438"
+  },
+  {
+    "hex": "#CCA6FF",
+    "name": "7439",
+    "source": "商",
+    "en": "7439"
+  },
+  {
+    "hex": "#B399FF",
+    "name": "7440",
+    "source": "商",
+    "en": "7440"
+  },
+  {
+    "hex": "#A380FF",
+    "name": "7441",
+    "source": "商",
+    "en": "7441"
+  },
+  {
+    "hex": "#804DFF",
+    "name": "7442",
+    "source": "商",
+    "en": "7442"
+  },
+  {
+    "hex": "#F0F2FF",
+    "name": "7443",
+    "source": "商",
+    "en": "7443"
+  },
+  {
+    "hex": "#CCD4FF",
+    "name": "7444",
+    "source": "商",
+    "en": "7444"
+  },
+  {
+    "hex": "#ADC6F7",
+    "name": "7445",
+    "source": "商",
+    "en": "7445"
+  },
+  {
+    "hex": "#919EFF",
+    "name": "7446",
+    "source": "商",
+    "en": "7446"
+  },
+  {
+    "hex": "#5357CF",
+    "name": "7447",
+    "source": "商",
+    "en": "7447"
+  },
+  {
+    "hex": "#4E4373",
+    "name": "7448",
+    "source": "商",
+    "en": "7448"
+  },
+  {
+    "hex": "#270020",
+    "name": "7449",
+    "source": "商",
+    "en": "7449"
+  },
+  {
+    "hex": "#CCE6FF",
+    "name": "7450",
+    "source": "商",
+    "en": "7450"
+  },
+  {
+    "hex": "#99C9FF",
+    "name": "7451",
+    "source": "商",
+    "en": "7451"
+  },
+  {
+    "hex": "#80ADFF",
+    "name": "7452",
+    "source": "商",
+    "en": "7452"
+  },
+  {
+    "hex": "#80BDFF",
+    "name": "7453",
+    "source": "商",
+    "en": "7453"
+  },
+  {
+    "hex": "#73AEE6",
+    "name": "7454",
+    "source": "商",
+    "en": "7454"
+  },
+  {
+    "hex": "#3378FF",
+    "name": "7455",
+    "source": "商",
+    "en": "7455"
+  },
+  {
+    "hex": "#6B9AED",
+    "name": "7456",
+    "source": "商",
+    "en": "7456"
+  },
+  {
+    "hex": "#E0FFFA",
+    "name": "7457",
+    "source": "商",
+    "en": "7457"
+  },
+  {
+    "hex": "#90F0E4",
+    "name": "7458",
+    "source": "商",
+    "en": "7458"
+  },
+  {
+    "hex": "#5FDED1",
+    "name": "7459",
+    "source": "商",
+    "en": "7459"
+  },
+  {
+    "hex": "#00F2F2",
+    "name": "7460",
+    "source": "商",
+    "en": "7460"
+  },
+  {
+    "hex": "#38B8FF",
+    "name": "7461",
+    "source": "商",
+    "en": "7461"
+  },
+  {
+    "hex": "#0073E6",
+    "name": "7462",
+    "source": "商",
+    "en": "7462"
+  },
+  {
+    "hex": "#003359",
+    "name": "7463",
+    "source": "商",
+    "en": "7463"
+  },
+  {
+    "hex": "#BFFFE6",
+    "name": "7464",
+    "source": "商",
+    "en": "7464"
+  },
+  {
+    "hex": "#80FFBF",
+    "name": "7465",
+    "source": "商",
+    "en": "7465"
+  },
+  {
+    "hex": "#4DFFC4",
+    "name": "7466",
+    "source": "商",
+    "en": "7466"
+  },
+  {
+    "hex": "#0DFFBF",
+    "name": "7467",
+    "source": "商",
+    "en": "7467"
+  },
+  {
+    "hex": "#00A5B8",
+    "name": "7468",
+    "source": "商",
+    "en": "7468"
+  },
+  {
+    "hex": "#007A99",
+    "name": "7469",
+    "source": "商",
+    "en": "7469"
+  },
+  {
+    "hex": "#1C778C",
+    "name": "7470",
+    "source": "商",
+    "en": "7470"
+  },
+  {
+    "hex": "#B8FFDB",
+    "name": "7471",
+    "source": "商",
+    "en": "7471"
+  },
+  {
+    "hex": "#7AFFBF",
+    "name": "7472",
+    "source": "商",
+    "en": "7472"
+  },
+  {
+    "hex": "#46EB91",
+    "name": "7473",
+    "source": "商",
+    "en": "7473"
+  },
+  {
+    "hex": "#14C78F",
+    "name": "7474",
+    "source": "商",
+    "en": "7474"
+  },
+  {
+    "hex": "#59B386",
+    "name": "7475",
+    "source": "商",
+    "en": "7475"
+  },
+  {
+    "hex": "#00663A",
+    "name": "7476",
+    "source": "商",
+    "en": "7476"
+  },
+  {
+    "hex": "#105249",
+    "name": "7477",
+    "source": "商",
+    "en": "7477"
+  },
+  {
+    "hex": "#D1FFDB",
+    "name": "7478",
+    "source": "商",
+    "en": "7478"
+  },
+  {
+    "hex": "#73FF80",
+    "name": "7479",
+    "source": "商",
+    "en": "7479"
+  },
+  {
+    "hex": "#66FF80",
+    "name": "7480",
+    "source": "商",
+    "en": "7480"
+  },
+  {
+    "hex": "#66FF73",
+    "name": "7481",
+    "source": "商",
+    "en": "7481"
+  },
+  {
+    "hex": "#33FF40",
+    "name": "7482",
+    "source": "商",
+    "en": "7482"
+  },
+  {
+    "hex": "#117300",
+    "name": "7483",
+    "source": "商",
+    "en": "7483"
+  },
+  {
+    "hex": "#008013",
+    "name": "7484",
+    "source": "商",
+    "en": "7484"
+  },
+  {
+    "hex": "#F0FFE6",
+    "name": "7485",
+    "source": "商",
+    "en": "7485"
+  },
+  {
+    "hex": "#CCFFB3",
+    "name": "7486",
+    "source": "商",
+    "en": "7486"
+  },
+  {
+    "hex": "#B3FF8C",
+    "name": "7487",
+    "source": "商",
+    "en": "7487"
+  },
+  {
+    "hex": "#91FF66",
+    "name": "7488",
+    "source": "商",
+    "en": "7488"
+  },
+  {
+    "hex": "#5FED2F",
+    "name": "7489",
+    "source": "商",
+    "en": "7489"
+  },
+  {
+    "hex": "#5BA621",
+    "name": "7490",
+    "source": "商",
+    "en": "7490"
+  },
+  {
+    "hex": "#689900",
+    "name": "7491",
+    "source": "商",
+    "en": "7491"
+  },
+  {
+    "hex": "#D1ED77",
+    "name": "7492",
+    "source": "商",
+    "en": "7492"
+  },
+  {
+    "hex": "#C5E693",
+    "name": "7493",
+    "source": "商",
+    "en": "7493"
+  },
+  {
+    "hex": "#A3D982",
+    "name": "7494",
+    "source": "商",
+    "en": "7494"
+  },
+  {
+    "hex": "#86B324",
+    "name": "7495",
+    "source": "商",
+    "en": "7495"
+  },
+  {
+    "hex": "#5F9E00",
+    "name": "7496",
+    "source": "商",
+    "en": "7496"
+  },
+  {
+    "hex": "#738639",
+    "name": "7497",
+    "source": "商",
+    "en": "7497"
+  },
+  {
+    "hex": "#263300",
+    "name": "7498",
+    "source": "商",
+    "en": "7498"
+  },
+  {
+    "hex": "#FFFAD9",
+    "name": "7499",
+    "source": "商",
+    "en": "7499"
+  },
+  {
+    "hex": "#F7F2D2",
+    "name": "7500",
+    "source": "商",
+    "en": "7500"
+  },
+  {
+    "hex": "#F0E6C0",
+    "name": "7501",
+    "source": "商",
+    "en": "7501"
+  },
+  {
+    "hex": "#E6D395",
+    "name": "7502",
+    "source": "商",
+    "en": "7502"
+  },
+  {
+    "hex": "#BFA87C",
+    "name": "7503",
+    "source": "商",
+    "en": "7503"
+  },
+  {
+    "hex": "#997354",
+    "name": "7504",
+    "source": "商",
+    "en": "7504"
+  },
+  {
+    "hex": "#735022",
+    "name": "7505",
+    "source": "商",
+    "en": "7505"
+  },
+  {
+    "hex": "#FFF2D9",
+    "name": "7506",
+    "source": "商",
+    "en": "7506"
+  },
+  {
+    "hex": "#FFE6B3",
+    "name": "7507",
+    "source": "商",
+    "en": "7507"
+  },
+  {
+    "hex": "#F5D093",
+    "name": "7508",
+    "source": "商",
+    "en": "7508"
+  },
+  {
+    "hex": "#F2C279",
+    "name": "7509",
+    "source": "商",
+    "en": "7509"
+  },
+  {
+    "hex": "#E39F40",
+    "name": "7510",
+    "source": "商",
+    "en": "7510"
+  },
+  {
+    "hex": "#BF6900",
+    "name": "7511",
+    "source": "商",
+    "en": "7511"
+  },
+  {
+    "hex": "#AB5C00",
+    "name": "7512",
+    "source": "商",
+    "en": "7512"
+  },
+  {
+    "hex": "#F7CBB2",
+    "name": "7513",
+    "source": "商",
+    "en": "7513"
+  },
+  {
+    "hex": "#F2B896",
+    "name": "7514",
+    "source": "商",
+    "en": "7514"
+  },
+  {
+    "hex": "#E09270",
+    "name": "7515",
+    "source": "商",
+    "en": "7515"
+  },
+  {
+    "hex": "#A65000",
+    "name": "7516",
+    "source": "商",
+    "en": "7516"
+  },
+  {
+    "hex": "#8F3900",
+    "name": "7517",
+    "source": "商",
+    "en": "7517"
+  },
+  {
+    "hex": "#663D2E",
+    "name": "7518",
+    "source": "商",
+    "en": "7518"
+  },
+  {
+    "hex": "#423500",
+    "name": "7519",
+    "source": "商",
+    "en": "7519"
+  },
+  {
+    "hex": "#FFD6CF",
+    "name": "7520",
+    "source": "商",
+    "en": "7520"
+  },
+  {
+    "hex": "#E6ACB8",
+    "name": "7521",
+    "source": "商",
+    "en": "7521"
+  },
+  {
+    "hex": "#D68196",
+    "name": "7522",
+    "source": "商",
+    "en": "7522"
+  },
+  {
+    "hex": "#CC7A85",
+    "name": "7523",
+    "source": "商",
+    "en": "7523"
+  },
+  {
+    "hex": "#BA544A",
+    "name": "7524",
+    "source": "商",
+    "en": "7524"
+  },
+  {
+    "hex": "#B36259",
+    "name": "7525",
+    "source": "商",
+    "en": "7525"
+  },
+  {
+    "hex": "#A63A00",
+    "name": "7526",
+    "source": "商",
+    "en": "7526"
+  },
+  {
+    "hex": "#EDE8DF",
+    "name": "7527",
+    "source": "商",
+    "en": "7527"
+  },
+  {
+    "hex": "#E6DFCF",
+    "name": "7528",
+    "source": "商",
+    "en": "7528"
+  },
+  {
+    "hex": "#D4CBBA",
+    "name": "7529",
+    "source": "商",
+    "en": "7529"
+  },
+  {
+    "hex": "#ADA089",
+    "name": "7530",
+    "source": "商",
+    "en": "7530"
+  },
+  {
+    "hex": "#80735D",
+    "name": "7531",
+    "source": "商",
+    "en": "7531"
+  },
+  {
+    "hex": "#594A2D",
+    "name": "7532",
+    "source": "商",
+    "en": "7532"
+  },
+  {
+    "hex": "#261E06",
+    "name": "7533",
+    "source": "商",
+    "en": "7533"
+  },
+  {
+    "hex": "#E6E1D3",
+    "name": "7534",
+    "source": "商",
+    "en": "7534"
+  },
+  {
+    "hex": "#CCC6AD",
+    "name": "7535",
+    "source": "商",
+    "en": "7535"
+  },
+  {
+    "hex": "#ADA687",
+    "name": "7536",
+    "source": "商",
+    "en": "7536"
+  },
+  {
+    "hex": "#C6CCB8",
+    "name": "7537",
+    "source": "商",
+    "en": "7537"
+  },
+  {
+    "hex": "#A2B39B",
+    "name": "7538",
+    "source": "商",
+    "en": "7538"
+  },
+  {
+    "hex": "#A0A395",
+    "name": "7539",
+    "source": "商",
+    "en": "7539"
+  },
+  {
+    "hex": "#474747",
+    "name": "7540",
+    "source": "商",
+    "en": "7540"
+  },
+  {
+    "hex": "#EDF2F2",
+    "name": "7541",
+    "source": "商",
+    "en": "7541"
+  },
+  {
+    "hex": "#C1D6D0",
+    "name": "7542",
+    "source": "商",
+    "en": "7542"
+  },
+  {
+    "hex": "#A6B3B3",
+    "name": "7543",
+    "source": "商",
+    "en": "7543"
+  },
+  {
+    "hex": "#8A9799",
+    "name": "7544",
+    "source": "商",
+    "en": "7544"
+  },
+  {
+    "hex": "#495C5E",
+    "name": "7545",
+    "source": "商",
+    "en": "7545"
+  },
+  {
+    "hex": "#304547",
+    "name": "7546",
+    "source": "商",
+    "en": "7546"
+  },
+  {
+    "hex": "#0A0F0F",
+    "name": "7547",
+    "source": "商",
+    "en": "7547"
+  },
+  {
+    "hex": "#050403",
+    "name": "Black",
+    "source": "商",
+    "en": "Black"
+  },
+  {
+    "hex": "#FCD605",
+    "name": "Yellow 2X",
+    "source": "商",
+    "en": "Yellow 2X"
+  },
+  {
+    "hex": "#FF9105",
+    "name": "116 2X",
+    "source": "商",
+    "en": "116 2X"
+  },
+  {
+    "hex": "#FF6B08",
+    "name": "130 2X",
+    "source": "商",
+    "en": "130 2X"
+  },
+  {
+    "hex": "#FF080A",
+    "name": "165 2X",
+    "source": "商",
+    "en": "165 2X"
+  },
+  {
+    "hex": "#FF030D",
+    "name": "Warm Red 2X",
+    "source": "商",
+    "en": "Warm Red 2X"
+  },
+  {
+    "hex": "#FC000A",
+    "name": "1788 2X",
+    "source": "商",
+    "en": "1788 2X"
+  },
+  {
+    "hex": "#FC000A",
+    "name": "185 2X",
+    "source": "商",
+    "en": "185 2X"
+  },
+  {
+    "hex": "#FC000A",
+    "name": "485 2X",
+    "source": "商",
+    "en": "485 2X"
+  },
+  {
+    "hex": "#F500D0",
+    "name": "Rubine Red 2X",
+    "source": "商",
+    "en": "Rubine Red 2X"
+  },
+  {
+    "hex": "#F71CFF",
+    "name": "Rhodamine Red 2X",
+    "source": "商",
+    "en": "Rhodamine Red 2X"
+  },
+  {
+    "hex": "#E800A1",
+    "name": "239 2X",
+    "source": "商",
+    "en": "239 2X"
+  },
+  {
+    "hex": "#B300E8",
+    "name": "Purple 2X",
+    "source": "商",
+    "en": "Purple 2X"
+  },
+  {
+    "hex": "#3005FF",
+    "name": "2592 2X",
+    "source": "商",
+    "en": "2592 2X"
+  },
+  {
+    "hex": "#0000FC",
+    "name": "Violet 2X",
+    "source": "商",
+    "en": "Violet 2X"
+  },
+  {
+    "hex": "#0303FC",
+    "name": "Reflex Blue 2X",
+    "source": "商",
+    "en": "Reflex Blue 2X"
+  },
+  {
+    "hex": "#0096FF",
+    "name": "Process Blue 2X",
+    "source": "商",
+    "en": "Process Blue 2X"
+  },
+  {
+    "hex": "#03BFFF",
+    "name": "299 2X",
+    "source": "商",
+    "en": "299 2X"
+  },
+  {
+    "hex": "#0DFCF2",
+    "name": "306 2X",
+    "source": "商",
+    "en": "306 2X"
+  },
+  {
+    "hex": "#00CCBF",
+    "name": "320 2X",
+    "source": "商",
+    "en": "320 2X"
+  },
+  {
+    "hex": "#02A80A",
+    "name": "327 2X",
+    "source": "商",
+    "en": "327 2X"
+  },
+  {
+    "hex": "#00FC1C",
+    "name": "Green 2X",
+    "source": "商",
+    "en": "Green 2X"
+  },
+  {
+    "hex": "#05FF05",
+    "name": "354 2X",
+    "source": "商",
+    "en": "354 2X"
+  },
+  {
+    "hex": "#1CFC03",
+    "name": "368 2X",
+    "source": "商",
+    "en": "368 2X"
+  },
+  {
+    "hex": "#38FF00",
+    "name": "375 2X",
+    "source": "商",
+    "en": "375 2X"
+  },
+  {
+    "hex": "#9CFC03",
+    "name": "382 2X",
+    "source": "商",
+    "en": "382 2X"
+  },
+  {
+    "hex": "#CC1F05",
+    "name": "471 2X",
+    "source": "商",
+    "en": "471 2X"
+  },
+  {
+    "hex": "#803007",
+    "name": "464 2X",
+    "source": "商",
+    "en": "464 2X"
+  },
+  {
+    "hex": "#0C1518",
+    "name": "433 2X",
+    "source": "商",
+    "en": "433 2X"
+  },
+  {
+    "hex": "#000000",
+    "name": "Black 2",
+    "source": "商",
+    "en": "Black 2"
+  },
+  {
+    "hex": "#000000",
+    "name": "Black 3",
+    "source": "商",
+    "en": "Black 3"
+  },
+  {
+    "hex": "#000000",
+    "name": "Black 4",
+    "source": "商",
+    "en": "Black 4"
+  },
+  {
+    "hex": "#000000",
+    "name": "Black 5",
+    "source": "商",
+    "en": "Black 5"
+  },
+  {
+    "hex": "#000000",
+    "name": "Black 6",
+    "source": "商",
+    "en": "Black 6"
+  },
+  {
+    "hex": "#21211E",
+    "name": "Black 7",
+    "source": "商",
+    "en": "Black 7"
+  },
+  {
+    "hex": "#0D1617",
+    "name": "Black 2 2X",
+    "source": "商",
+    "en": "Black 2 2X"
+  },
+  {
+    "hex": "#0E1619",
+    "name": "Black 3 2X",
+    "source": "商",
+    "en": "Black 3 2X"
+  },
+  {
+    "hex": "#0E1616",
+    "name": "Black 4 2X",
+    "source": "商",
+    "en": "Black 4 2X"
+  },
+  {
+    "hex": "#0F1318",
+    "name": "Black 5 2X",
+    "source": "商",
+    "en": "Black 5 2X"
+  },
+  {
+    "hex": "#0B1416",
+    "name": "Black 6 2X",
+    "source": "商",
+    "en": "Black 6 2X"
+  },
+  {
+    "hex": "#253230",
+    "name": "Black 7 2X",
+    "source": "商",
+    "en": "Black 7 2X"
+  },
+  {
+    "hex": "#17FFE3",
+    "name": "801",
+    "source": "商",
+    "en": "801"
+  },
+  {
+    "hex": "#6BFF05",
+    "name": "802",
+    "source": "商",
+    "en": "802"
+  },
+  {
+    "hex": "#FCE81F",
+    "name": "803",
+    "source": "商",
+    "en": "803"
+  },
+  {
+    "hex": "#FF5914",
+    "name": "804",
+    "source": "商",
+    "en": "804"
+  },
+  {
+    "hex": "#FF2138",
+    "name": "805",
+    "source": "商",
+    "en": "805"
+  },
+  {
+    "hex": "#FA0F96",
+    "name": "806",
+    "source": "商",
+    "en": "806"
+  },
+  {
+    "hex": "#E60AEB",
+    "name": "807",
+    "source": "商",
+    "en": "807"
+  },
+  {
+    "hex": "#03E0F5",
+    "name": "801 2X",
+    "source": "商",
+    "en": "801 2X"
+  },
+  {
+    "hex": "#40FF03",
+    "name": "802 2X",
+    "source": "商",
+    "en": "802 2X"
+  },
+  {
+    "hex": "#FFC408",
+    "name": "803 2X",
+    "source": "商",
+    "en": "803 2X"
+  },
+  {
+    "hex": "#FF360A",
+    "name": "804 2X",
+    "source": "商",
+    "en": "804 2X"
+  },
+  {
+    "hex": "#FF0F14",
+    "name": "805 2X",
+    "source": "商",
+    "en": "805 2X"
+  },
+  {
+    "hex": "#FC087A",
+    "name": "806 2X",
+    "source": "商",
+    "en": "806 2X"
+  },
+  {
+    "hex": "#DB03F7",
+    "name": "807 2X",
+    "source": "商",
+    "en": "807 2X"
+  },
+  {
+    "hex": "#26FF7A",
+    "name": "808",
+    "source": "商",
+    "en": "808"
+  },
+  {
+    "hex": "#E8F70F",
+    "name": "809",
+    "source": "商",
+    "en": "809"
+  },
+  {
+    "hex": "#FFAD0F",
+    "name": "810",
+    "source": "商",
+    "en": "810"
+  },
+  {
+    "hex": "#FF2E14",
+    "name": "811",
+    "source": "商",
+    "en": "811"
+  },
+  {
+    "hex": "#FF0F73",
+    "name": "812",
+    "source": "商",
+    "en": "812"
+  },
+  {
+    "hex": "#EB0DC9",
+    "name": "813",
+    "source": "商",
+    "en": "813"
+  },
+  {
+    "hex": "#4069FF",
+    "name": "814",
+    "source": "商",
+    "en": "814"
+  },
+  {
+    "hex": "#0AFF47",
+    "name": "808 2X",
+    "source": "商",
+    "en": "808 2X"
+  },
+  {
+    "hex": "#E6ED08",
+    "name": "809 2X",
+    "source": "商",
+    "en": "809 2X"
+  },
+  {
+    "hex": "#FF940D",
+    "name": "810 2X",
+    "source": "商",
+    "en": "810 2X"
+  },
+  {
+    "hex": "#FF1A0A",
+    "name": "811 2X",
+    "source": "商",
+    "en": "811 2X"
+  },
+  {
+    "hex": "#FF083B",
+    "name": "812 2X",
+    "source": "商",
+    "en": "812 2X"
+  },
+  {
+    "hex": "#ED05CC",
+    "name": "813 2X",
+    "source": "商",
+    "en": "813 2X"
+  },
+  {
+    "hex": "#3047FF",
+    "name": "814 2X",
+    "source": "商",
+    "en": "814 2X"
+  }
+]
