@@ -460,5 +460,6 @@
   "gallery.pathsCopied": "{n}개의 파일 경로를 복사함",
   "gallery.filesCopied": "{n}개의 파일을 복사함",
   "gallery.noPasteFiles": "클립보드에 지원되는 파일이 없습니다",
-  "context.saveAsToFolder": "폴더에 저장"
+  "context.saveAsToFolder": "폴더에 저장",
+  "steam.buyOnSteam": "Steam에서 Picrand 구매"
 }

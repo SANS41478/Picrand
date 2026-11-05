@@ -461,5 +461,6 @@
   "gallery.pathsCopied": "已复制 {n} 个文件路径",
   "gallery.filesCopied": "已复制 {n} 个文件",
   "gallery.noPasteFiles": "剪贴板中没有支持的文件",
-  "context.saveAsToFolder": "另存至文件夹"
+  "context.saveAsToFolder": "另存至文件夹",
+  "steam.buyOnSteam": "在 Steam 上购买 Picrand"
 }

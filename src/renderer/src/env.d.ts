@@ -211,6 +211,20 @@ interface PicrandAPI {
   copyFilesToClipboard?: (filePaths: string[]) => Promise<boolean>
   readClipboardFiles?: () => Promise<string[]>
   syncFolderSnapshot?: (folderPath: string) => Promise<{ ok: boolean; added?: number; removed?: number }>
+  getSteamStatus?: () => Promise<SteamLicenseStatus>
+  openSteamStore?: () => Promise<boolean>
+}
+
+interface SteamLicenseStatus {
+  checked: boolean
+  genuine: boolean
+  available: boolean
+  owned: boolean
+  familyShared: boolean
+  freeWeekend: boolean
+  steamId?: string
+  persona?: string
+  error?: string
 }
 
 interface ImageMetadata {

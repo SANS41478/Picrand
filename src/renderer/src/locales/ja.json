@@ -461,5 +461,6 @@
   "gallery.pathsCopied": "{n}個のファイルパスをコピーしました",
   "gallery.filesCopied": "{n}個のファイルをコピーしました",
   "gallery.noPasteFiles": "クリップボードに対応ファイルがありません",
-  "context.saveAsToFolder": "フォルダに保存"
+  "context.saveAsToFolder": "フォルダに保存",
+  "steam.buyOnSteam": "Steam で Picrand を購入"
 }

@@ -26,6 +26,9 @@ files:
   - "!node_modules/@xenova/transformers/node_modules/onnxruntime-node/bin/napi-v3/win32/arm64"
   # 排除 transformers.js 的浏览器 WASM 后端（4 个 ~38MB，Electron 主进程走原生 onnxruntime）
   - "!node_modules/@xenova/transformers/dist/ort-wasm*.wasm"
+  # steamworks.js 仅需 Windows x64 原生库
+  - "!node_modules/steamworks.js/dist/linux64"
+  - "!node_modules/steamworks.js/dist/osx"
 asar: false
 compression: store
 electronLanguages:
@@ -61,6 +64,10 @@ extraResources:
       - THIRD_PARTY.txt
   - from: LICENSE
     to: ../LICENSE
+# steamworks.js 原生模块从 exe 目录加载 steam_api64.dll
+extraFiles:
+  - from: node_modules/steamworks.js/dist/win64/steam_api64.dll
+    to: steam_api64.dll
 win:
   icon: resources/icon.png
   target:

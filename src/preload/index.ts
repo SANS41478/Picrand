@@ -200,6 +200,8 @@ const api = {
   installShellMenu: () => ipcRenderer.invoke('install-shell-menu'),
   uninstallShellMenu: () => ipcRenderer.invoke('uninstall-shell-menu'),
   shellMenuStatus: () => ipcRenderer.invoke('shell-menu-status'),
+  getSteamStatus: () => ipcRenderer.invoke('steam-status'),
+  openSteamStore: () => ipcRenderer.invoke('open-steam-store'),
 }
 
 contextBridge.exposeInMainWorld('picrand', api)

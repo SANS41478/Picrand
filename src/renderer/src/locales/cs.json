@@ -460,5 +460,6 @@
   "gallery.pathsCopied": "Zkopírováno {n} cest k souborům",
   "gallery.filesCopied": "Zkopírováno {n} souborů",
   "gallery.noPasteFiles": "Ve schránce nejsou žádné podporované soubory",
-  "context.saveAsToFolder": "Uložit do složky"
+  "context.saveAsToFolder": "Uložit do složky",
+  "steam.buyOnSteam": "Koupit Picrand na Steamu"
 }

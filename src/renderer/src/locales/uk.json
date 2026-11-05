@@ -460,5 +460,6 @@
   "gallery.pathsCopied": "Скопійовано {n} шляхів до файлів",
   "gallery.filesCopied": "Скопійовано {n} файлів",
   "gallery.noPasteFiles": "Немає підтримуваних файлів у буфері обміну",
-  "context.saveAsToFolder": "Зберегти в папку"
+  "context.saveAsToFolder": "Зберегти в папку",
+  "steam.buyOnSteam": "Купити Picrand у Steam"
 }

@@ -460,5 +460,6 @@
   "gallery.pathsCopied": "{n} dosya yolu kopyalandı",
   "gallery.filesCopied": "{n} dosya kopyalandı",
   "gallery.noPasteFiles": "Panoda desteklenen dosya yok",
-  "context.saveAsToFolder": "Klasöre kaydet"
+  "context.saveAsToFolder": "Klasöre kaydet",
+  "steam.buyOnSteam": "Picrand'ı Steam'de satın al"
 }

@@ -460,5 +460,6 @@
   "gallery.pathsCopied": "{n} rutas de archivo copiadas",
   "gallery.filesCopied": "{n} archivos copiados",
   "gallery.noPasteFiles": "No hay archivos compatibles en el portapapeles",
-  "context.saveAsToFolder": "Guardar en carpeta"
+  "context.saveAsToFolder": "Guardar en carpeta",
+  "steam.buyOnSteam": "Comprar Picrand en Steam"
 }

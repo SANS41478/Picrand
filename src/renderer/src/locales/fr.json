@@ -460,5 +460,6 @@
   "gallery.pathsCopied": "{n} chemins de fichiers copiés",
   "gallery.filesCopied": "{n} fichiers copiés",
   "gallery.noPasteFiles": "Aucun fichier supporté dans le presse-papiers",
-  "context.saveAsToFolder": "Enregistrer dans le dossier"
+  "context.saveAsToFolder": "Enregistrer dans le dossier",
+  "steam.buyOnSteam": "Acheter Picrand sur Steam"
 }

@@ -2280,11 +2280,11 @@ onUnmounted(() => {
 
 .progress-bar-wrap {
   position: absolute; bottom: 0; left: 0; right: 0;
-  height: 3px; background: rgba(255, 255, 255, 0.05);
+  height: 3px; background: var(--progress-track);
 }
 .progress-bar {
   height: 100%;
-  background: rgba(255, 255, 255, 0.3);
+  background: var(--progress-fill);
   transition: width 0.3s ease;
 }
 

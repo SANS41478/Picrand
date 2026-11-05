@@ -373,6 +373,8 @@ onUnmounted(() => {
   --bg-input: rgba(255, 255, 255, 0.06);
   --bg-input-solid: #333;
   --bg-hover: rgba(255, 255, 255, 0.08);
+  --progress-track: rgba(255, 255, 255, 0.10);
+  --progress-fill: rgba(255, 255, 255, 0.55);
   --bg-toast: rgba(30, 30, 46, 0.95);
   --text-primary: rgba(255, 255, 255, 0.85);
   --text-secondary: #bbb;
@@ -398,6 +400,8 @@ onUnmounted(() => {
   --bg-input: rgba(0, 0, 0, 0.04);
   --bg-input-solid: #efe9e0;
   --bg-hover: rgba(0, 0, 0, 0.05);
+  --progress-track: rgba(0, 0, 0, 0.08);
+  --progress-fill: rgba(0, 0, 0, 0.50);
   --bg-toast: rgba(250, 247, 242, 0.95);
   --text-primary: rgba(0, 0, 0, 0.8);
   --text-secondary: #555;
@@ -423,6 +427,8 @@ onUnmounted(() => {
   --bg-input: rgba(255, 255, 255, 0.1);
   --bg-input-solid: rgba(44, 44, 48, 0.7);
   --bg-hover: rgba(255, 255, 255, 0.12);
+  --progress-track: rgba(255, 255, 255, 0.14);
+  --progress-fill: rgba(255, 255, 255, 0.60);
   --bg-toast: rgba(24, 24, 30, 0.8);
   --text-primary: rgba(255, 255, 255, 0.9);
   --text-secondary: #ccc;
@@ -449,6 +455,8 @@ onUnmounted(() => {
   --bg-input: rgba(0, 0, 0, 0.06);
   --bg-input-solid: rgba(255, 255, 255, 0.75);
   --bg-hover: rgba(0, 0, 0, 0.08);
+  --progress-track: rgba(0, 0, 0, 0.10);
+  --progress-fill: rgba(0, 0, 0, 0.50);
   --bg-toast: rgba(250, 250, 252, 0.88);
   --text-primary: rgba(0, 0, 0, 0.82);
   --text-secondary: #444;

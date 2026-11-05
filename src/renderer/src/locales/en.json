@@ -461,5 +461,6 @@
   "gallery.pathsCopied": "Copied {n} file paths",
   "gallery.filesCopied": "Copied {n} files",
   "gallery.noPasteFiles": "No supported files in clipboard",
-  "context.saveAsToFolder": "Save to folder"
+  "context.saveAsToFolder": "Save to folder",
+  "steam.buyOnSteam": "Buy Picrand on Steam"
 }

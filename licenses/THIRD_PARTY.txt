@@ -5,7 +5,7 @@
   under node_modules/<package>/LICENSE.
 ========================================================================
 
-Total packages: 504
+Total packages: 505
 
   @babel/code-frame@7.29.0    [MIT]
     author: The Babel Team (https://babel.dev/team)
@@ -1755,6 +1755,9 @@ Total packages: 504
   stat-mode@1.0.0    [MIT]
     author: Nathan Rajlich <nathan@tootallnate.net> (http://n8.io/)
     source: https://github.com/TooTallNate/stat-mode
+
+  steamworks.js@0.4.0    [MIT]
+    source: https://github.com/ceifa/steamworks.js
 
   streamx@2.28.0    [MIT]
     author: Mathias Buus (@mafintosh)

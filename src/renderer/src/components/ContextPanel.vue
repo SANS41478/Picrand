@@ -1353,9 +1353,9 @@ async function executeDelete() {
 .panel-footer {
   flex-shrink: 0; margin-top: auto; padding-top: 10px; border-top: 1px solid var(--border-color);
 }
-.scroll-progress-track { height: 4px; border-radius: 2px; background: var(--bg-hover); overflow: hidden; margin-bottom: 6px; }
+.scroll-progress-track { height: 4px; border-radius: 2px; background: var(--progress-track); overflow: hidden; margin-bottom: 6px; }
 .track-jumpable { cursor: pointer; }
-.scroll-progress-bar { height: 100%; border-radius: 2px; background: var(--btn-primary-bg); transition: width 0.15s; }
+.scroll-progress-bar { height: 100%; border-radius: 2px; background: var(--progress-fill); transition: width 0.15s; }
 .stats-text { font-size: 12px; color: var(--text-muted); text-align: center; display: flex; align-items: center; justify-content: center; gap: 4px; white-space: nowrap; overflow: hidden; }
 .stats-input { width: 40px; padding: 0 2px; font-size: 11px; color: var(--text-muted); border: 1px solid var(--text-muted); border-radius: 4px; background: transparent; text-align: center; margin: 0 2px; flex: 0 0 auto; }
 .stats-input::-webkit-inner-spin-button { -webkit-appearance: none; margin: 0; }

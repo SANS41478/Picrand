@@ -47,6 +47,11 @@
       <button class="tb-btn" @click="showSettings">&#x2699; {{ t('settings.title') }}</button>
     </div>
     <div class="top-right">
+      <button v-if="steamStatus && !steamStatus.genuine" class="steam-btn" :title="t('steam.buyOnSteam')" @click="openSteamStore">
+        <svg width="17" height="17" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+          <path d="M11.979 0C5.678 0 .511 4.86 .022 11.037l6.432 2.658c.545-.371 1.203-.59 1.912-.59.063 0 .125.004.188.006l2.861-4.142V8.91c0-2.495 2.028-4.524 4.524-4.524 2.494 0 4.524 2.031 4.524 4.527s-2.03 4.525-4.524 4.525h-.105l-4.076 2.911c0 .052.004.105.004.159 0 1.875-1.515 3.396-3.39 3.396-1.635 0-3.016-1.173-3.331-2.727L.436 15.27C1.862 20.307 6.486 24 11.979 24c6.627 0 11.999-5.373 11.999-12S18.605 0 11.979 0zM7.54 18.21l-1.473-.61c.262.543.714.999 1.314 1.25 1.297.539 2.793-.076 3.332-1.375.263-.63.264-1.319.005-1.949s-.75-1.121-1.377-1.383c-.624-.26-1.29-.249-1.878-.03l1.523.63c.956.4 1.409 1.5 1.009 2.455-.397.957-1.497 1.41-2.454 1.012H7.54zm11.415-9.303c0-1.662-1.353-3.015-3.015-3.015-1.665 0-3.015 1.353-3.015 3.015 0 1.665 1.35 3.015 3.015 3.015 1.663 0 3.015-1.35 3.015-3.015zm-5.273-.005c0-1.252 1.013-2.266 2.265-2.266 1.249 0 2.266 1.014 2.266 2.266 0 1.251-1.017 2.265-2.266 2.265-1.253 0-2.265-1.014-2.265-2.265z"/>
+        </svg>
+      </button>
       <button class="win-btn pin-btn" :class="{ active: isPinned }" @click="togglePin" :title="isPinned ? t('window.alwaysOnTopOff') : t('window.alwaysOnTop')">
         <svg width="21" height="21" viewBox="0 0 1024 1024" aria-hidden="true">
           <path d="M665.5 256l-76.8 76.8v122.9a153.6 153.6 0 0 1 76.8 133h-128v153.6l-25.6 25.6-25.6-25.6V588.7h-128a153.47 153.47 0 0 1 76.8-133V332.8L358.3 256" fill="none" stroke="currentColor" stroke-width="46" stroke-linecap="round" stroke-linejoin="round"/>
@@ -82,6 +87,7 @@ const { t } = useI18n()
 const toast = ref('')
 const shuffleSpin = ref(false)
 const isPinned = ref(false)
+const steamStatus = ref<SteamLicenseStatus | null>(null)
 let toastTimer: ReturnType<typeof setTimeout> | null = null
 
 const showSortMenu = ref(false)
@@ -131,6 +137,9 @@ watch(() => gallery.sortMode, (m) => {
 const hueOrigin = ref(0)
 const showHuePicker = ref(false)
 const colorIndexedCount = ref(0) // 当前文件夹已建色彩索引的图片数
+
+// 分页/加载状态：必须在下方 watch(() => _folderId) 之前声明，避免 TDZ
+let _folderId = 0, _folderIds: number[] = [], _total = 0, _loaded = 0, _loadingPage = false, _hasMore = true
 
 async function refreshColorIndexedCount() {
   try {
@@ -415,6 +424,7 @@ const folderBtnLabel = computed(() => {
 onMounted(async () => {
   document.addEventListener('click', closeSortMenu)
   isPinned.value = await window.picrand.windowIsAlwaysOnTop?.() || false
+  try { steamStatus.value = await window.picrand.getSteamStatus?.() || null } catch { steamStatus.value = null }
 })
 onUnmounted(() => {
   document.removeEventListener('click', closeSortMenu)
@@ -743,7 +753,6 @@ async function loadFolderByPathImmediate(folderPath: string) {
 }
 
 // Fix 1: GalleryCanvas 滚动到底时主动调用
-let _folderId = 0, _folderIds: number[] = [], _total = 0, _loaded = 0, _loadingPage = false, _hasMore = true
 let _loadSeq = 0 // 加载世代计数器，每次切换文件夹/排序时递增，异步流程中比对防竞态
 let _searchQuery = ''
 // 多文件夹模式的路径缓存（格式筛选变更后按原路径重载用）
@@ -1664,6 +1673,10 @@ async function viewFavorites() {
   }
 }
 
+async function openSteamStore() {
+  try { await window.picrand.openSteamStore?.() } catch {}
+}
+
 function wMin()  { window.picrand.windowMinimize() }
 function wMax()  { window.picrand.windowMaximize() }
 function wClose(){ window.picrand.windowClose() }
@@ -1706,6 +1719,22 @@ function showSettings() {
 }
 .app-name:hover { opacity: 0.7; }
 .app-logo { display: block; }
+
+.steam-btn {
+  width: 30px; height: 30px;
+  border: 1px solid var(--border-color);
+  border-radius: 50%;
+  background: var(--bg-input);
+  color: var(--text-secondary);
+  cursor: pointer; padding: 0;
+  display: flex; align-items: center; justify-content: center;
+  transition: background 0.15s, color 0.15s, border-color 0.15s;
+}
+.steam-btn:hover {
+  background: var(--bg-hover);
+  color: #66c0f4;
+  border-color: rgba(102, 192, 244, 0.45);
+}
 
 .sort-controls {
   display: flex; align-items: center; gap: 6px;

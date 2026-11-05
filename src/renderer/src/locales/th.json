@@ -460,5 +460,6 @@
   "gallery.pathsCopied": "คัดลอกเส้นทางไฟล์ {n} รายการ",
   "gallery.filesCopied": "คัดลอก {n} ไฟล์",
   "gallery.noPasteFiles": "ไม่มีไฟล์ที่รองรับในคลิปบอร์ด",
-  "context.saveAsToFolder": "บันทึกไปยังโฟลเดอร์"
+  "context.saveAsToFolder": "บันทึกไปยังโฟลเดอร์",
+  "steam.buyOnSteam": "ซื้อ Picrand บน Steam"
 }

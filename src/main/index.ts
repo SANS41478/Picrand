@@ -6,6 +6,7 @@ import { existsSync, mkdirSync, writeFileSync, readFileSync, readdirSync, create
 import crypto from 'crypto'
 import { createHash, randomUUID } from 'crypto'
 import os from 'os'
+import { initSteamStatus, getSteamStatus, openSteamStore } from './steam'
 
 // 全局崩溃守护：捕获 JS 层未处理异常/rejection 写入 crash-guard.log。
 // native segfault 捕获不到（进程直接被 OS 终止），但能排除 JS 层错误、留下崩溃前最后线索。
@@ -1096,6 +1097,12 @@ function createWindow() {
 }
 
 ipcMain.handle('get-paths', () => ({ dataDir, cacheDir, configPath, newFoldersDir }))
+
+ipcMain.handle('steam-status', async () => {
+  await initSteamStatus()
+  return getSteamStatus()
+})
+ipcMain.handle('open-steam-store', () => openSteamStore())
 
 ipcMain.handle('set-new-folders-dir', async () => {
   const result = await dialog.showOpenDialog(mainWindow!, { properties: ['openDirectory', 'createDirectory'] })
@@ -4319,6 +4326,8 @@ app.whenReady().then(async () => {
   registerPicRandProtocol();
   createWindow();
   createTray();
+  // 启动时异步查询 Steam 授权状态；失败不阻塞窗口，界面据此决定是否显示购买入口
+  void initSteamStatus();
   try {
     (await import("sharp")).default.cache({ memory: 10, files: 0, items: 5 });
   } catch {

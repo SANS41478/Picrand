@@ -460,5 +460,6 @@
   "gallery.pathsCopied": "{n} Dateipfade kopiert",
   "gallery.filesCopied": "{n} Dateien kopiert",
   "gallery.noPasteFiles": "Keine unterstützten Dateien in der Zwischenablage",
-  "context.saveAsToFolder": "In Ordner speichern"
+  "context.saveAsToFolder": "In Ordner speichern",
+  "steam.buyOnSteam": "Picrand auf Steam kaufen"
 }

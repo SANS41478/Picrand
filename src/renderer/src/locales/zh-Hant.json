@@ -460,5 +460,6 @@
   "gallery.pathsCopied": "已複製 {n} 個檔案路徑",
   "gallery.filesCopied": "已複製 {n} 個檔案",
   "gallery.noPasteFiles": "剪貼簿中沒有支援的檔案",
-  "context.saveAsToFolder": "另存至資料夾"
+  "context.saveAsToFolder": "另存至資料夾",
+  "steam.buyOnSteam": "在 Steam 上購買 Picrand"
 }
